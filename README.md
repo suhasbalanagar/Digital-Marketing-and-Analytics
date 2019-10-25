@@ -1,11 +1,13 @@
 # Digital-Marketing-and-Analytics
 
 ## Song Recommendation System
-Digital Marketing Analytics TEAM 9 Spotify Song Recommendation System
+Digital Marketing Analytics Song Recommendation System
 
 UI Link - http://ec2-54-196-64-144.compute-1.amazonaws.com/
 
 CLAAT Project - https://docs.google.com/document/d/1t_EkJIFSBQlHm1ktUaSCpVSKmH_sivNKZHcIb8kIxRE/edit?ts=5d573e98
+Machine Learning Python VS Azure Machine Learning Services - 
+https://docs.google.com/document/d/1RM4dFfc4UPWzJ5AMfWpKRkYAqgwKy7fbO-Sj-3cIznQ/edit?usp=sharing
 
 COLAB links -
 
