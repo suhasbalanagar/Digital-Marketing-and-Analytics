@@ -1,0 +1,7 @@
+Competitior,Monthly fee for premium,Free option,Free trial period,Music library size,Maximum bitrate,Family sharing,Student discount,Student discount amount,US military discount,Offline listening,Radio stations,Podcasts,Music videos,Music locker functionality,Flac Provided,Revenue per year
+Amazon Music Unlimited,9.99,TRUE,30,50,256,14.99,FALSE,9.99,FALSE,Mobile and desktop,TRUE,FALSE,FALSE,FALSE,FALSE,50
+Apple Music,9.99,FALSE,90,50,256,14.99,TRUE,5.99,FALSE,Mobile only,TRUE,FALSE,TRUE,TRUE,FALSE,70
+Google Play Music,9.99,TRUE,30,40,320,15.99,FALSE,9.99,FALSE,Mobile only,TRUE,TRUE,FALSE,TRUE,FALSE,60
+Pandora,9.99,TRUE,60,100,192,14.99,TRUE,4.99,TRUE,Mobile only,TRUE,TRUE,FALSE,FALSE,FALSE,30
+Spotify,9.99,TRUE,30,50,320,10.99,TRUE,4.99,FALSE,Mobile and desktop,TRUE,TRUE,TRUE,FALSE,TRUE,75
+Tidal,9.99,FALSE,90,50,411,9.99,TRUE,7.99,TRUE,Mobile only,FALSE,TRUE,TRUE,FALSE,TRUE,90

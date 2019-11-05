@@ -1,0 +1,6 @@
+Campaign Name,StartDate,EndDate,Budgeted Cost in Campaign,Actual Cost,Type,Status,Percentage of gained leads
+Spotify Email Campaign,2018-01-01,2019-01-01,25000,22000,Email,Completed,56.66
+Spotify Webinar Campaign,2018-01-02,2019-01-02,30000,18000,Webinar,Completed,47.23
+Spotify Social Media Campaign,2018-01-03,2019-01-03,15000,20000,Social Media,Completed,87.12
+Spotify PaperBased Campaign,2018-01-04,2019-01-04,45000,42000,PaperBased,Completed,30.38
+Spotify YouTube Survey Campaign,2018-01-05,2019-01-05,20000,25000,YouTube Survey,Completed,67.01

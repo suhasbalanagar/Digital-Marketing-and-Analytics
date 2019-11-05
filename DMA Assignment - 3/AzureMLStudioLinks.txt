@@ -1,0 +1,8 @@
+Two-Class Logistic Regression Model - Azure Machine Learning Service :-
+https://gallery.cortanaintelligence.com/Experiment/Spotify-user-Two-Class-Logistics-Regression-Model
+
+Linear Regression Model - Azure Machine Learning Service :-
+https://gallery.cortanaintelligence.com/Experiment/Leads-to-Customer-Conversion-using-Linear-Regression-Model
+
+Two-Class Decision Forest Model - Azure Machine Learning Service :-
+https://gallery.cortanaintelligence.com/Experiment/Predict-Rating-Using-Two-Class-Decision-Forest-Model

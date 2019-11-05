@@ -1,0 +1,1001 @@
+User ID,Name,Created Year,Created Time,Profit/User,CAC,CLV,StateID,Subscription,Genre ID,Usage,CustomerType,Last Login Date,Email,Age,Payment Method,Current Occupation,Product Rating,Listening Time,Customer Rating
+b80344d063b5ccb3212f76538f3d9e43d87dca9e,Ankita Brahmankar,2018,4:56,1484.507,32,14813.07,42,Family Plan subscription,4,Android,Existing,9/5/2018,gdomniney0@unicef.org,45,mastercard,Other,Satisfied,Morning,2
+bd4c6e843f00bd476847fb75c47b4fb430a06856,Anuja Suryawanshi,2018,12:18,7617.625,32,76144.25,33,Free users subscription,7,MAC,Existing,3/2/2018,aschowenburg1@shareasale.com,62,jcb,Home maker,Neutral,Morning,2
+8937134734f869debcab8f23d77465b4caaa85df,Sayali Bhagat,2018,11:33,6632.419,32,66292.19,5,1 year subscription,5,Windows,Existing,3/13/2019,cisted2@istockphoto.com,22,jcb,Home maker,Highly Dissatisfied,Afternoon,4
+969cc6fb74e076a68e36a04409cb9d3765757508,Sharvari Karnik,2018,11:19,6616.582,32,66133.82,39,6 month subscription,9,Android,Existing,10/21/2018,abehning3@goo.ne.jp,58,switch,Working Professional,Highly Dissatisfied,Evening,4
+969cc6fb74e076a68e36a04409cb9d3765757508,Pooja Dharmadhikari,2019,9:38,7236.021,127,7109.021,42,3 month subscription,7,Windows,New Customer,7/4/2019,dde4@techcrunch.com,31,solo,Unemployed,Dissatisfied,Night,5
+e006b1a48f466bf59feefed32bec6494495a4436,Dhaval Pandya,2019,6:07,3340.738,127,3213.738,4,Free users subscription,10,Windows,New Customer,7/24/2019,vlehrahan5@homestead.com,49,jcb,Other,Highly Satisfied,Evening,4
+9d6f0ead607ac2a6c2460e4d14fb439a146b7dec,Suhas Balanagar,2019,21:56,3955.478,127,3828.478,38,Free users subscription,4,Android,New Customer,6/11/2019,abendix6@blog.com,27,diners-club-carte-blanche,Businessman,Satisfied,Morning,3
+b64cdd1a0bd907e5e00b39e345194768e330d652,Ankita Moharir,2019,2:35,6951.439,127,6824.439,27,Family Plan subscription,1,UNIX,New Customer,4/15/2019,tbaynes7@usatoday.com,62,jcb,Other,Highly Satisfied,Evening,5
+d6589314c0a9bcbca4fee0c93b14bc402363afea,Jayesh Patil,2019,21:49,6932.268,127,6805.268,42,6 month subscription,4,Android,New Customer,1/19/2019,ealcido8@thetimes.co.uk,17,jcb,Student,Neutral,Night,5
+c737ec8c1b16ce8e39115f4432c9a7fc21ec47a1,Ajinkya Joshi,2019,13:19,9234.201,127,9107.201,23,Student Plan subscription,7,Android,New Customer,3/23/2019,jverbrugghen9@ebay.co.uk,40,visa,Working Professional,Dissatisfied,Evening,4
+07caa920795cd4f20bfeeb0e192a5ddd9566ecdd,Akash Indani,2019,18:40,8932.053,127,8805.053,31,1 month subscription,6,UNIX,New Customer,3/23/2019,malgeoa@i2i.jp,67,jcb,Businessman,Neutral,Evening,5
+12,Ashish Brahmankar,2019,2:56,6687.742,127,6560.742,24,1 year subscription,7,UNIX,New Customer,8/6/2019,dfeenanb@amazonaws.com,46,maestro,Working Professional,Highly Satisfied,Night,5
+13,Pratiksha Sawant,2019,5:16,2152.252,127,2025.252,5,3 month subscription,2,Windows,New Customer,6/17/2019,cdohmerc@youku.com,28,jcb,Working Professional,Highly Satisfied,Evening,3
+14,Petronilla MacTerrelly,2019,2:13,550.082,127,423.082,42,1 month subscription,2,Windows,New Customer,7/31/2019,pmacterrellyd@furl.net,19,instapayment,Unemployed,Highly Satisfied,Afternoon,3
+15,Fayre Riba,2019,15:09,9292.75,127,9165.75,8,1 year subscription,3,Android,New Customer,6/20/2019,fribae@cocolog-nifty.com,54,jcb,Home maker,Satisfied,Afternoon,4
+16,Homerus Raynard,2019,7:11,1296.494,127,1169.494,21,Family Plan subscription,8,MAC,New Customer,2/17/2019,hraynardf@unblog.fr,17,jcb,Working Professional,Highly Dissatisfied,Evening,2
+17,Mercedes Pavlik,2019,22:24,9748.473,127,9621.473,24,1 month subscription,9,MAC,New Customer,5/13/2019,mpavlikg@sohu.com,69,mastercard,Other,Dissatisfied,Morning,4
+18,Alva Rouch,2019,5:43,8087.268,127,7960.268,39,Student Plan subscription,8,Android,New Customer,7/30/2019,arouchh@fastcompany.com,34,americanexpress,Home maker,Dissatisfied,Evening,5
+19,Con Mellers,2019,5:19,4070.115,127,3943.115,5,1 month subscription,6,UNIX,New Customer,2/4/2019,cmellersi@mayoclinic.com,45,jcb,Student,Highly Satisfied,Morning,5
+20,Filia Claridge,2019,17:09,6568.995,127,6441.995,5,Student Plan subscription,7,MAC,New Customer,1/21/2019,fclaridgej@infoseek.co.jp,34,americanexpress,Other,Dissatisfied,Morning,4
+21,Addy Buddleigh,2019,10:07,7409.303,127,7282.303,44,Family Plan subscription,9,UNIX,New Customer,2/10/2019,abuddleighk@weibo.com,49,mastercard,Unemployed,Neutral,Morning,3
+22,Samara Youthed,2019,4:29,9604.575,127,9477.575,22,1 month subscription,5,Android,New Customer,5/18/2019,syouthedl@paginegialle.it,58,jcb,Other,Dissatisfied,Night,5
+23,Elene De Giorgio,2019,17:42,1145.206,127,1018.206,15,1 year subscription,8,MAC,New Customer,3/6/2019,edem@soup.io,39,jcb,Student,Highly Satisfied,Afternoon,4
+24,Oralle Howcroft,2019,16:36,2833.714,127,2706.714,29,1 year subscription,2,Android,New Customer,4/21/2019,ohowcroftn@noaa.gov,33,jcb,Working Professional,Highly Dissatisfied,Evening,4
+25,Bogey Gravy,2019,21:46,1450.511,127,1323.511,5,Free users subscription,9,Android,New Customer,1/30/2019,bgravyo@samsung.com,39,maestro,Other,Neutral,Morning,5
+26,Aggy Stapforth,2019,4:17,2405.261,127,2278.261,14,Free users subscription,8,Windows,New Customer,4/22/2019,astapforthp@1und1.de,31,maestro,Unemployed,Highly Dissatisfied,Morning,5
+27,Carolin Fallis,2019,6:08,742.503,127,615.503,10,1 month subscription,4,Windows,New Customer,6/9/2019,cfallisq@fc2.com,61,switch,Home maker,Dissatisfied,Morning,3
+28,Gillian Pavolini,2019,16:32,964.729,127,837.729,10,1 month subscription,9,Android,New Customer,7/30/2019,gpavolinir@infoseek.co.jp,18,diners-club-carte-blanche,Unemployed,Highly Dissatisfied,Morning,3
+29,Eleen Gildersleeve,2019,4:57,1540.077,127,1413.077,46,1 year subscription,3,MAC,New Customer,7/31/2019,egildersleeves@prweb.com,23,jcb,Unemployed,Highly Dissatisfied,Morning,3
+30,Noreen Lovejoy,2017,22:36,5453.154,32,54499.54,3,3 month subscription,1,UNIX,Existing,2/4/2017,nlovejoyt@newsvine.com,42,diners-club-carte-blanche,Working Professional,Dissatisfied,Afternoon,4
+31,Rolf Peche,2019,5:30,9056.462,127,8929.462,10,3 month subscription,4,MAC,New Customer,5/16/2019,rpecheu@ft.com,30,visa-electron,Unemployed,Highly Satisfied,Evening,5
+32,Sonnie Mityakov,2019,21:48,1493.2,127,1366.2,38,Student Plan subscription,1,Android,New Customer,1/31/2019,smityakovv@princeton.edu,70,jcb,Home maker,Highly Satisfied,Night,4
+33,Charlene Cona,2019,9:55,8466.324,127,8339.324,3,1 year subscription,2,UNIX,New Customer,5/24/2019,cconaw@123-reg.co.uk,64,china-unionpay,Home maker,Highly Satisfied,Evening,3
+34,Corliss Barson,2019,16:17,5368.969,127,5241.969,5,Free users subscription,2,UNIX,New Customer,4/20/2019,cbarsonx@free.fr,65,instapayment,Working Professional,Highly Dissatisfied,Morning,3
+35,Kriste Rann,2019,12:09,4129.809,127,4002.809,8,Free users subscription,6,Windows,New Customer,6/17/2019,kranny@mit.edu,22,instapayment,Home maker,Neutral,Afternoon,2
+36,Xena Courtman,2019,10:23,6095.453,127,5968.453,10,Student Plan subscription,1,Windows,New Customer,5/10/2019,xcourtmanz@ft.com,46,mastercard,Other,Neutral,Evening,5
+37,Angus Dinley,2019,8:36,5305.642,127,5178.642,10,Family Plan subscription,4,Android,New Customer,6/27/2019,adinley10@pen.io,41,china-unionpay,Unemployed,Neutral,Evening,4
+38,Jacquetta Casacchia,2019,9:43,3416.438,127,3289.438,34,Free users subscription,3,Android,New Customer,3/6/2019,jcasacchia11@netlog.com,19,jcb,Student,Highly Satisfied,Afternoon,5
+39,Agnese Gregorowicz,2019,19:29,7965.192,127,7838.192,33,Student Plan subscription,1,Windows,New Customer,6/12/2019,agregorowicz12@smugmug.com,26,visa,Other,Highly Satisfied,Afternoon,5
+40,Dukie Linacre,2019,0:40,3077,127,2950,5,Student Plan subscription,1,Android,New Customer,6/12/2019,dlinacre13@github.io,64,visa-electron,Unemployed,Dissatisfied,Afternoon,2
+41,Sapphire Reynault,2019,18:30,1068.604,127,941.604,11,3 month subscription,5,Android,New Customer,3/21/2019,sreynault14@arizona.edu,19,jcb,Other,Neutral,Evening,4
+42,Irita Gyurko,2019,23:53,4384.406,127,4257.406,24,3 month subscription,7,UNIX,New Customer,5/21/2019,igyurko15@reverbnation.com,69,jcb,Home maker,Highly Satisfied,Evening,5
+43,Bibby Malzard,2019,21:39,5646.739,127,5519.739,10,Free users subscription,1,Windows,New Customer,5/3/2019,bmalzard16@google.fr,68,diners-club-carte-blanche,Home maker,Highly Satisfied,Night,2
+44,Alessandra Berndt,2019,21:17,4160.244,127,4033.244,17,6 month subscription,9,UNIX,New Customer,4/2/2019,aberndt17@ox.ac.uk,50,diners-club-enroute,Unemployed,Highly Satisfied,Night,2
+45,Adorne Lissandri,2011,12:07,2075.009,32,20718.09,6,6 month subscription,3,Windows,Existing,7/20/2012,alissandri18@businesswire.com,30,bankcard,Other,Neutral,Night,4
+46,Staci Willeman,2018,10:27,1886.065,32,18828.65,27,3 month subscription,3,Windows,Existing,2/2/2019,swilleman19@simplemachines.org,15,jcb,Student,Neutral,Evening,3
+47,Clio Shadwick,2019,8:23,9138.022,127,9011.022,19,Student Plan subscription,9,MAC,New Customer,6/24/2019,cshadwick1a@theguardian.com,68,laser,Other,Satisfied,Afternoon,4
+48,Fulvia Rotge,2009,17:06,6277.17,32,62739.7,14,Student Plan subscription,7,MAC,Existing,9/9/2018,frotge1b@google.es,31,jcb,Other,Neutral,Morning,4
+49,Glennis Henriksson,2018,8:41,1298.001,32,12948.01,11,Student Plan subscription,10,Android,Existing,3/18/2018,ghenriksson1c@feedburner.com,54,americanexpress,Home maker,Neutral,Morning,5
+50,Carlos Scraggs,2015,19:49,5249.78,32,52465.8,5,Family Plan subscription,1,UNIX,Existing,4/17/2015,cscraggs1d@state.gov,52,jcb,Home maker,Highly Dissatisfied,Evening,4
+51,Sarene Winsom,2010,8:10,8871.55,32,88683.5,34,3 month subscription,4,Android,Existing,4/7/2010,swinsom1e@vistaprint.com,34,visa-electron,Unemployed,Dissatisfied,Afternoon,3
+52,Sven Weild,2012,1:10,4369.655,32,43664.55,8,3 month subscription,1,Windows,Existing,4/15/2014,sweild1f@gov.uk,45,mastercard,Other,Dissatisfied,Night,4
+53,Peter Dentith,2010,13:20,727.534,32,7243.34,5,1 month subscription,10,Windows,Existing,7/15/2010,pdentith1g@npr.org,27,jcb,Working Professional,Dissatisfied,Evening,3
+54,Devonne Twomey,2008,2:48,3469.63,32,34664.3,46,Free users subscription,2,Android,Existing,11/24/2012,dtwomey1h@wikia.com,41,visa-electron,Unemployed,Highly Satisfied,Evening,3
+55,Guy Shank,2008,17:13,2906.821,32,29036.21,23,Family Plan subscription,2,MAC,Existing,10/1/2011,gshank1i@tumblr.com,17,jcb,Home maker,Highly Satisfied,Evening,3
+56,Claude Budget,2012,23:08,3973.571,32,39703.71,46,Student Plan subscription,6,Windows,Existing,6/20/2015,cbudget1j@nps.gov,68,instapayment,Working Professional,Highly Satisfied,Evening,2
+57,Binni Accomb,2018,1:57,9699.587,32,96963.87,42,Student Plan subscription,3,Android,Existing,9/13/2018,baccomb1k@feedburner.com,65,jcb,Home maker,Neutral,Morning,4
+58,Rickie Anten,2015,21:47,4136.429,32,41332.29,18,3 month subscription,1,UNIX,Existing,10/10/2017,ranten1l@skype.com,67,jcb,Unemployed,Highly Satisfied,Evening,2
+59,Halimeda Weafer,2018,15:57,244.637,32,2414.37,7,3 month subscription,4,Windows,Existing,3/29/2018,hweafer1m@uol.com.br,47,jcb,Businessman,Highly Satisfied,Morning,2
+60,Lauren Leavesley,2019,15:59,9947.238,127,9820.238,13,Free users subscription,6,Windows,New Customer,2/12/2019,lleavesley1n@irs.gov,26,jcb,Home maker,Dissatisfied,Afternoon,5
+61,Tybalt Borer,2012,15:09,5761.091,32,57578.91,10,1 year subscription,4,Windows,Existing,1/3/2012,tborer1o@nymag.com,49,americanexpress,Home maker,Dissatisfied,Afternoon,3
+62,Griffie Tidd,2019,16:57,8002.63,127,7875.63,5,3 month subscription,6,Android,New Customer,6/21/2019,gtidd1p@dmoz.org,57,jcb,Working Professional,Highly Satisfied,Morning,5
+63,Lonee Walklate,2009,5:21,9914.891,32,99116.91,13,3 month subscription,10,Android,Existing,11/17/2015,lwalklate1q@oaic.gov.au,55,diners-club-international,Student,Highly Satisfied,Afternoon,3
+64,Cy Olenin,2015,23:54,3555.35,32,35521.5,35,6 month subscription,5,Android,Existing,4/21/2019,colenin1r@buzzfeed.com,56,jcb,Unemployed,Neutral,Afternoon,2
+65,Sascha Cristofolini,2011,1:46,5232.662,32,52294.62,10,1 year subscription,8,Android,Existing,8/18/2012,scristofolini1s@biblegateway.com,23,jcb,Unemployed,Highly Satisfied,Morning,3
+66,Burke Robertsson,2018,2:34,5613.068,32,56098.68,38,Student Plan subscription,10,UNIX,Existing,10/22/2018,brobertsson1t@lulu.com,36,jcb,Student,Satisfied,Morning,4
+67,Brandie Edel,2018,13:36,1005.824,32,10026.24,42,3 month subscription,7,Windows,Existing,6/6/2019,bedel1u@cbc.ca,37,mastercard,Unemployed,Satisfied,Night,3
+68,Jewell Neillans,2009,19:00,4203.654,32,42004.54,4,6 month subscription,3,Android,Existing,3/6/2013,jneillans1v@globo.com,53,jcb,Working Professional,Neutral,Evening,3
+69,Barbette Goutcher,2019,23:31,1587.924,127,1460.924,48,Free users subscription,6,Android,New Customer,6/1/2019,bgoutcher1w@microsoft.com,55,maestro,Businessman,Highly Dissatisfied,Evening,4
+70,Florian Trulocke,2010,14:56,8794.253,32,87910.53,1,3 month subscription,9,Android,Existing,12/19/2016,ftrulocke1x@edublogs.org,70,china-unionpay,Unemployed,Neutral,Night,4
+71,Ariella Klainman,2018,13:22,3724.377,32,37211.77,42,6 month subscription,6,Windows,Existing,9/15/2018,aklainman1y@un.org,48,visa,Other,Highly Satisfied,Night,4
+72,Giles Gavigan,2019,14:28,6984.005,127,6857.005,11,Free users subscription,2,Windows,New Customer,7/19/2019,ggavigan1z@furl.net,45,maestro,Other,Satisfied,Afternoon,4
+73,Thayne Kirsche,2019,6:15,4631.673,127,4504.673,33,1 month subscription,2,Android,New Customer,5/27/2019,tkirsche20@yahoo.com,17,jcb,Home maker,Satisfied,Evening,5
+74,Marty Grigson,2014,13:34,7138.236,32,71350.36,5,3 month subscription,8,Windows,Existing,1/8/2018,mgrigson21@theguardian.com,60,jcb,Home maker,Neutral,Morning,4
+75,Ryan Tallach,2016,15:46,8393.35,32,83901.5,10,Free users subscription,4,Android,Existing,4/26/2018,rtallach22@craigslist.org,48,jcb,Businessman,Satisfied,Evening,3
+76,Gae Bownde,2018,5:53,9105.293,32,91020.93,10,6 month subscription,5,Windows,Existing,7/12/2019,gbownde23@columbia.edu,50,maestro,Other,Dissatisfied,Evening,5
+77,Blake Cheyney,2012,0:46,5332.716,32,53295.16,10,Student Plan subscription,5,Android,Existing,9/8/2018,bcheyney24@disqus.com,51,switch,Working Professional,Satisfied,Morning,3
+78,Gussi Greeno,2012,5:17,6797.009,32,67938.09,5,3 month subscription,4,Windows,Existing,11/6/2012,ggreeno25@ameblo.jp,56,jcb,Working Professional,Highly Dissatisfied,Morning,2
+79,Doralynn Byrkmyr,2019,21:11,4892.933,127,4765.933,31,Free users subscription,2,UNIX,New Customer,3/11/2019,dbyrkmyr26@booking.com,15,jcb,Working Professional,Neutral,Night,3
+80,Nev Didball,2008,11:24,1487.831,32,14846.31,42,Family Plan subscription,1,MAC,Existing,3/4/2015,ndidball27@state.tx.us,69,mastercard,Working Professional,Satisfied,Evening,4
+81,Nolie Ciubutaro,2018,22:52,7113.14,32,71099.4,32,Family Plan subscription,3,UNIX,Existing,1/22/2019,nciubutaro28@amazonaws.com,49,americanexpress,Businessman,Highly Satisfied,Afternoon,3
+82,Adler Sayse,2014,22:52,7262.682,32,72594.82,42,Student Plan subscription,9,Windows,Existing,11/29/2015,asayse29@feedburner.com,25,visa,Unemployed,Neutral,Morning,3
+83,Wilow Clayfield,2010,5:25,9536.158,32,95329.58,42,1 month subscription,8,Android,Existing,11/29/2014,wclayfield2a@google.es,15,jcb,Home maker,Highly Dissatisfied,Night,5
+84,Rodi Whickman,2017,13:51,2232.776,32,22295.76,19,1 year subscription,8,Android,Existing,8/16/2017,rwhickman2b@amazon.co.jp,40,bankcard,Student,Dissatisfied,Morning,2
+85,Dawna McKiernan,2009,18:19,7085.064,32,70818.64,10,Student Plan subscription,5,UNIX,Existing,5/13/2017,dmckiernan2c@cnn.com,37,jcb,Businessman,Highly Dissatisfied,Afternoon,4
+86,Claudelle Mansion,2018,7:43,3444.103,32,34409.03,34,Family Plan subscription,8,UNIX,Existing,2/5/2019,cmansion2d@unc.edu,19,visa-electron,Other,Highly Satisfied,Evening,4
+87,Vernice Butting,2018,4:26,4212.726,32,42095.26,5,1 month subscription,2,MAC,Existing,12/25/2018,vbutting2e@yelp.com,24,jcb,Home maker,Neutral,Night,3
+88,Braden Dimnage,2016,2:53,9394.824,32,93916.24,35,6 month subscription,10,MAC,Existing,5/31/2016,bdimnage2f@pbs.org,29,jcb,Home maker,Highly Satisfied,Afternoon,4
+89,Belle Ship,2012,22:32,8721.891,32,87186.91,47,Free users subscription,7,Android,Existing,10/14/2018,bship2g@tinyurl.com,30,visa,Businessman,Highly Satisfied,Afternoon,4
+90,Sammy MacCleay,2011,2:27,6051.567,32,60483.67,24,1 year subscription,9,Android,Existing,7/9/2017,smaccleay2h@1688.com,16,jcb,Student,Highly Dissatisfied,Morning,3
+91,Laird Schneider,2008,9:57,5274.851,32,52716.51,36,Student Plan subscription,10,UNIX,Existing,4/18/2016,lschneider2i@noaa.gov,34,laser,Businessman,Dissatisfied,Evening,4
+92,Krishnah Clayden,2018,21:34,4545.009,32,45418.09,11,3 month subscription,7,Windows,Existing,4/6/2018,kclayden2j@i2i.jp,65,jcb,Working Professional,Highly Satisfied,Afternoon,3
+93,Auguste Uebel,2011,17:23,1501.501,32,14983.01,5,6 month subscription,10,MAC,Existing,8/16/2013,auebel2k@nhs.uk,26,visa,Student,Highly Satisfied,Afternoon,3
+94,Jorry Kempson,2011,10:16,8921.979,32,89187.79,10,6 month subscription,7,Windows,Existing,4/20/2014,jkempson2l@opera.com,62,jcb,Unemployed,Satisfied,Afternoon,4
+95,Claretta Coverley,2018,7:12,4136.28,32,41330.8,2,6 month subscription,9,UNIX,Existing,8/6/2018,ccoverley2m@tinypic.com,15,instapayment,Unemployed,Neutral,Morning,4
+96,Denise Segges,2009,11:06,4914.408,32,49112.08,18,Free users subscription,4,UNIX,Existing,1/23/2009,dsegges2n@cbsnews.com,29,jcb,Working Professional,Satisfied,Evening,3
+97,Rosemonde Duff,2014,14:37,8539.217,32,85360.17,4,Free users subscription,1,MAC,Existing,5/11/2016,rduff2o@youtu.be,42,jcb,Other,Highly Dissatisfied,Afternoon,4
+98,Alyda Spilstead,2011,6:27,1577.072,32,15738.72,39,1 year subscription,6,Windows,Existing,5/29/2011,aspilstead2p@typepad.com,61,jcb,Student,Neutral,Morning,2
+99,Thomasina McCorrie,2011,7:35,117.98,32,1147.8,36,Student Plan subscription,5,Windows,Existing,9/21/2015,tmccorrie2q@businessweek.com,69,switch,Businessman,Neutral,Evening,4
+100,Cayla Frederick,2018,0:23,2954.093,32,29508.93,42,Student Plan subscription,3,UNIX,Existing,8/5/2019,cfrederick2r@hostgator.com,59,china-unionpay,Businessman,Highly Dissatisfied,Evening,4
+101,Nelie Hayselden,2018,10:38,8498.543,32,84953.43,35,3 month subscription,2,UNIX,Existing,12/14/2018,nhayselden2s@ebay.co.uk,43,china-unionpay,Working Professional,Dissatisfied,Morning,3
+102,Phip Wabersich,2015,17:03,8921.893,32,89186.93,39,1 year subscription,9,UNIX,Existing,1/23/2015,pwabersich2t@tamu.edu,42,jcb,Home maker,Satisfied,Morning,2
+103,Bunny Osboldstone,2018,8:25,4928.057,32,49248.57,34,Student Plan subscription,7,MAC,Existing,3/18/2019,bosboldstone2u@soundcloud.com,60,diners-club-carte-blanche,Businessman,Satisfied,Afternoon,4
+104,Nanni Bussy,2016,0:31,7698.342,32,76951.42,10,1 month subscription,4,UNIX,Existing,11/16/2018,nbussy2v@hostgator.com,63,jcb,Working Professional,Highly Satisfied,Evening,3
+105,Jacintha Godman,2008,14:45,4224.194,32,42209.94,2,1 year subscription,7,MAC,Existing,8/13/2018,jgodman2w@fastcompany.com,56,jcb,Home maker,Satisfied,Afternoon,4
+106,Lilli Mullinder,2011,16:50,2646.157,32,26429.57,22,Free users subscription,10,Android,Existing,6/1/2014,lmullinder2x@abc.net.au,44,china-unionpay,Other,Neutral,Evening,3
+107,Zsa zsa Thornewill,2010,17:04,1937.595,32,19343.95,42,3 month subscription,2,Windows,Existing,10/1/2015,zzsa2y@un.org,35,visa,Unemployed,Neutral,Night,2
+108,Janela Steljes,2019,11:05,9478.809,127,9351.809,5,Student Plan subscription,8,Windows,New Customer,5/31/2019,jsteljes2z@epa.gov,24,maestro,Working Professional,Highly Satisfied,Night,3
+109,Mayor McKimmie,2018,13:59,9821.752,32,98185.52,35,Student Plan subscription,2,UNIX,Existing,1/7/2018,mmckimmie30@wikispaces.com,19,jcb,Home maker,Dissatisfied,Morning,3
+110,Renee Tissiman,2008,0:28,920.19,32,9169.9,3,Free users subscription,1,MAC,Existing,11/2/2014,rtissiman31@google.com,17,mastercard,Home maker,Dissatisfied,Afternoon,2
+111,Nat Ainsby,2018,19:37,6349.346,32,63461.46,34,6 month subscription,1,UNIX,Existing,7/5/2019,nainsby32@seattletimes.com,70,jcb,Unemployed,Highly Satisfied,Evening,3
+112,Katha Mullan,2019,6:31,3022.212,127,2895.212,5,6 month subscription,6,Android,New Customer,2/13/2019,kmullan33@sourceforge.net,48,maestro,Unemployed,Satisfied,Evening,3
+113,Morissa Sillars,2018,14:22,1219.454,32,12162.54,10,1 month subscription,10,MAC,Existing,4/12/2018,msillars34@smugmug.com,43,jcb,Businessman,Highly Dissatisfied,Evening,4
+114,Diann Delos,2018,14:00,3655.87,32,36526.7,13,Free users subscription,2,Android,Existing,5/24/2018,ddelos35@wunderground.com,70,jcb,Home maker,Highly Dissatisfied,Night,2
+115,Horton Smyth,2014,22:57,2597.201,32,25940.01,6,Family Plan subscription,6,MAC,Existing,9/26/2015,hsmyth36@booking.com,42,diners-club-us-ca,Businessman,Highly Satisfied,Evening,3
+116,Ginny Pridden,2019,0:39,8911.513,127,8784.513,2,1 month subscription,8,Android,New Customer,5/27/2019,gpridden37@chronoengine.com,69,jcb,Other,Satisfied,Morning,2
+117,Glad Bente,2018,21:21,3472.929,32,34697.29,2,Family Plan subscription,4,MAC,Existing,1/26/2018,gbente38@umich.edu,30,jcb,Businessman,Highly Satisfied,Evening,3
+118,Justinian Janny,2014,0:33,8602.385,32,85991.85,47,Family Plan subscription,6,Android,Existing,1/4/2019,jjanny39@foxnews.com,44,visa-electron,Businessman,Dissatisfied,Morning,4
+119,Rickie Sigfrid,2017,9:27,6068.636,32,60654.36,15,1 month subscription,5,UNIX,Existing,2/26/2019,rsigfrid3a@indiegogo.com,46,switch,Working Professional,Dissatisfied,Night,4
+120,Zak Mechell,2017,20:42,8210.565,32,82073.65,10,Free users subscription,10,UNIX,Existing,3/26/2018,zmechell3b@mozilla.org,34,diners-club-enroute,Home maker,Highly Satisfied,Afternoon,5
+121,Mollee Archbutt,2015,8:11,2470.744,32,24675.44,42,6 month subscription,10,Windows,Existing,8/13/2015,marchbutt3c@sbwire.com,58,diners-club-international,Working Professional,Satisfied,Morning,4
+122,Kelsi Pasquale,2018,2:33,6100.119,32,60969.19,44,3 month subscription,3,UNIX,Existing,2/13/2019,kpasquale3d@unc.edu,35,laser,Working Professional,Highly Satisfied,Evening,3
+123,Marv Peinton,2010,16:16,8580.02,32,85768.2,38,6 month subscription,5,Android,Existing,9/20/2010,mpeinton3e@studiopress.com,34,mastercard,Working Professional,Neutral,Night,2
+124,Caye Blunsen,2017,14:51,238.515,32,2353.15,31,Free users subscription,7,MAC,Existing,3/31/2017,cblunsen3f@miitbeian.gov.cn,44,instapayment,Working Professional,Neutral,Morning,4
+125,Maisey Buckam,2019,4:58,155.565,127,28.565,42,Family Plan subscription,9,Windows,New Customer,3/16/2019,mbuckam3g@github.io,17,china-unionpay,Home maker,Dissatisfied,Afternoon,4
+126,Kliment Thiolier,2018,21:24,5372.787,32,53695.87,21,1 month subscription,6,Android,Existing,5/2/2018,kthiolier3h@google.co.jp,49,jcb,Unemployed,Highly Dissatisfied,Morning,3
+127,Jimmie Dod,2008,11:07,9042.218,32,90390.18,34,Family Plan subscription,10,MAC,Existing,10/29/2015,jdod3i@typepad.com,61,mastercard,Unemployed,Highly Dissatisfied,Morning,5
+128,Arvy Marioneau,2016,3:21,5660.78,32,56575.8,27,1 month subscription,10,UNIX,Existing,3/6/2019,amarioneau3j@gnu.org,64,jcb,Student,Highly Dissatisfied,Evening,3
+129,Berte Vamplus,2010,8:11,465.522,32,4623.22,34,3 month subscription,7,UNIX,Existing,5/27/2010,bvamplus3k@fastcompany.com,22,jcb,Working Professional,Neutral,Night,2
+130,Odilia Menendes,2018,20:08,1419.186,32,14159.86,17,6 month subscription,3,Windows,Existing,11/7/2018,omenendes3l@omniture.com,50,jcb,Businessman,Neutral,Night,3
+131,Minnnie Iwanowicz,2015,2:23,797.309,32,7941.09,19,1 month subscription,5,Android,Existing,4/25/2016,miwanowicz3m@multiply.com,56,maestro,Other,Dissatisfied,Night,2
+132,Noelle Kunzel,2009,17:58,4891.729,32,48885.29,44,1 month subscription,2,UNIX,Existing,5/21/2015,nkunzel3n@google.ru,18,jcb,Unemployed,Satisfied,Evening,4
+133,Carin Fetter,2008,17:33,6044.378,32,60411.78,36,Free users subscription,9,Android,Existing,8/5/2009,cfetter3o@4shared.com,32,china-unionpay,Other,Dissatisfied,Evening,5
+134,Clarance Pauleit,2019,15:05,7190.368,127,7063.368,34,1 month subscription,10,Android,New Customer,3/8/2019,cpauleit3p@techcrunch.com,24,china-unionpay,Other,Highly Satisfied,Afternoon,4
+135,Bryan Kennford,2017,6:43,5954.642,32,59514.42,35,6 month subscription,5,Windows,Existing,3/18/2018,bkennford3q@squarespace.com,21,jcb,Businessman,Dissatisfied,Afternoon,5
+136,Filippo Lethabridge,2018,2:57,282.293,32,2790.93,19,1 month subscription,10,UNIX,Existing,4/13/2019,flethabridge3r@latimes.com,15,bankcard,Businessman,Satisfied,Evening,3
+137,Tallie Pea,2010,4:36,8458.336,32,84551.36,37,Free users subscription,1,Android,Existing,8/26/2011,tpea3s@google.co.uk,69,visa-electron,Home maker,Highly Satisfied,Night,4
+138,Hubie Darville,2009,2:11,7287.145,32,72839.45,44,Family Plan subscription,2,Android,Existing,2/5/2016,hdarville3t@squarespace.com,38,jcb,Businessman,Highly Satisfied,Afternoon,5
+139,Clarke Stapford,2014,17:19,7405.674,32,74024.74,44,Family Plan subscription,9,Android,Existing,11/27/2017,cstapford3u@stumbleupon.com,50,laser,Other,Highly Dissatisfied,Evening,4
+140,Wendeline Flisher,2009,4:37,7681.399,32,76781.99,29,3 month subscription,9,MAC,Existing,5/10/2019,wflisher3v@acquirethisname.com,55,visa-electron,Other,Neutral,Evening,5
+141,Ladonna Aleksankov,2019,16:48,1535.476,127,1408.476,8,1 year subscription,2,UNIX,New Customer,6/11/2019,laleksankov3w@feedburner.com,18,americanexpress,Student,Neutral,Morning,2
+142,Kandy Segge,2015,22:17,4284.201,32,42810.01,5,Family Plan subscription,3,Android,Existing,11/26/2018,ksegge3x@macromedia.com,22,china-unionpay,Businessman,Neutral,Morning,2
+143,Brinna London,2018,7:29,1233.432,32,12302.32,5,Free users subscription,3,UNIX,Existing,10/21/2018,blondon3y@blogtalkradio.com,18,maestro,Unemployed,Dissatisfied,Evening,5
+144,Inger Melody,2016,19:57,9554.688,32,95514.88,20,1 month subscription,5,Android,Existing,5/5/2017,imelody3z@comcast.net,24,jcb,Unemployed,Dissatisfied,Night,2
+145,Luciano Bugdale,2019,12:22,7352.025,127,7225.025,7,3 month subscription,8,Android,New Customer,5/3/2019,lbugdale40@wordpress.com,66,diners-club-enroute,Unemployed,Dissatisfied,Afternoon,5
+146,Hazel Neat,2019,12:25,8414.487,127,8287.487,5,Student Plan subscription,9,MAC,New Customer,1/2/2019,hneat41@bing.com,31,jcb,Student,Highly Dissatisfied,Morning,5
+147,August Corker,2014,6:10,2878.289,32,28750.89,11,1 year subscription,5,Android,Existing,4/9/2018,acorker42@go.com,33,bankcard,Businessman,Highly Dissatisfied,Morning,4
+148,Celinda Forestel,2018,1:36,5784.065,32,57808.65,17,1 month subscription,9,UNIX,Existing,4/13/2018,cforestel43@cnet.com,24,diners-club-enroute,Working Professional,Highly Dissatisfied,Morning,5
+149,Jillane Katzmann,2017,6:31,8581.58,32,85783.8,18,1 year subscription,5,MAC,Existing,12/1/2018,jkatzmann44@is.gd,59,jcb,Unemployed,Satisfied,Evening,4
+150,Finley Surguine,2015,6:20,9811.68,32,98084.8,20,1 year subscription,9,MAC,Existing,3/13/2016,fsurguine45@symantec.com,41,diners-club-enroute,Working Professional,Highly Satisfied,Morning,3
+151,Kaia Etoile,2009,21:45,1843.117,32,18399.17,10,Free users subscription,6,UNIX,Existing,8/3/2016,ketoile46@xinhuanet.com,51,jcb,Student,Neutral,Morning,3
+152,Markos Longhorne,2009,20:44,2550.671,32,25474.71,34,Family Plan subscription,2,UNIX,Existing,1/18/2018,mlonghorne47@php.net,29,mastercard,Businessman,Satisfied,Afternoon,2
+153,Zoe Lerven,2009,0:55,784.119,32,7809.19,34,6 month subscription,6,Windows,Existing,7/17/2011,zlerven48@spiegel.de,57,switch,Businessman,Dissatisfied,Evening,4
+154,Kai Possel,2019,20:50,8074.372,127,7947.372,5,Free users subscription,7,Windows,New Customer,6/3/2019,kpossel49@apache.org,22,jcb,Businessman,Neutral,Morning,3
+155,Gisela Rieger,2019,13:42,951.115,127,824.115,11,1 year subscription,9,Android,New Customer,1/1/2019,grieger4a@ocn.ne.jp,23,jcb,Home maker,Highly Satisfied,Night,4
+156,Lutero Fontenot,2011,15:18,6036.226,32,60330.26,43,3 month subscription,4,UNIX,Existing,2/27/2017,lfontenot4b@virginia.edu,16,instapayment,Home maker,Satisfied,Afternoon,4
+157,Keeley Rainy,2008,14:08,3031.581,32,30283.81,34,Student Plan subscription,5,Android,Existing,3/15/2008,krainy4c@phoca.cz,15,mastercard,Working Professional,Highly Dissatisfied,Morning,3
+158,Becka Dopson,2010,4:55,5881.892,32,58786.92,34,6 month subscription,1,UNIX,Existing,11/3/2013,bdopson4d@businesswire.com,48,jcb,Other,Dissatisfied,Morning,2
+159,Fletcher Quinane,2012,15:31,5223.248,32,52200.48,48,3 month subscription,6,Android,Existing,8/13/2014,fquinane4e@etsy.com,26,china-unionpay,Home maker,Dissatisfied,Evening,4
+160,Joseph Bodham,2016,15:31,9694.445,32,96912.45,19,Student Plan subscription,6,MAC,Existing,12/25/2017,jbodham4f@weather.com,20,jcb,Student,Neutral,Afternoon,3
+161,Sigrid Nibley,2016,10:21,2593.117,32,25899.17,8,1 month subscription,2,MAC,Existing,5/27/2017,snibley4g@tinyurl.com,57,solo,Student,Highly Satisfied,Evening,4
+162,Clemence Pharoah,2016,6:30,7159.659,32,71564.59,35,Student Plan subscription,10,MAC,Existing,2/25/2019,cpharoah4h@themeforest.net,53,visa-electron,Other,Satisfied,Evening,2
+163,Chantal Denning,2018,11:10,5095.839,32,50926.39,1,1 month subscription,1,UNIX,Existing,12/30/2018,cdenning4i@google.ca,49,visa-electron,Other,Highly Satisfied,Night,2
+164,Josiah Berger,2008,13:06,6358.2,32,63550,42,Family Plan subscription,8,Android,Existing,5/13/2015,jberger4j@skyrock.com,29,mastercard,Student,Highly Dissatisfied,Afternoon,4
+165,Stephani Cantua,2019,4:33,5313.529,127,5186.529,10,Student Plan subscription,3,MAC,New Customer,2/18/2019,scantua4k@nymag.com,51,jcb,Working Professional,Neutral,Night,5
+166,Ardelis Cushion,2010,10:24,7361.39,32,73581.9,42,Free users subscription,6,UNIX,Existing,7/15/2017,acushion4l@who.int,41,jcb,Unemployed,Neutral,Night,3
+167,Dix Hadden,2009,21:42,2141.711,32,21385.11,34,6 month subscription,9,Android,Existing,11/22/2017,dhadden4m@ed.gov,64,jcb,Home maker,Neutral,Evening,5
+168,Rozanna Edowes,2019,3:31,2430.514,127,2303.514,34,Family Plan subscription,4,MAC,New Customer,2/21/2019,redowes4n@deliciousdays.com,35,solo,Businessman,Satisfied,Morning,4
+169,Sheelagh Betjeman,2019,4:18,4058.618,127,3931.618,19,Student Plan subscription,3,Android,New Customer,1/16/2019,sbetjeman4o@unesco.org,35,solo,Businessman,Satisfied,Evening,5
+170,Sansone Merrisson,2019,21:59,3742.898,127,3615.898,31,1 month subscription,4,Windows,New Customer,5/5/2019,smerrisson4p@wikispaces.com,49,china-unionpay,Businessman,Highly Dissatisfied,Night,2
+171,Travers Biggin,2018,21:29,8378.861,32,83756.61,5,1 month subscription,8,UNIX,Existing,1/16/2019,tbiggin4q@usda.gov,29,americanexpress,Unemployed,Highly Satisfied,Night,3
+172,Shir Batkin,2008,8:29,5174.952,32,51717.52,4,3 month subscription,4,MAC,Existing,11/20/2016,sbatkin4r@tripod.com,64,jcb,Other,Satisfied,Evening,4
+173,Blinnie Jales,2019,9:55,8709.686,127,8582.686,10,Free users subscription,9,UNIX,New Customer,2/2/2019,bjales4s@pbs.org,35,jcb,Unemployed,Neutral,Afternoon,4
+174,Edeline Brassington,2019,18:54,4181.611,127,4054.611,32,1 year subscription,3,Windows,New Customer,4/24/2019,ebrassington4t@sohu.com,22,jcb,Businessman,Highly Satisfied,Evening,5
+175,Katie Fandrey,2012,7:19,1951.128,32,19479.28,29,3 month subscription,8,MAC,Existing,8/4/2012,kfandrey4u@1und1.de,56,jcb,Student,Highly Satisfied,Evening,3
+176,Franky Gulliver,2014,15:14,4288.733,32,42855.33,27,Student Plan subscription,6,Android,Existing,2/6/2016,fgulliver4v@ed.gov,25,diners-club-us-ca,Working Professional,Satisfied,Morning,4
+177,Skipp Sarfass,2018,5:22,408.412,32,4052.12,42,1 year subscription,8,MAC,Existing,4/20/2018,ssarfass4w@yellowbook.com,36,maestro,Businessman,Dissatisfied,Morning,4
+178,Yves Stemp,2012,6:06,4440.011,32,44368.11,42,6 month subscription,10,Android,Existing,2/13/2014,ystemp4x@sourceforge.net,36,americanexpress,Student,Neutral,Evening,4
+179,Gale Magwood,2018,14:15,9636.623,32,96334.23,35,1 month subscription,8,UNIX,Existing,6/1/2018,gmagwood4y@globo.com,25,bankcard,Unemployed,Dissatisfied,Morning,3
+180,Jeth Bunson,2017,14:54,1738.589,32,17353.89,42,1 year subscription,1,Android,Existing,8/29/2018,jbunson4z@dailymotion.com,40,jcb,Unemployed,Highly Satisfied,Evening,3
+181,Cleo Donnachie,2014,17:29,3724.659,32,37214.59,27,Free users subscription,7,Windows,Existing,9/18/2018,cdonnachie50@edublogs.org,58,americanexpress,Working Professional,Neutral,Afternoon,4
+182,Cristie Jonathon,2011,12:33,5203.814,32,52006.14,10,Free users subscription,3,MAC,Existing,5/6/2011,cjonathon51@pinterest.com,32,mastercard,Working Professional,Highly Dissatisfied,Evening,3
+183,Merna Duignan,2014,8:29,5149.311,32,51461.11,10,Family Plan subscription,5,Android,Existing,11/10/2016,mduignan52@wordpress.org,29,jcb,Unemployed,Satisfied,Evening,3
+184,Avie Pickup,2010,3:00,3942.399,32,39391.99,42,Family Plan subscription,9,Android,Existing,6/17/2015,apickup53@nyu.edu,19,visa-electron,Working Professional,Highly Satisfied,Afternoon,4
+185,Gunilla Rannald,2011,10:54,983.224,32,9800.24,42,Family Plan subscription,2,Android,Existing,8/2/2014,grannald54@goo.ne.jp,16,mastercard,Student,Highly Dissatisfied,Afternoon,3
+186,Dorolice Trayton,2010,14:11,9541.766,32,95385.66,31,6 month subscription,1,Windows,Existing,11/7/2014,dtrayton55@techcrunch.com,65,americanexpress,Working Professional,Dissatisfied,Morning,4
+187,Victoria Stroobant,2011,22:28,1484.339,32,14811.39,42,Family Plan subscription,7,MAC,Existing,7/5/2012,vstroobant56@europa.eu,39,jcb,Unemployed,Highly Dissatisfied,Afternoon,3
+188,Luella Whitebrook,2011,17:06,7213.719,32,72105.19,23,6 month subscription,5,Windows,Existing,7/18/2012,lwhitebrook57@craigslist.org,17,jcb,Unemployed,Dissatisfied,Afternoon,4
+189,Denise Skym,2019,8:38,2337.324,127,2210.324,19,Free users subscription,4,Android,New Customer,3/8/2019,dskym58@opensource.org,69,visa-electron,Other,Highly Satisfied,Evening,4
+190,Rosie Witton,2016,16:00,1395.518,32,13923.18,11,Free users subscription,1,Windows,Existing,12/9/2017,rwitton59@oakley.com,63,diners-club-enroute,Working Professional,Satisfied,Night,2
+191,Jeanna Pinching,2019,7:21,1710.967,127,1583.967,6,Free users subscription,2,MAC,New Customer,5/10/2019,jpinching5a@g.co,61,visa-electron,Unemployed,Satisfied,Afternoon,4
+192,Valdemar Goolden,2018,12:52,2258.429,32,22552.29,23,Free users subscription,5,UNIX,Existing,9/20/2018,vgoolden5b@nbcnews.com,70,mastercard,Home maker,Highly Dissatisfied,Afternoon,4
+193,Helen-elizabeth Mattingly,2011,1:49,2976.689,32,29734.89,26,1 month subscription,2,MAC,Existing,12/20/2011,hmattingly5c@i2i.jp,38,jcb,Student,Highly Satisfied,Evening,5
+194,Prinz Kiellor,2017,23:47,9213.362,32,92101.62,39,1 month subscription,2,MAC,Existing,10/15/2018,pkiellor5d@altervista.org,66,jcb,Unemployed,Neutral,Afternoon,4
+195,Rozanne Karlqvist,2010,11:00,820.57,32,8173.7,42,1 year subscription,4,Android,Existing,8/16/2010,rkarlqvist5e@acquirethisname.com,18,jcb,Other,Highly Dissatisfied,Morning,5
+196,Othilia Poles,2019,3:46,5267.565,127,5140.565,34,Family Plan subscription,1,MAC,New Customer,2/26/2019,opoles5f@liveinternet.ru,64,jcb,Home maker,Highly Dissatisfied,Evening,3
+197,Darius Tompion,2018,1:52,8024.473,32,80212.73,5,Student Plan subscription,8,Windows,Existing,11/15/2018,dtompion5g@netlog.com,62,mastercard,Businessman,Dissatisfied,Evening,2
+198,Willi Semper,2010,5:17,6878.994,32,68757.94,11,1 month subscription,6,Windows,Existing,7/24/2011,wsemper5h@ftc.gov,32,jcb,Businessman,Highly Satisfied,Night,2
+199,Rozina Grisard,2010,16:28,438.925,32,4357.25,6,1 year subscription,3,Android,Existing,7/27/2014,rgrisard5i@indiegogo.com,33,jcb,Other,Satisfied,Evening,3
+200,Yorker Kenneway,2018,4:10,1991.978,32,19887.78,46,1 month subscription,8,Windows,Existing,1/10/2019,ykenneway5j@opera.com,19,diners-club-enroute,Unemployed,Satisfied,Night,4
+201,Dewey Fairebrother,2018,6:36,8586.516,32,85833.16,46,1 year subscription,6,Windows,Existing,4/2/2018,dfairebrother5k@netlog.com,30,bankcard,Home maker,Highly Dissatisfied,Morning,3
+202,Bibbye Rockcliff,2008,14:11,9131.653,32,91284.53,18,1 month subscription,5,Windows,Existing,5/30/2009,brockcliff5l@360.cn,62,jcb,Unemployed,Highly Satisfied,Evening,2
+203,Silvie Currum,2009,6:49,544.698,32,5414.98,4,1 year subscription,4,Android,Existing,10/22/2014,scurrum5m@zimbio.com,39,jcb,Home maker,Satisfied,Evening,3
+204,Sky Franzoli,2016,22:44,6985.026,32,69818.26,6,1 year subscription,9,Windows,Existing,9/22/2018,sfranzoli5n@squarespace.com,20,visa,Working Professional,Satisfied,Evening,5
+205,Fredi Emburey,2016,18:47,4512.811,32,45096.11,10,3 month subscription,2,MAC,Existing,5/26/2018,femburey5o@oaic.gov.au,28,instapayment,Unemployed,Highly Dissatisfied,Afternoon,3
+206,Gladys Stevani,2016,2:24,2067.552,32,20643.52,10,6 month subscription,9,Android,Existing,7/2/2016,gstevani5p@zimbio.com,18,jcb,Other,Satisfied,Afternoon,4
+207,Pebrook Girvin,2015,4:16,5855.898,32,58526.98,34,Free users subscription,7,Windows,Existing,5/7/2019,pgirvin5q@illinois.edu,47,visa-electron,Working Professional,Neutral,Afternoon,3
+208,Carney Tomsen,2014,12:59,3688.215,32,36850.15,5,1 month subscription,8,UNIX,Existing,4/4/2018,ctomsen5r@t-online.de,19,switch,Student,Satisfied,Night,4
+209,Fanechka Grushin,2009,23:35,232.773,32,2295.73,5,1 month subscription,8,MAC,Existing,8/15/2017,fgrushin5s@privacy.gov.au,31,bankcard,Working Professional,Dissatisfied,Night,5
+210,Daven Spellsworth,2016,14:39,6708.132,32,67049.32,46,Free users subscription,1,Windows,Existing,1/4/2018,dspellsworth5t@nasa.gov,25,diners-club-carte-blanche,Working Professional,Dissatisfied,Night,3
+211,Heloise Loseby,2018,4:14,2124.949,32,21217.49,46,Student Plan subscription,9,Android,Existing,10/24/2018,hloseby5u@imageshack.us,20,switch,Unemployed,Dissatisfied,Morning,4
+212,Nerta Dickman,2017,1:20,7778.752,32,77755.52,5,Free users subscription,4,Android,Existing,6/27/2019,ndickman5v@myspace.com,27,jcb,Home maker,Highly Dissatisfied,Morning,3
+213,Rosie Hilbourne,2011,2:19,6476.968,32,64737.68,5,Student Plan subscription,3,MAC,Existing,11/29/2011,rhilbourne5w@feedburner.com,64,jcb,Businessman,Dissatisfied,Night,3
+214,Livvy Ferrieres,2018,23:00,3284.343,32,32811.43,16,1 year subscription,9,Windows,Existing,9/18/2018,lferrieres5x@eepurl.com,30,mastercard,Other,Highly Satisfied,Morning,3
+215,Roseann Worsfield,2019,23:21,4810.313,127,4683.313,34,Free users subscription,3,MAC,New Customer,6/18/2019,rworsfield5y@buzzfeed.com,65,jcb,Unemployed,Neutral,Morning,4
+216,Gregory Meedendorpe,2018,18:45,7685.967,32,76827.67,2,3 month subscription,9,Android,Existing,5/17/2019,gmeedendorpe5z@aol.com,42,instapayment,Businessman,Neutral,Afternoon,5
+217,Jessi Reaper,2018,0:05,5100.688,32,50974.88,10,Family Plan subscription,6,UNIX,Existing,11/2/2018,jreaper60@soup.io,32,solo,Working Professional,Dissatisfied,Afternoon,3
+218,Sosanna Rollingson,2015,5:09,7422.109,32,74189.09,19,Free users subscription,10,MAC,Existing,3/19/2017,srollingson61@surveymonkey.com,44,diners-club-enroute,Home maker,Highly Dissatisfied,Night,4
+219,Dulcie Loghan,2011,18:35,9642.092,32,96388.92,10,1 month subscription,6,UNIX,Existing,1/27/2015,dloghan62@ucla.edu,54,instapayment,Unemployed,Highly Dissatisfied,Morning,5
+220,Fletcher Dockreay,2014,4:08,5793.466,32,57902.66,34,Free users subscription,2,UNIX,Existing,1/12/2019,fdockreay63@usgs.gov,24,china-unionpay,Other,Dissatisfied,Night,5
+221,Wolfie Guerrieri,2018,22:58,445.856,32,4426.56,41,Student Plan subscription,6,Windows,Existing,11/21/2018,wguerrieri64@instagram.com,70,visa-electron,Unemployed,Highly Dissatisfied,Morning,3
+222,Tera Wiltshier,2011,14:55,7353.651,32,73504.51,11,6 month subscription,2,MAC,Existing,4/6/2015,twiltshier65@imgur.com,41,jcb,Unemployed,Highly Dissatisfied,Afternoon,5
+223,Cristobal Antoniutti,2015,4:32,706.454,32,7032.54,5,6 month subscription,5,MAC,Existing,3/5/2015,cantoniutti66@google.com,39,americanexpress,Student,Satisfied,Evening,2
+224,Vinny Stubbeley,2019,9:41,6101.815,127,5974.815,31,Free users subscription,9,UNIX,New Customer,1/20/2019,vstubbeley67@domainmarket.com,19,jcb,Working Professional,Highly Dissatisfied,Morning,3
+225,Farris Towle,2018,15:40,6235.193,32,62319.93,31,Family Plan subscription,10,UNIX,Existing,2/16/2019,ftowle68@tiny.cc,61,jcb,Home maker,Neutral,Night,5
+226,Jehanna Dowrey,2018,9:57,2045.561,32,20423.61,17,Student Plan subscription,5,Android,Existing,7/3/2019,jdowrey69@mediafire.com,62,jcb,Home maker,Highly Dissatisfied,Evening,2
+227,Stephana Bernot,2019,14:17,3860.798,127,3733.798,6,Family Plan subscription,10,Windows,New Customer,5/9/2019,sbernot6a@amazon.de,63,jcb,Home maker,Highly Dissatisfied,Morning,2
+228,Birk Berthelet,2014,20:40,2555.426,32,25522.26,34,6 month subscription,8,Windows,Existing,9/29/2017,bberthelet6b@squarespace.com,19,visa,Working Professional,Highly Dissatisfied,Evening,3
+229,Berne Baukham,2019,21:43,1021.1,127,894.1,23,1 year subscription,7,Windows,New Customer,4/20/2019,bbaukham6c@berkeley.edu,37,mastercard,Businessman,Satisfied,Morning,3
+230,Betsey Polycote,2019,2:55,8724.939,127,8597.939,10,3 month subscription,9,Windows,New Customer,6/12/2019,bpolycote6d@huffingtonpost.com,64,jcb,Other,Satisfied,Morning,5
+231,Etta Newgrosh,2009,18:24,8613.326,32,86101.26,23,1 month subscription,2,Android,Existing,6/11/2019,enewgrosh6e@ft.com,46,maestro,Working Professional,Neutral,Afternoon,4
+232,Ynes Luffman,2010,0:18,2193.474,32,21902.74,11,1 year subscription,7,Android,Existing,10/25/2015,yluffman6f@reddit.com,61,jcb,Other,Satisfied,Night,4
+233,Laurene Blaker,2018,1:38,7655.342,32,76521.42,27,1 year subscription,3,MAC,Existing,10/28/2018,lblaker6g@mtv.com,68,jcb,Student,Highly Satisfied,Night,5
+234,Ulrica Taylorson,2019,2:56,9926.043,127,9799.043,36,3 month subscription,3,Windows,New Customer,4/15/2019,utaylorson6h@youtube.com,29,diners-club-enroute,Working Professional,Highly Dissatisfied,Evening,2
+235,Hal Juhruke,2019,8:39,3650.028,127,3523.028,11,1 year subscription,6,Windows,New Customer,4/10/2019,hjuhruke6i@ft.com,44,mastercard,Student,Dissatisfied,Night,3
+236,Lorin Saulter,2017,2:38,3633.723,32,36305.23,42,Free users subscription,4,UNIX,Existing,3/1/2017,lsaulter6j@miitbeian.gov.cn,64,jcb,Unemployed,Neutral,Night,4
+237,Liliane Androsik,2019,3:05,1302.395,127,1175.395,22,3 month subscription,9,Windows,New Customer,5/30/2019,landrosik6k@reverbnation.com,38,jcb,Student,Satisfied,Morning,5
+238,Debora O'Lennane,2011,6:44,1846.338,32,18431.38,6,6 month subscription,5,Windows,Existing,8/20/2014,dolennane6l@boston.com,15,mastercard,Businessman,Highly Satisfied,Afternoon,2
+239,Toddie McQuaid,2019,0:58,1643.663,127,1516.663,5,Free users subscription,9,Windows,New Customer,4/11/2019,tmcquaid6m@eepurl.com,54,diners-club-international,Home maker,Highly Satisfied,Morning,5
+240,Rossy Tesoe,2008,5:13,5720.834,32,57176.34,35,Family Plan subscription,3,MAC,Existing,9/25/2013,rtesoe6n@behance.net,54,jcb,Home maker,Highly Satisfied,Evening,3
+241,Eric de Leon,2015,12:36,81.62,32,784.2,34,6 month subscription,2,MAC,Existing,12/14/2017,ede6o@cafepress.com,36,jcb,Other,Highly Dissatisfied,Afternoon,5
+242,Duncan Milmoe,2018,12:47,9314.639,32,93114.39,15,Free users subscription,10,Windows,Existing,2/18/2018,dmilmoe6p@apple.com,61,solo,Businessman,Dissatisfied,Afternoon,4
+243,Kristofor Brunone,2008,22:02,9415.115,32,94119.15,41,6 month subscription,3,MAC,Existing,1/1/2016,kbrunone6q@seesaa.net,32,jcb,Working Professional,Highly Dissatisfied,Evening,3
+244,Abby Margett,2017,0:21,2979.523,32,29763.23,20,Family Plan subscription,1,Windows,Existing,5/16/2017,amargett6r@usgs.gov,36,mastercard,Student,Highly Dissatisfied,Morning,4
+245,Ruthe Cashford,2011,15:13,9129.511,32,91263.11,5,1 year subscription,9,Windows,Existing,4/7/2018,rcashford6s@ca.gov,38,jcb,Unemployed,Dissatisfied,Night,3
+246,Linn Speeks,2009,15:25,9101.355,32,90981.55,32,3 month subscription,1,Android,Existing,2/27/2017,lspeeks6t@java.com,46,jcb,Home maker,Neutral,Night,4
+247,Mab Gascar,2018,0:11,8530.906,32,85277.06,33,Family Plan subscription,8,Android,Existing,1/11/2019,mgascar6u@seesaa.net,64,diners-club-enroute,Working Professional,Neutral,Night,4
+248,Dud Budgeon,2011,11:16,9183.993,32,91807.93,10,3 month subscription,3,UNIX,Existing,4/25/2012,dbudgeon6v@comcast.net,16,switch,Student,Dissatisfied,Night,2
+249,Madison Conelly,2017,15:41,5009.382,32,50061.82,38,Student Plan subscription,8,MAC,Existing,3/12/2017,mconelly6w@twitpic.com,17,bankcard,Home maker,Highly Dissatisfied,Afternoon,4
+250,Dulcy Tythacott,2017,3:53,7560.676,32,75574.76,4,1 year subscription,7,MAC,Existing,12/12/2018,dtythacott6x@yolasite.com,57,china-unionpay,Businessman,Dissatisfied,Evening,3
+251,Gaultiero Beltzner,2018,1:18,7461.831,32,74586.31,1,Student Plan subscription,8,Android,Existing,2/7/2018,gbeltzner6y@ameblo.jp,18,mastercard,Businessman,Satisfied,Evening,3
+252,Anestassia Valek,2008,14:29,2883.607,32,28804.07,16,Free users subscription,4,Android,Existing,10/30/2008,avalek6z@smugmug.com,67,jcb,Working Professional,Highly Dissatisfied,Afternoon,2
+253,Asia Thomelin,2018,7:49,6832.125,32,68289.25,5,6 month subscription,7,Android,Existing,7/11/2019,athomelin70@cam.ac.uk,64,jcb,Unemployed,Highly Dissatisfied,Morning,4
+254,Keely Rapley,2018,12:01,480.991,32,4777.91,8,Family Plan subscription,2,Android,Existing,7/2/2019,krapley71@facebook.com,30,jcb,Working Professional,Satisfied,Evening,2
+255,Katya Blaze,2019,7:47,4318.266,127,4191.266,13,Family Plan subscription,2,Windows,New Customer,7/8/2019,kblaze72@irs.gov,41,bankcard,Working Professional,Highly Satisfied,Night,3
+256,Terencio Baylis,2009,15:34,9708.924,32,97057.24,29,Family Plan subscription,3,Windows,Existing,1/3/2017,tbaylis73@geocities.jp,47,jcb,Businessman,Neutral,Morning,4
+257,Shae Haveline,2018,1:43,6582.65,32,65794.5,42,3 month subscription,9,Android,Existing,4/11/2018,shaveline74@geocities.com,50,jcb,Businessman,Highly Satisfied,Morning,4
+258,Nataline Wayon,2010,13:53,1041,32,10378,35,Student Plan subscription,5,Windows,Existing,2/24/2016,nwayon75@baidu.com,69,jcb,Businessman,Satisfied,Evening,3
+259,Cass Pettiford,2008,7:29,8437.228,32,84340.28,23,Free users subscription,5,UNIX,Existing,2/15/2008,cpettiford76@dot.gov,43,jcb,Other,Neutral,Afternoon,5
+260,Johny Dickings,2012,23:49,5576.198,32,55729.98,47,1 month subscription,9,MAC,Existing,4/8/2013,jdickings77@who.int,41,maestro,Home maker,Dissatisfied,Morning,5
+261,Horace Jarville,2014,14:19,5576.789,32,55735.89,18,Free users subscription,6,MAC,Existing,1/10/2016,hjarville78@seattletimes.com,38,jcb,Unemployed,Highly Dissatisfied,Morning,5
+262,Amos McKendo,2018,15:42,7336.782,32,73335.82,24,1 year subscription,8,UNIX,Existing,4/14/2019,amckendo79@psu.edu,32,mastercard,Working Professional,Dissatisfied,Morning,2
+263,Pooh Bunson,2010,6:00,2572.18,32,25689.8,34,Free users subscription,1,MAC,Existing,10/27/2016,pbunson7a@networkadvertising.org,24,jcb,Home maker,Satisfied,Night,3
+264,Brooks Stepto,2014,21:06,2287.824,32,22846.24,34,Free users subscription,4,MAC,Existing,4/21/2018,bstepto7b@state.tx.us,65,visa,Home maker,Highly Satisfied,Morning,4
+265,Ariela Chalker,2009,3:48,1030.142,32,10269.42,10,Free users subscription,9,Android,Existing,4/5/2013,achalker7c@goodreads.com,59,jcb,Unemployed,Neutral,Night,2
+266,Papagena Lesek,2015,22:29,7468.431,32,74652.31,16,3 month subscription,3,MAC,Existing,11/1/2017,plesek7d@census.gov,20,jcb,Other,Dissatisfied,Afternoon,4
+267,Mariellen Woodroff,2019,23:31,5758.177,127,5631.177,47,3 month subscription,8,Windows,New Customer,2/1/2019,mwoodroff7e@soup.io,70,americanexpress,Home maker,Dissatisfied,Morning,2
+268,Killie Bucham,2014,7:29,5924.019,32,59208.19,11,Family Plan subscription,5,Android,Existing,3/23/2014,kbucham7f@wikimedia.org,17,jcb,Working Professional,Satisfied,Evening,2
+269,Lorin Alexis,2012,22:52,6291.073,32,62878.73,24,Student Plan subscription,6,Windows,Existing,7/3/2018,lalexis7g@squidoo.com,34,mastercard,Other,Satisfied,Morning,5
+270,Giff Profit,2017,22:44,5617.178,32,56139.78,6,1 year subscription,6,UNIX,Existing,7/16/2019,gprofit7h@a8.net,62,americanexpress,Businessman,Satisfied,Afternoon,3
+271,Queenie Jorissen,2015,13:17,1165.264,32,11620.64,35,Family Plan subscription,7,UNIX,Existing,11/4/2016,qjorissen7i@paypal.com,54,mastercard,Other,Satisfied,Night,3
+272,Kirbee Doddrell,2017,2:52,1083.196,32,10799.96,10,1 year subscription,9,UNIX,Existing,10/5/2018,kdoddrell7j@cnbc.com,33,maestro,Student,Neutral,Morning,5
+273,Celestyn Strainge,2019,14:25,4243.346,127,4116.346,5,3 month subscription,5,Windows,New Customer,4/12/2019,cstrainge7k@skyrock.com,41,americanexpress,Unemployed,Highly Dissatisfied,Morning,3
+274,Zola Maskill,2016,15:22,4819.7,32,48165,34,Student Plan subscription,10,Android,Existing,4/28/2019,zmaskill7l@livejournal.com,67,diners-club-us-ca,Unemployed,Neutral,Afternoon,3
+275,Meghann Bleythin,2014,1:43,410.214,32,4070.14,39,6 month subscription,1,Windows,Existing,8/17/2014,mbleythin7m@google.com,19,jcb,Student,Satisfied,Morning,4
+276,Chelsie Keatley,2018,7:59,7981.476,32,79782.76,46,6 month subscription,8,MAC,Existing,6/12/2018,ckeatley7n@ihg.com,15,maestro,Unemployed,Satisfied,Afternoon,2
+277,Jobina Derycot,2018,13:06,6512.679,32,65094.79,24,6 month subscription,7,UNIX,Existing,5/8/2019,jderycot7o@pagesperso-orange.fr,35,maestro,Home maker,Highly Dissatisfied,Afternoon,3
+278,Jaye Girth,2017,13:45,7009.438,32,70062.38,32,3 month subscription,9,Windows,Existing,8/18/2018,jgirth7p@ihg.com,68,mastercard,Other,Highly Dissatisfied,Night,3
+279,Dori O'Hickee,2019,21:34,8126.597,127,7999.597,20,6 month subscription,10,Windows,New Customer,5/13/2019,dohickee7q@apple.com,51,switch,Unemployed,Highly Dissatisfied,Night,3
+280,Artemas Brayford,2010,17:45,2105.417,32,21022.17,35,3 month subscription,9,MAC,Existing,5/28/2016,abrayford7r@cocolog-nifty.com,38,americanexpress,Student,Neutral,Afternoon,3
+281,Ellwood Pead,2012,4:55,2480.55,32,24773.5,8,1 year subscription,3,Windows,Existing,9/26/2014,epead7s@ed.gov,29,diners-club-carte-blanche,Other,Highly Satisfied,Evening,5
+282,Trumann McAlroy,2010,17:27,2311.968,32,23087.68,2,Free users subscription,5,Windows,Existing,5/29/2013,tmcalroy7t@washingtonpost.com,59,jcb,Other,Neutral,Afternoon,3
+283,Em Keepin,2010,5:31,7585.433,32,75822.33,34,1 month subscription,9,UNIX,Existing,11/16/2015,ekeepin7u@cisco.com,43,jcb,Unemployed,Dissatisfied,Afternoon,2
+284,Daphene Brookes,2008,6:05,5245.871,32,52426.71,11,Family Plan subscription,8,Windows,Existing,6/22/2015,dbrookes7v@wix.com,24,jcb,Home maker,Satisfied,Night,5
+285,Gregg Goter,2009,14:00,2178.336,32,21751.36,48,Free users subscription,10,MAC,Existing,7/13/2016,ggoter7w@e-recht24.de,37,jcb,Home maker,Satisfied,Night,3
+286,Oates Freeberne,2009,1:53,7177.207,32,71740.07,42,3 month subscription,5,Android,Existing,5/9/2013,ofreeberne7x@imageshack.us,64,bankcard,Other,Satisfied,Night,4
+287,Amye Poles,2014,14:01,9495.883,32,94926.83,24,3 month subscription,6,Windows,Existing,1/28/2016,apoles7y@flavors.me,21,americanexpress,Student,Dissatisfied,Afternoon,4
+288,Abbey Karpeev,2011,22:01,1151.669,32,11484.69,32,3 month subscription,10,Windows,Existing,1/23/2014,akarpeev7z@hostgator.com,51,bankcard,Businessman,Neutral,Afternoon,3
+289,Suzanne Shapero,2019,1:30,3196.137,127,3069.137,27,6 month subscription,4,Windows,New Customer,2/7/2019,sshapero80@hibu.com,63,jcb,Businessman,Neutral,Morning,4
+290,Gael Luton,2008,8:30,7512.311,32,75091.11,10,Family Plan subscription,7,Windows,Existing,4/2/2013,gluton81@g.co,16,mastercard,Other,Dissatisfied,Night,5
+291,Fredericka Hammerstone,2017,6:30,2130.795,32,21275.95,35,Student Plan subscription,9,Windows,Existing,7/27/2017,fhammerstone82@nifty.com,67,jcb,Student,Neutral,Evening,2
+292,Aridatha Jolliman,2019,4:34,8444.178,127,8317.178,17,Student Plan subscription,3,Windows,New Customer,5/25/2019,ajolliman83@samsung.com,66,jcb,Unemployed,Neutral,Evening,4
+293,Aigneis Loffel,2010,10:35,3218.593,32,32153.93,37,3 month subscription,10,Android,Existing,11/7/2013,aloffel84@rakuten.co.jp,59,americanexpress,Working Professional,Neutral,Evening,2
+294,Ryann Bus,2009,4:22,8672.52,32,86693.2,10,Free users subscription,2,Windows,Existing,10/21/2015,rbus85@auda.org.au,49,jcb,Unemployed,Neutral,Morning,3
+295,Alexis Giannassi,2019,19:18,5331.642,127,5204.642,10,Family Plan subscription,4,Windows,New Customer,6/23/2019,agiannassi86@redcross.org,28,jcb,Other,Highly Satisfied,Morning,4
+296,Chester Smittoune,2016,8:46,7189.645,32,71864.45,46,Free users subscription,8,MAC,Existing,5/18/2017,csmittoune87@hexun.com,54,bankcard,Other,Neutral,Evening,4
+297,Bryanty Tyrwhitt,2017,18:49,7233.419,32,72302.19,5,3 month subscription,7,UNIX,Existing,2/27/2018,btyrwhitt88@fda.gov,40,bankcard,Unemployed,Neutral,Night,3
+298,Coleman Troake,2011,9:43,2265.551,32,22623.51,5,Student Plan subscription,10,UNIX,Existing,2/4/2012,ctroake89@sciencedirect.com,65,solo,Other,Neutral,Afternoon,4
+299,Keane Gobbet,2015,16:57,3186.491,32,31832.91,20,3 month subscription,7,MAC,Existing,4/10/2018,kgobbet8a@comsenz.com,69,bankcard,Home maker,Satisfied,Night,3
+300,Ofilia Stein,2010,5:28,8309.685,32,83064.85,10,1 year subscription,4,MAC,Existing,8/5/2016,ostein8b@geocities.jp,15,visa-electron,Businessman,Satisfied,Afternoon,3
+301,Birdie Lyles,2018,18:02,1953.386,32,19501.86,43,1 year subscription,10,UNIX,Existing,2/25/2018,blyles8c@simplemachines.org,65,bankcard,Home maker,Neutral,Afternoon,5
+302,Robb Doust,2019,1:17,9034.746,127,8907.746,16,3 month subscription,5,Windows,New Customer,7/12/2019,rdoust8d@spotify.com,32,visa-electron,Unemployed,Highly Dissatisfied,Afternoon,4
+303,Elissa Luscombe,2018,22:46,1017.055,32,10138.55,2,6 month subscription,4,MAC,Existing,8/28/2018,eluscombe8e@drupal.org,68,jcb,Other,Satisfied,Night,3
+304,Bev Shevell,2019,17:15,8257.664,127,8130.664,18,1 month subscription,2,UNIX,New Customer,1/14/2019,bshevell8f@hc360.com,46,jcb,Student,Highly Satisfied,Evening,4
+305,Shelbi Ponte,2018,17:23,3333.459,32,33302.59,6,6 month subscription,5,UNIX,Existing,5/15/2019,sponte8g@msn.com,36,bankcard,Other,Dissatisfied,Night,5
+306,Gay Ritchley,2012,23:02,9385.645,32,93824.45,33,1 month subscription,6,Windows,Existing,5/27/2018,gritchley8h@surveymonkey.com,24,jcb,Working Professional,Highly Dissatisfied,Morning,2
+307,Boycie Thrasher,2014,18:47,1985.696,32,19824.96,21,3 month subscription,3,MAC,Existing,1/3/2014,bthrasher8i@indiegogo.com,38,visa-electron,Student,Highly Satisfied,Evening,3
+308,Everard Kollas,2018,9:51,665.845,32,6626.45,35,6 month subscription,5,Android,Existing,12/7/2018,ekollas8j@biblegateway.com,43,mastercard,Home maker,Highly Dissatisfied,Evening,3
+309,Rowen Jedrysik,2015,23:30,4835.282,32,48320.82,5,6 month subscription,5,UNIX,Existing,2/15/2015,rjedrysik8k@gizmodo.com,39,diners-club-us-ca,Student,Highly Satisfied,Afternoon,3
+310,Virgilio Remington,2018,16:34,9465.803,32,94626.03,5,6 month subscription,1,Android,Existing,10/16/2018,vremington8l@de.vu,55,jcb,Other,Highly Satisfied,Evening,5
+311,Gloria Crossby,2014,16:21,3419.78,32,34165.8,11,3 month subscription,1,Windows,Existing,12/11/2015,gcrossby8m@washington.edu,55,bankcard,Home maker,Dissatisfied,Afternoon,3
+312,Sandi Eyre,2018,22:10,9041.533,32,90383.33,44,Family Plan subscription,9,Windows,Existing,3/16/2019,seyre8n@accuweather.com,18,instapayment,Other,Satisfied,Afternoon,2
+313,Tawnya Somerlie,2018,5:14,3643.925,32,36407.25,5,Family Plan subscription,6,MAC,Existing,2/20/2018,tsomerlie8o@about.com,44,jcb,Student,Highly Satisfied,Morning,3
+314,Barn Cleveley,2012,18:45,3321.54,32,33183.4,41,Family Plan subscription,4,Android,Existing,7/20/2016,bcleveley8p@fda.gov,69,laser,Other,Dissatisfied,Night,4
+315,Shay Merwood,2018,18:01,6364.451,32,63612.51,46,1 year subscription,2,Windows,Existing,2/11/2018,smerwood8q@businesswire.com,66,bankcard,Home maker,Satisfied,Night,2
+316,Tally Blaney,2018,15:46,294.886,32,2916.86,34,6 month subscription,2,MAC,Existing,7/13/2018,tblaney8r@alexa.com,20,switch,Home maker,Highly Dissatisfied,Afternoon,4
+317,Lauren Kinner,2018,12:24,1567.976,32,15647.76,42,1 month subscription,7,MAC,Existing,5/21/2019,lkinner8s@wufoo.com,32,china-unionpay,Working Professional,Highly Satisfied,Afternoon,4
+318,Deny Arnald,2018,6:48,8287.637,32,82844.37,44,3 month subscription,7,Windows,Existing,3/25/2019,darnald8t@gravatar.com,61,visa,Working Professional,Highly Dissatisfied,Evening,3
+319,Loree Stiller,2016,16:20,7939.905,32,79367.05,35,1 month subscription,3,Android,Existing,4/20/2017,lstiller8u@imdb.com,23,jcb,Other,Highly Dissatisfied,Afternoon,4
+320,Francois Follis,2018,4:10,7458.279,32,74550.79,31,Family Plan subscription,10,UNIX,Existing,5/22/2019,ffollis8v@freewebs.com,17,visa-electron,Home maker,Neutral,Evening,4
+321,Samson Fluger,2018,21:15,5585.046,32,55818.46,10,6 month subscription,7,Android,Existing,7/25/2018,sfluger8w@china.com.cn,18,diners-club-carte-blanche,Businessman,Satisfied,Afternoon,2
+322,Kimberley Frankton,2018,1:11,2307.086,32,23038.86,34,3 month subscription,2,MAC,Existing,7/25/2019,kfrankton8x@vkontakte.ru,36,switch,Unemployed,Satisfied,Morning,3
+323,Niles Ranns,2012,6:32,9047.022,32,90438.22,30,Free users subscription,4,MAC,Existing,5/15/2019,nranns8y@123-reg.co.uk,38,switch,Working Professional,Dissatisfied,Night,4
+324,Enrique Ferruzzi,2019,20:52,636.279,127,509.279,7,3 month subscription,6,Android,New Customer,3/29/2019,eferruzzi8z@scribd.com,58,bankcard,Unemployed,Highly Dissatisfied,Morning,2
+325,Margaretha Darville,2018,19:54,5513.014,32,55098.14,38,1 year subscription,3,UNIX,Existing,2/9/2019,mdarville90@webeden.co.uk,43,instapayment,Unemployed,Dissatisfied,Night,3
+326,Tabb Love,2014,7:54,29.81,32,266.1,8,Family Plan subscription,8,Windows,Existing,12/20/2015,tlove91@huffingtonpost.com,43,visa-electron,Student,Highly Dissatisfied,Morning,5
+327,Lyndy Middlehurst,2019,7:26,8731.421,127,8604.421,29,6 month subscription,5,Windows,New Customer,1/24/2019,lmiddlehurst92@over-blog.com,30,maestro,Student,Highly Dissatisfied,Evening,3
+328,Bing Wanne,2019,23:22,1392.972,127,1265.972,44,3 month subscription,7,Android,New Customer,3/25/2019,bwanne93@exblog.jp,21,americanexpress,Unemployed,Neutral,Morning,2
+329,Barry Loidl,2008,23:49,996.534,32,9933.34,12,1 year subscription,4,Android,Existing,1/22/2017,bloidl94@nhs.uk,60,switch,Other,Highly Satisfied,Morning,4
+330,Darin Pethybridge,2019,16:02,5262.627,127,5135.627,19,3 month subscription,6,Android,New Customer,1/18/2019,dpethybridge95@washingtonpost.com,54,jcb,Home maker,Highly Satisfied,Morning,2
+331,Arleen Sundin,2009,3:29,7956.716,32,79535.16,42,Free users subscription,2,MAC,Existing,12/20/2011,asundin96@delicious.com,68,jcb,Working Professional,Highly Dissatisfied,Evening,5
+332,Maximilianus Negri,2019,23:31,4550.675,127,4423.675,11,1 year subscription,5,Android,New Customer,5/7/2019,mnegri97@latimes.com,58,maestro,Other,Neutral,Evening,3
+333,Tristan Draye,2010,19:30,5019.587,32,50163.87,10,Student Plan subscription,9,Android,Existing,4/11/2017,tdraye98@ehow.com,57,mastercard,Businessman,Satisfied,Morning,3
+334,Carmelia Colpus,2011,13:55,4264.842,32,42616.42,35,Student Plan subscription,10,UNIX,Existing,10/16/2018,ccolpus99@dedecms.com,59,visa-electron,Working Professional,Satisfied,Afternoon,5
+335,Cathrine Brash,2017,16:54,4515.79,32,45125.9,23,Student Plan subscription,5,Android,Existing,12/28/2017,cbrash9a@ameblo.jp,48,diners-club-enroute,Home maker,Satisfied,Afternoon,3
+336,Rudy Rowbottam,2014,1:52,6903.491,32,69002.91,7,1 year subscription,6,MAC,Existing,7/6/2014,rrowbottam9b@hostgator.com,52,maestro,Student,Highly Dissatisfied,Evening,3
+337,Brianna Hurlestone,2019,2:19,9687.412,127,9560.412,10,1 month subscription,3,Windows,New Customer,3/2/2019,bhurlestone9c@blogs.com,46,switch,Businessman,Highly Satisfied,Night,2
+338,Conroy Woodfin,2009,2:12,1239.393,32,12361.93,12,Family Plan subscription,5,Android,Existing,4/2/2019,cwoodfin9d@washingtonpost.com,54,jcb,Businessman,Satisfied,Night,3
+339,Conroy Sailer,2016,9:23,2953.692,32,29504.92,5,Free users subscription,2,Windows,Existing,4/10/2018,csailer9e@globo.com,49,diners-club-enroute,Home maker,Satisfied,Morning,4
+340,Cammy Jerman,2017,10:51,1830.616,32,18274.16,42,1 month subscription,5,Android,Existing,11/1/2017,cjerman9f@joomla.org,37,laser,Unemployed,Highly Satisfied,Evening,2
+341,Rivi Condy,2008,6:15,9609.882,32,96066.82,42,Student Plan subscription,6,Windows,Existing,4/10/2016,rcondy9g@nhs.uk,37,switch,Student,Satisfied,Evening,3
+342,Falkner Tirone,2018,20:16,7038.846,32,70356.46,5,1 month subscription,9,UNIX,Existing,6/14/2018,ftirone9h@spiegel.de,60,jcb,Businessman,Neutral,Night,5
+343,Nikoletta Flecknoe,2015,23:05,5244.368,32,52411.68,7,Student Plan subscription,4,MAC,Existing,10/4/2015,nflecknoe9i@seattletimes.com,70,jcb,Unemployed,Highly Dissatisfied,Evening,3
+344,Leela Twells,2018,2:12,9192.944,32,91897.44,4,1 month subscription,1,UNIX,Existing,6/4/2018,ltwells9j@mozilla.org,33,visa,Student,Neutral,Evening,4
+345,Josi Sleany,2019,21:58,446.804,127,319.804,7,3 month subscription,6,MAC,New Customer,2/25/2019,jsleany9k@sciencedaily.com,46,mastercard,Unemployed,Neutral,Evening,3
+346,Morna De Lascy,2008,5:42,5953.584,32,59503.84,34,Family Plan subscription,8,MAC,Existing,5/1/2017,mde9l@about.me,37,visa-electron,Student,Highly Dissatisfied,Morning,4
+347,Gretal Juschka,2010,21:11,9312.433,32,93092.33,42,1 month subscription,9,Android,Existing,6/29/2015,gjuschka9m@webeden.co.uk,40,jcb,Student,Highly Satisfied,Night,3
+348,Derrek Paddy,2011,6:45,8473.773,32,84705.73,35,Free users subscription,2,Windows,Existing,1/19/2013,dpaddy9n@sina.com.cn,18,jcb,Student,Highly Dissatisfied,Evening,4
+349,Derril Peachment,2019,4:44,2687.106,127,2560.106,46,Free users subscription,9,UNIX,New Customer,4/13/2019,dpeachment9o@usda.gov,31,jcb,Unemployed,Dissatisfied,Afternoon,4
+350,Dav Jaye,2011,17:18,1496.107,32,14929.07,47,Family Plan subscription,7,Android,Existing,8/4/2018,djaye9p@fotki.com,26,china-unionpay,Student,Highly Satisfied,Morning,4
+351,Bengt Higgonet,2014,23:26,9628.752,32,96255.52,46,1 month subscription,10,Android,Existing,11/28/2017,bhiggonet9q@mapy.cz,25,jcb,Businessman,Highly Satisfied,Night,3
+352,Rania Greenshields,2019,21:02,780.31,127,653.31,48,1 month subscription,8,UNIX,New Customer,5/18/2019,rgreenshields9r@answers.com,38,jcb,Home maker,Highly Satisfied,Morning,4
+353,Ardisj MacGuiness,2018,12:31,3604.89,32,36016.9,19,6 month subscription,2,MAC,Existing,4/3/2019,amacguiness9s@weather.com,68,visa-electron,Other,Dissatisfied,Night,5
+354,West Varns,2011,1:25,2077.3,32,20741,42,1 month subscription,10,Android,Existing,1/24/2015,wvarns9t@reddit.com,40,jcb,Working Professional,Satisfied,Morning,4
+355,Shaw Laverick,2012,2:50,2844.559,32,28413.59,41,3 month subscription,8,Android,Existing,6/2/2018,slaverick9u@ca.gov,59,maestro,Other,Neutral,Evening,5
+356,Sonya Morton,2016,5:04,4312.012,32,43088.12,5,3 month subscription,6,MAC,Existing,3/1/2017,smorton9v@prweb.com,45,jcb,Working Professional,Neutral,Morning,4
+357,Rudie McDonagh,2014,0:03,3978.588,32,39753.88,8,6 month subscription,10,UNIX,Existing,12/20/2017,rmcdonagh9w@homestead.com,63,maestro,Working Professional,Highly Satisfied,Morning,5
+358,Rozina Dooman,2019,22:39,3764.094,127,3637.094,21,Student Plan subscription,6,Android,New Customer,4/16/2019,rdooman9x@va.gov,64,solo,Other,Highly Satisfied,Night,2
+359,Camille Nary,2017,3:45,3277.648,32,32744.48,5,3 month subscription,5,Android,Existing,3/8/2019,cnary9y@admin.ch,23,switch,Other,Satisfied,Morning,4
+360,Merle Cuerda,2018,16:34,1385.191,32,13819.91,42,Free users subscription,4,UNIX,Existing,1/20/2018,mcuerda9z@bluehost.com,37,mastercard,Other,Highly Satisfied,Afternoon,4
+361,Alaster Riggott,2016,1:11,1987.393,32,19841.93,37,Family Plan subscription,3,Windows,Existing,5/6/2016,ariggotta0@biglobe.ne.jp,29,jcb,Student,Dissatisfied,Morning,3
+362,Free Masey,2018,11:27,2886.367,32,28831.67,11,Family Plan subscription,9,Windows,Existing,4/18/2018,fmaseya1@hc360.com,38,diners-club-carte-blanche,Other,Highly Satisfied,Morning,3
+363,Margarethe Lough,2010,16:37,6791.1,32,67879,5,Free users subscription,1,Android,Existing,10/31/2017,mlougha2@amazon.co.uk,20,jcb,Home maker,Satisfied,Afternoon,4
+364,Noell Ainsbury,2019,5:40,2647.656,127,2520.656,8,Family Plan subscription,3,Windows,New Customer,2/1/2019,nainsburya3@dell.com,23,jcb,Other,Highly Satisfied,Afternoon,3
+365,Abdul Dockery,2019,18:50,5273.127,127,5146.127,16,6 month subscription,2,Android,New Customer,1/14/2019,adockerya4@soundcloud.com,30,china-unionpay,Businessman,Neutral,Night,2
+366,Lamond Harley,2015,16:46,3552.116,32,35489.16,34,Free users subscription,4,MAC,Existing,6/18/2018,lharleya5@privacy.gov.au,27,diners-club-enroute,Student,Highly Satisfied,Night,4
+367,Reuven Krienke,2009,15:39,8449.209,32,84460.09,35,Free users subscription,10,Windows,Existing,3/29/2019,rkrienkea6@google.de,22,maestro,Unemployed,Highly Satisfied,Evening,4
+368,Miles Christall,2016,12:53,998.473,32,9952.73,15,Free users subscription,2,Android,Existing,6/12/2019,mchristalla7@answers.com,42,switch,Student,Dissatisfied,Afternoon,3
+369,Forster Bunner,2016,16:24,6760.35,32,67571.5,42,1 month subscription,9,Android,Existing,4/4/2018,fbunnera8@dmoz.org,19,maestro,Businessman,Highly Satisfied,Morning,4
+370,Christophe Haycock,2011,12:07,7429.274,32,74260.74,42,1 month subscription,8,Windows,Existing,10/15/2011,chaycocka9@amazon.de,35,bankcard,Home maker,Dissatisfied,Afternoon,4
+371,Joanie Fletham,2010,5:43,6001.964,32,59987.64,35,Student Plan subscription,2,Android,Existing,9/19/2014,jflethamaa@furl.net,57,diners-club-carte-blanche,Unemployed,Dissatisfied,Night,5
+372,Kettie Folkes,2014,2:40,3255.42,32,32522.2,10,Family Plan subscription,8,Windows,Existing,8/29/2016,kfolkesab@is.gd,49,jcb,Other,Satisfied,Afternoon,4
+373,Averil Yarrell,2011,4:01,5780.823,32,57776.23,27,3 month subscription,5,UNIX,Existing,10/17/2012,ayarrellac@cmu.edu,20,switch,Businessman,Satisfied,Afternoon,4
+374,Enrique Mellodey,2014,15:43,952.55,32,9493.5,47,6 month subscription,4,Android,Existing,10/25/2016,emellodeyad@timesonline.co.uk,24,americanexpress,Working Professional,Neutral,Evening,2
+375,Kaylyn Zammett,2012,6:28,3151.493,32,31482.93,35,1 month subscription,7,MAC,Existing,11/28/2015,kzammettae@exblog.jp,30,americanexpress,Working Professional,Satisfied,Night,4
+376,Lois Gulliman,2014,19:57,3512.007,32,35088.07,42,3 month subscription,9,UNIX,Existing,6/12/2018,lgullimanaf@eventbrite.com,25,jcb,Student,Dissatisfied,Morning,2
+377,Corine Gajewski,2017,5:46,3320.888,32,33176.88,45,1 year subscription,7,Windows,Existing,4/20/2018,cgajewskiag@gnu.org,45,laser,Working Professional,Highly Satisfied,Morning,2
+378,Yvonne Norsworthy,2015,23:40,8427.984,32,84247.84,35,Student Plan subscription,9,UNIX,Existing,6/8/2017,ynorsworthyah@deviantart.com,32,jcb,Businessman,Dissatisfied,Morning,4
+379,Hendrick Hrinishin,2015,13:59,331.477,32,3282.77,5,Family Plan subscription,10,Windows,Existing,1/1/2016,hhrinishinai@elegantthemes.com,28,visa-electron,Student,Highly Satisfied,Evening,4
+380,Fara Lody,2017,12:05,7002.694,32,69994.94,11,6 month subscription,4,MAC,Existing,1/26/2018,flodyaj@mit.edu,31,jcb,Working Professional,Dissatisfied,Evening,5
+381,Evy Kapelhof,2014,7:09,8528,32,85248,3,Free users subscription,5,MAC,Existing,12/8/2017,ekapelhofak@ifeng.com,53,jcb,Businessman,Satisfied,Morning,4
+382,Sherlock Griffiths,2018,0:24,9752.586,32,97493.86,5,Family Plan subscription,6,Windows,Existing,2/25/2019,sgriffithsal@instagram.com,17,jcb,Home maker,Satisfied,Night,3
+383,Stormie Klaaassen,2011,7:33,23.887,32,206.87,31,Free users subscription,3,Android,Existing,11/15/2018,sklaaassenam@godaddy.com,60,jcb,Unemployed,Satisfied,Night,5
+384,Gabbie Slateford,2012,4:15,1419.382,32,14161.82,42,3 month subscription,5,MAC,Existing,11/5/2017,gslatefordan@csmonitor.com,57,laser,Student,Dissatisfied,Evening,5
+385,Amory Shoutt,2009,8:55,3639.795,32,36365.95,19,Free users subscription,10,UNIX,Existing,7/14/2017,ashouttao@ihg.com,41,jcb,Unemployed,Highly Satisfied,Morning,4
+386,Trip Schooley,2017,22:34,7950.608,32,79474.08,47,Family Plan subscription,6,Windows,Existing,9/20/2017,tschooleyap@weebly.com,52,china-unionpay,Home maker,Satisfied,Night,5
+387,Hanan O'Howbane,2015,11:14,9324.071,32,93208.71,42,Family Plan subscription,3,MAC,Existing,12/4/2015,hohowbaneaq@w3.org,42,jcb,Other,Satisfied,Morning,5
+388,Ofella Winfrey,2014,19:23,1569.633,32,15664.33,5,6 month subscription,9,Windows,Existing,4/1/2014,owinfreyar@google.nl,48,bankcard,Student,Dissatisfied,Night,3
+389,Kerrie Durbyn,2019,7:08,5314.85,127,5187.85,32,Family Plan subscription,10,Android,New Customer,2/23/2019,kdurbynas@nbcnews.com,17,jcb,Home maker,Highly Dissatisfied,Night,3
+390,Fredric Bonett,2012,9:43,5899.52,32,58963.2,16,6 month subscription,6,Android,Existing,5/31/2018,fbonettat@acquirethisname.com,51,americanexpress,Working Professional,Dissatisfied,Afternoon,4
+391,Valle Dungay,2015,10:24,6565.7,32,65625,25,Student Plan subscription,7,Android,Existing,8/3/2016,vdungayau@geocities.jp,19,china-unionpay,Other,Neutral,Night,2
+392,Lawton Rattenberie,2018,11:50,6762.118,32,67589.18,37,Family Plan subscription,7,Android,Existing,6/13/2019,lrattenberieav@state.tx.us,28,americanexpress,Other,Highly Dissatisfied,Evening,4
+393,Dante MacArdle,2017,21:31,5670.179,32,56669.79,2,3 month subscription,4,UNIX,Existing,4/20/2019,dmacardleaw@google.co.jp,24,jcb,Businessman,Dissatisfied,Evening,5
+394,Deeyn Kerfoot,2008,20:49,6661.574,32,66583.74,35,6 month subscription,3,MAC,Existing,2/11/2010,dkerfootax@rakuten.co.jp,47,jcb,Student,Highly Satisfied,Afternoon,5
+395,Dominique Barkus,2008,4:00,8109.057,32,81058.57,5,3 month subscription,6,Android,Existing,1/13/2019,dbarkusay@4shared.com,15,jcb,Businessman,Neutral,Afternoon,4
+396,Emmalynne Mityashin,2018,12:10,5440.908,32,54377.08,34,6 month subscription,10,MAC,Existing,1/27/2019,emityashinaz@columbia.edu,41,jcb,Businessman,Neutral,Night,3
+397,Estevan Guerra,2017,20:23,6557.883,32,65546.83,36,3 month subscription,9,MAC,Existing,11/12/2018,eguerrab0@ca.gov,51,jcb,Other,Satisfied,Night,5
+398,Malva Snelling,2019,10:57,3770.298,127,3643.298,10,3 month subscription,2,MAC,New Customer,8/4/2019,msnellingb1@addtoany.com,37,jcb,Student,Neutral,Night,4
+399,Phedra Wilfing,2018,23:20,464.568,32,4613.68,10,Student Plan subscription,6,UNIX,Existing,5/28/2019,pwilfingb2@shop-pro.jp,66,visa,Other,Neutral,Morning,4
+400,Rancell Tandy,2017,4:18,3867.825,32,38646.25,4,3 month subscription,6,UNIX,Existing,8/25/2018,rtandyb3@reuters.com,60,jcb,Other,Highly Dissatisfied,Night,5
+401,Simeon Ausher,2018,9:09,9227.285,32,92240.85,24,3 month subscription,2,Windows,Existing,1/7/2018,sausherb4@ifeng.com,39,visa-electron,Home maker,Satisfied,Morning,5
+402,Tonya Jollye,2019,17:14,3376.463,127,3249.463,6,Family Plan subscription,2,Android,New Customer,6/1/2019,tjollyeb5@reverbnation.com,29,americanexpress,Home maker,Neutral,Night,3
+403,Billy Ferraron,2015,1:36,8355.73,32,83525.3,41,6 month subscription,10,UNIX,Existing,1/30/2018,bferraronb6@msn.com,21,china-unionpay,Student,Highly Satisfied,Afternoon,3
+404,Giordano Coates,2011,17:37,7781.334,32,77781.34,5,1 year subscription,7,UNIX,Existing,1/3/2013,gcoatesb7@hugedomains.com,29,maestro,Other,Dissatisfied,Morning,3
+405,Amalle Benez,2016,15:25,4753.701,32,47505.01,23,Student Plan subscription,5,Windows,Existing,10/4/2017,abenezb8@fc2.com,16,jcb,Other,Dissatisfied,Night,4
+406,Danita Haydney,2012,9:05,5990.928,32,59877.28,42,1 month subscription,5,Android,Existing,6/28/2017,dhaydneyb9@ucoz.com,45,jcb,Student,Dissatisfied,Morning,5
+407,Gordon Kinch,2014,17:13,3108.919,32,31057.19,24,1 month subscription,1,UNIX,Existing,2/25/2016,gkinchba@reference.com,64,solo,Home maker,Dissatisfied,Morning,4
+408,Silvia Major,2009,7:27,8121.542,32,81183.42,2,6 month subscription,3,MAC,Existing,3/3/2015,smajorbb@census.gov,68,jcb,Student,Highly Dissatisfied,Evening,3
+409,Tobiah Mandres,2016,2:35,38.949,32,357.49,34,Student Plan subscription,1,UNIX,Existing,8/28/2017,tmandresbc@blinklist.com,21,laser,Student,Highly Dissatisfied,Night,3
+410,Gerald Keightley,2019,1:07,15.037,127,-111.963,8,Free users subscription,1,Android,New Customer,4/30/2019,gkeightleybd@nhs.uk,50,mastercard,Other,Dissatisfied,Afternoon,2
+411,Ariel Kernan,2019,2:11,1548.542,127,1421.542,4,Free users subscription,2,UNIX,New Customer,3/5/2019,akernanbe@unblog.fr,34,diners-club-carte-blanche,Businessman,Satisfied,Evening,5
+412,Khalil Jepp,2018,15:54,8742.528,32,87393.28,5,1 month subscription,3,UNIX,Existing,5/7/2018,kjeppbf@networksolutions.com,26,americanexpress,Unemployed,Highly Dissatisfied,Evening,4
+413,Arri Pfaffe,2010,19:59,4430.557,32,44273.57,42,1 year subscription,10,UNIX,Existing,2/20/2010,apfaffebg@wikimedia.org,56,visa-electron,Other,Highly Dissatisfied,Morning,5
+414,Dieter Tourner,2018,10:58,9813.111,32,98099.11,42,3 month subscription,9,UNIX,Existing,5/9/2018,dtournerbh@wordpress.org,38,maestro,Home maker,Highly Satisfied,Afternoon,5
+415,Emelda Winger,2018,21:34,5336.79,32,53335.9,28,Free users subscription,10,MAC,Existing,12/13/2018,ewingerbi@slate.com,63,jcb,Other,Highly Satisfied,Morning,2
+416,Yuri Prew,2018,23:58,3772.819,32,37696.19,6,1 year subscription,2,MAC,Existing,5/12/2018,yprewbj@tinyurl.com,22,jcb,Unemployed,Neutral,Night,4
+417,Biddie Groveham,2010,14:26,7706.331,32,77031.31,24,Student Plan subscription,4,Android,Existing,5/7/2016,bgrovehambk@msu.edu,49,diners-club-enroute,Home maker,Highly Dissatisfied,Evening,5
+418,Coop Milam,2019,15:27,6538.352,127,6411.352,33,6 month subscription,10,MAC,New Customer,2/9/2019,cmilambl@buzzfeed.com,61,china-unionpay,Student,Highly Satisfied,Morning,2
+419,Caryl Lemmer,2019,22:55,1128.241,127,1001.241,5,Student Plan subscription,2,Android,New Customer,6/17/2019,clemmerbm@istockphoto.com,41,diners-club-enroute,Working Professional,Dissatisfied,Night,2
+420,Yuma Grindley,2011,13:16,9408.714,32,94055.14,11,Student Plan subscription,4,MAC,Existing,12/27/2016,ygrindleybn@quantcast.com,32,americanexpress,Unemployed,Neutral,Night,4
+421,Salvador Incogna,2019,20:37,2164.807,127,2037.807,21,Student Plan subscription,8,Android,New Customer,2/26/2019,sincognabo@themeforest.net,54,visa,Businessman,Highly Dissatisfied,Morning,3
+422,Arlee Itschakov,2016,8:57,3380.131,32,33769.31,16,3 month subscription,6,MAC,Existing,8/30/2018,aitschakovbp@globo.com,61,mastercard,Unemployed,Highly Satisfied,Afternoon,4
+423,Chester Smetoun,2016,14:30,1145.886,32,11426.86,42,1 year subscription,8,Windows,Existing,3/19/2018,csmetounbq@java.com,65,diners-club-international,Student,Highly Dissatisfied,Evening,4
+424,Trina Mathes,2011,11:31,2844.777,32,28415.77,31,Student Plan subscription,7,UNIX,Existing,12/5/2016,tmathesbr@bbc.co.uk,33,diners-club-carte-blanche,Unemployed,Dissatisfied,Afternoon,5
+425,Aida MacKnight,2012,18:22,818.258,32,8150.58,41,3 month subscription,4,UNIX,Existing,2/6/2014,amacknightbs@tinyurl.com,40,jcb,Student,Highly Satisfied,Morning,4
+426,Margit Graybeal,2011,17:05,5891.996,32,58887.96,16,Student Plan subscription,8,UNIX,Existing,9/1/2018,mgraybealbt@mit.edu,63,jcb,Businessman,Satisfied,Evening,3
+427,Dodi Cutting,2011,5:50,4405.624,32,44024.24,42,6 month subscription,4,UNIX,Existing,2/4/2017,dcuttingbu@hc360.com,62,china-unionpay,Home maker,Highly Dissatisfied,Evening,4
+428,Craig Paulus,2019,15:05,8807.25,127,8680.25,5,Student Plan subscription,10,Windows,New Customer,6/13/2019,cpaulusbv@networkadvertising.org,51,jcb,Student,Dissatisfied,Night,3
+429,Pace Phuprate,2019,20:32,3928.567,127,3801.567,5,1 year subscription,9,MAC,New Customer,6/16/2019,pphupratebw@bluehost.com,67,diners-club-us-ca,Student,Neutral,Night,3
+430,Malachi Sarginson,2018,3:30,7642.273,32,76390.73,10,Student Plan subscription,2,MAC,Existing,4/4/2018,msarginsonbx@ezinearticles.com,36,diners-club-enroute,Student,Highly Dissatisfied,Afternoon,3
+431,Bartholomeo Oakenfield,2016,7:53,9973.045,32,99698.45,23,1 month subscription,2,UNIX,Existing,10/20/2017,boakenfieldby@skyrock.com,20,diners-club-carte-blanche,Student,Dissatisfied,Morning,2
+432,Alistair Andreoletti,2017,13:07,1944.385,32,19411.85,14,Family Plan subscription,8,UNIX,Existing,4/5/2017,aandreolettibz@pen.io,30,jcb,Working Professional,Highly Satisfied,Morning,4
+433,Amalie Leyzell,2016,10:37,9192.138,32,91889.38,5,1 month subscription,9,Windows,Existing,6/17/2019,aleyzellc0@mashable.com,21,jcb,Other,Highly Satisfied,Evening,2
+434,Fiona Corradino,2018,11:22,5726.163,32,57229.63,34,Family Plan subscription,6,Android,Existing,6/28/2019,fcorradinoc1@bizjournals.com,20,switch,Businessman,Neutral,Morning,2
+435,Xylia Haskur,2015,11:48,3058.726,32,30555.26,33,6 month subscription,10,Android,Existing,1/22/2015,xhaskurc2@wikimedia.org,43,mastercard,Working Professional,Neutral,Evening,5
+436,Susy Doubrava,2018,22:34,7805.12,32,78019.2,8,Free users subscription,9,Windows,Existing,2/8/2018,sdoubravac3@bluehost.com,22,diners-club-enroute,Unemployed,Highly Dissatisfied,Morning,3
+437,Annetta Gradley,2018,18:08,697.491,32,6942.91,5,3 month subscription,9,Android,Existing,7/3/2018,agradleyc4@cdbaby.com,50,mastercard,Student,Dissatisfied,Afternoon,5
+438,Karyn Buckett,2018,1:27,1645.41,32,16422.1,23,Family Plan subscription,7,Windows,Existing,4/30/2018,kbuckettc5@globo.com,20,china-unionpay,Student,Dissatisfied,Afternoon,3
+439,Forest Stanley,2012,6:34,1585.116,32,15819.16,6,Family Plan subscription,4,UNIX,Existing,5/16/2012,fstanleyc6@twitpic.com,62,visa-electron,Businessman,Highly Dissatisfied,Morning,2
+440,Gregorius Ewing,2010,23:09,8413.618,32,84104.18,27,Free users subscription,4,Android,Existing,2/11/2018,gewingc7@163.com,25,visa,Student,Satisfied,Morning,3
+441,Maurene Wymer,2009,15:11,9608.835,32,96056.35,7,6 month subscription,4,Android,Existing,10/31/2011,mwymerc8@imageshack.us,46,jcb,Unemployed,Highly Dissatisfied,Evening,4
+442,Dot Banbrook,2018,20:02,9404.589,32,94013.89,43,1 month subscription,10,Windows,Existing,10/31/2018,dbanbrookc9@elegantthemes.com,22,instapayment,Working Professional,Satisfied,Afternoon,3
+443,Polly Yerill,2019,6:09,4038.882,127,3911.882,16,Free users subscription,4,UNIX,New Customer,5/28/2019,pyerillca@unc.edu,24,jcb,Student,Highly Satisfied,Afternoon,3
+444,Liza Jeckell,2009,22:08,9826.949,32,98237.49,10,Student Plan subscription,4,Android,Existing,2/9/2011,ljeckellcb@spiegel.de,67,jcb,Businessman,Dissatisfied,Evening,4
+445,Adore Geggus,2018,5:29,2739.506,32,27363.06,11,3 month subscription,5,Windows,Existing,6/24/2019,agegguscc@army.mil,52,jcb,Home maker,Neutral,Afternoon,4
+446,Wyndham Woodes,2018,6:46,9555.275,32,95520.75,43,1 month subscription,4,Android,Existing,3/19/2019,wwoodescd@fastcompany.com,29,mastercard,Working Professional,Satisfied,Night,4
+447,Orv MacGarrity,2018,10:08,9333.638,32,93304.38,47,Family Plan subscription,7,MAC,Existing,7/22/2019,omacgarrityce@php.net,42,diners-club-carte-blanche,Working Professional,Neutral,Morning,4
+448,Hally Westwell,2011,12:38,1883.25,32,18800.5,42,1 year subscription,9,MAC,Existing,11/9/2016,hwestwellcf@ow.ly,46,jcb,Student,Neutral,Afternoon,5
+449,Tuck Lampbrecht,2016,8:18,340.723,32,3375.23,46,Family Plan subscription,4,MAC,Existing,7/3/2017,tlampbrechtcg@ucoz.com,53,jcb,Unemployed,Highly Dissatisfied,Afternoon,4
+450,Gary Brabant,2018,7:39,1940.072,32,19368.72,15,3 month subscription,1,Windows,Existing,7/27/2019,gbrabantch@slashdot.org,52,diners-club-enroute,Student,Neutral,Night,3
+451,Torrance Crewes,2019,23:45,9664.812,127,9537.812,11,1 year subscription,5,Windows,New Customer,4/11/2019,tcrewesci@example.com,25,jcb,Home maker,Dissatisfied,Afternoon,5
+452,Angelle Caldero,2015,13:36,5317.024,32,53138.24,6,6 month subscription,2,Android,Existing,6/29/2019,acalderocj@goo.ne.jp,55,laser,Student,Neutral,Afternoon,3
+453,Shell Huston,2015,4:51,4092.933,32,40897.33,31,3 month subscription,9,Android,Existing,12/6/2018,shustonck@photobucket.com,48,visa-electron,Home maker,Neutral,Afternoon,2
+454,Eduard How,2015,14:37,3896.398,32,38931.98,5,1 month subscription,5,Android,Existing,6/30/2018,ehowcl@usgs.gov,52,laser,Home maker,Dissatisfied,Morning,3
+455,Heather Northey,2018,10:04,317.564,32,3143.64,10,3 month subscription,7,MAC,Existing,5/15/2019,hnortheycm@soup.io,31,mastercard,Other,Satisfied,Afternoon,4
+456,Neil Kerby,2018,1:58,3083.71,32,30805.1,23,3 month subscription,4,Android,Existing,2/1/2018,nkerbycn@freewebs.com,22,switch,Student,Neutral,Afternoon,3
+457,Vite Harfoot,2008,7:42,3119.755,32,31165.55,10,Family Plan subscription,9,UNIX,Existing,2/24/2015,vharfootco@webmd.com,22,jcb,Student,Satisfied,Afternoon,3
+458,Katerine Logsdail,2018,14:07,678.574,32,6753.74,35,Free users subscription,7,UNIX,Existing,7/15/2018,klogsdailcp@pagesperso-orange.fr,54,maestro,Unemployed,Satisfied,Evening,5
+459,Willa Barriball,2009,9:01,5783.104,32,57799.04,34,Student Plan subscription,1,Windows,Existing,1/21/2012,wbarriballcq@chicagotribune.com,20,switch,Unemployed,Highly Dissatisfied,Morning,2
+460,Thadeus Szymoni,2012,15:33,9340.633,32,93374.33,31,Family Plan subscription,2,UNIX,Existing,1/14/2017,tszymonicr@trellian.com,53,jcb,Student,Satisfied,Morning,4
+461,Farley Moye,2010,7:24,6341.072,32,63378.72,46,6 month subscription,6,Windows,Existing,9/27/2014,fmoyecs@harvard.edu,50,jcb,Working Professional,Highly Satisfied,Afternoon,4
+462,Stevana De Hoogh,2015,15:34,9411.623,32,94084.23,35,Student Plan subscription,4,Android,Existing,3/5/2017,sdect@skype.com,70,jcb,Working Professional,Neutral,Afternoon,3
+463,Barbette Cardall,2019,4:26,4138.976,127,4011.976,10,Free users subscription,10,Android,New Customer,6/18/2019,bcardallcu@cargocollective.com,50,jcb,Student,Highly Dissatisfied,Evening,4
+464,Baillie Vickers,2016,19:12,7521.13,32,75179.3,10,Student Plan subscription,10,Windows,Existing,3/14/2016,bvickerscv@acquirethisname.com,24,mastercard,Student,Highly Dissatisfied,Evening,4
+465,Shelba Furber,2019,7:24,4051.864,127,3924.864,44,Student Plan subscription,3,MAC,New Customer,5/3/2019,sfurbercw@toplist.cz,54,jcb,Student,Highly Satisfied,Evening,3
+466,Kurtis Gullick,2019,20:39,1017.189,127,890.189,41,1 month subscription,2,Android,New Customer,2/10/2019,kgullickcx@wikipedia.org,26,jcb,Businessman,Highly Satisfied,Night,4
+467,Shermie Dibdale,2019,18:26,8376.118,127,8249.118,43,Free users subscription,8,Windows,New Customer,7/20/2019,sdibdalecy@free.fr,38,switch,Unemployed,Satisfied,Evening,3
+468,Ronna Plumm,2014,0:05,7883.125,32,78799.25,5,6 month subscription,5,Android,Existing,11/27/2017,rplummcz@opera.com,35,switch,Other,Highly Dissatisfied,Night,3
+469,Sanford Joerning,2008,19:57,5934.605,32,59314.05,44,1 month subscription,9,UNIX,Existing,2/8/2014,sjoerningd0@flavors.me,34,maestro,Student,Highly Dissatisfied,Morning,4
+470,Jacky Prandin,2018,21:24,4723.734,32,47205.34,42,Student Plan subscription,8,Windows,Existing,5/15/2018,jprandind1@google.it,25,jcb,Student,Satisfied,Night,4
+471,Jemmie Gamlin,2015,23:42,8176.893,32,81736.93,38,Family Plan subscription,3,Android,Existing,1/7/2015,jgamlind2@engadget.com,67,diners-club-enroute,Other,Highly Satisfied,Night,3
+472,Damon Wetheril,2009,5:36,3154.586,32,31513.86,10,1 year subscription,6,MAC,Existing,5/30/2015,dwetherild3@redcross.org,25,mastercard,Other,Satisfied,Morning,4
+473,Rodney Triggle,2019,14:04,8483.643,127,8356.643,5,1 month subscription,7,MAC,New Customer,3/23/2019,rtriggled4@umn.edu,70,bankcard,Unemployed,Neutral,Afternoon,2
+474,Ettore Klawi,2012,0:47,4176.584,32,41733.84,47,1 year subscription,5,MAC,Existing,8/10/2013,eklawid5@instagram.com,40,visa-electron,Unemployed,Dissatisfied,Night,4
+475,Delilah Witten,2018,5:37,2112.634,32,21094.34,37,3 month subscription,9,UNIX,Existing,2/6/2018,dwittend6@phpbb.com,38,visa-electron,Unemployed,Dissatisfied,Evening,4
+476,Adina Roseaman,2018,12:16,6201.713,32,61985.13,5,1 year subscription,9,MAC,Existing,4/3/2018,aroseamand7@usatoday.com,64,jcb,Working Professional,Satisfied,Morning,3
+477,Nestor Comazzo,2008,7:42,523.12,32,5199.2,34,Free users subscription,1,Windows,Existing,1/20/2016,ncomazzod8@aol.com,41,jcb,Other,Highly Dissatisfied,Evening,2
+478,Cordie Hollingby,2014,22:32,4328.881,32,43256.81,16,Free users subscription,6,UNIX,Existing,2/27/2014,chollingbyd9@theglobeandmail.com,16,switch,Working Professional,Highly Dissatisfied,Evening,4
+479,Chad Huygens,2018,3:20,8583.53,32,85803.3,8,6 month subscription,3,MAC,Existing,5/14/2018,chuygensda@blogger.com,34,diners-club-us-ca,Student,Neutral,Afternoon,3
+480,Osmund Potebury,2019,21:37,4029.883,127,3902.883,15,Student Plan subscription,10,UNIX,New Customer,2/1/2019,opoteburydb@google.com.hk,60,jcb,Other,Highly Dissatisfied,Evening,4
+481,Daryn Learmond,2014,1:15,8760.652,32,87574.52,41,6 month subscription,10,UNIX,Existing,7/27/2016,dlearmonddc@rakuten.co.jp,67,jcb,Home maker,Dissatisfied,Evening,3
+482,Marwin Sturt,2011,18:24,9188.838,32,91856.38,17,Free users subscription,1,UNIX,Existing,2/12/2012,msturtdd@illinois.edu,35,switch,Unemployed,Satisfied,Morning,2
+483,Alphard Bottrell,2016,13:09,8318.906,32,83157.06,37,3 month subscription,9,UNIX,Existing,3/2/2018,abottrellde@plala.or.jp,50,jcb,Other,Satisfied,Afternoon,3
+484,Ludwig Test,2010,19:54,4141.124,32,41379.24,48,6 month subscription,1,Windows,Existing,8/28/2016,ltestdf@weebly.com,56,diners-club-enroute,Unemployed,Highly Satisfied,Afternoon,3
+485,Anastasia Cathersides,2018,0:00,6008.072,32,60048.72,10,1 year subscription,2,MAC,Existing,6/12/2019,acathersidesdg@360.cn,69,diners-club-us-ca,Working Professional,Highly Dissatisfied,Morning,2
+486,Adelaide Pavlasek,2016,11:36,3860.963,32,38577.63,10,3 month subscription,9,Windows,Existing,8/8/2016,apavlasekdh@msn.com,22,jcb,Working Professional,Neutral,Night,3
+487,Alister Ainscow,2017,8:23,3152.959,32,31497.59,10,Family Plan subscription,1,UNIX,Existing,3/27/2017,aainscowdi@imgur.com,35,jcb,Other,Neutral,Morning,3
+488,Neall Washtell,2018,13:09,2647.118,32,26439.18,14,1 month subscription,3,Windows,Existing,3/7/2019,nwashtelldj@ca.gov,50,diners-club-us-ca,Working Professional,Highly Dissatisfied,Evening,4
+489,Benoite Farrin,2010,13:51,5014.154,32,50109.54,4,1 year subscription,8,MAC,Existing,4/25/2013,bfarrindk@baidu.com,16,jcb,Home maker,Highly Satisfied,Afternoon,2
+490,Fionna Shoveller,2017,3:19,916.878,32,9136.78,42,1 month subscription,8,Windows,Existing,12/17/2017,fshovellerdl@nhs.uk,56,switch,Student,Highly Satisfied,Evening,3
+491,Matthus Busse,2008,23:30,6571.366,32,65681.66,29,Family Plan subscription,6,Windows,Existing,10/24/2010,mbussedm@cornell.edu,64,visa-electron,Working Professional,Neutral,Night,2
+492,Jeane Mushawe,2008,22:20,4480.562,32,44773.62,17,Free users subscription,9,MAC,Existing,4/12/2011,jmushawedn@harvard.edu,51,diners-club-carte-blanche,Unemployed,Dissatisfied,Night,3
+493,Jacquelyn Seavers,2011,14:14,9811.846,32,98086.46,46,1 year subscription,4,MAC,Existing,8/10/2012,jseaversdo@hud.gov,27,china-unionpay,Businessman,Satisfied,Night,4
+494,Brunhilde Jonk,2018,17:03,560.06,32,5568.6,5,6 month subscription,8,Android,Existing,8/7/2019,bjonkdp@hugedomains.com,30,jcb,Unemployed,Highly Dissatisfied,Afternoon,4
+495,Missie Grise,2009,12:53,2596.546,32,25933.46,5,Student Plan subscription,10,Windows,Existing,6/12/2017,mgrisedq@feedburner.com,60,maestro,Businessman,Dissatisfied,Afternoon,5
+496,Currie Friberg,2019,5:10,9653.193,127,9526.193,5,Student Plan subscription,10,Android,New Customer,2/25/2019,cfribergdr@house.gov,60,jcb,Other,Highly Satisfied,Evening,4
+497,Katuscha Ten Broek,2017,23:21,4105.176,32,41019.76,10,1 year subscription,3,Android,Existing,10/22/2017,ktends@comcast.net,36,jcb,Working Professional,Dissatisfied,Evening,3
+498,Gaile Cicculi,2011,15:20,6399.48,32,63962.8,9,Free users subscription,2,UNIX,Existing,11/7/2012,gcicculidt@naver.com,47,jcb,Student,Dissatisfied,Evening,2
+499,Susannah Wykes,2012,0:05,8274.726,32,82715.26,35,1 year subscription,2,Android,Existing,8/9/2014,swykesdu@flavors.me,24,jcb,Home maker,Neutral,Night,4
+500,Thedric Lodo,2018,17:55,3647.077,32,36438.77,34,Student Plan subscription,8,Windows,Existing,7/28/2018,tlododv@digg.com,62,instapayment,Unemployed,Neutral,Afternoon,4
+501,Vasili Margrie,2019,14:18,299.857,127,172.857,42,Family Plan subscription,4,MAC,New Customer,8/2/2019,vmargriedw@pen.io,56,diners-club-enroute,Other,Dissatisfied,Morning,3
+502,Georges Katte,2018,13:56,35.441,32,322.41,47,Student Plan subscription,8,MAC,Existing,5/2/2019,gkattedx@go.com,50,jcb,Working Professional,Neutral,Morning,5
+503,Umberto Drewry,2019,3:53,4124.195,127,3997.195,20,Student Plan subscription,7,Windows,New Customer,1/5/2019,udrewrydy@latimes.com,36,jcb,Student,Satisfied,Afternoon,3
+504,Emilia Ordish,2010,15:25,6301.078,32,62978.78,3,1 month subscription,8,Android,Existing,6/24/2017,eordishdz@amazon.co.uk,66,laser,Businessman,Highly Satisfied,Afternoon,2
+505,Brooks Saipy,2019,10:20,153.97,127,26.97,19,1 month subscription,4,Windows,New Customer,2/12/2019,bsaipye0@ning.com,19,jcb,Student,Highly Dissatisfied,Evening,3
+506,Jervis Tejero,2009,1:42,7942.69,32,79394.9,11,Family Plan subscription,1,Windows,Existing,4/19/2016,jtejeroe1@diigo.com,59,jcb,Other,Highly Satisfied,Morning,2
+507,Durand Timmons,2010,15:39,7097.141,32,70939.41,34,1 year subscription,9,Windows,Existing,11/25/2017,dtimmonse2@virginia.edu,32,visa-electron,Working Professional,Satisfied,Night,4
+508,Wilbert Heffer,2018,23:27,1275.456,32,12722.56,10,6 month subscription,10,Windows,Existing,4/6/2018,wheffere3@ezinearticles.com,54,switch,Other,Highly Satisfied,Morning,5
+509,Stephana Okroy,2010,14:31,9983.795,32,99805.95,42,Family Plan subscription,2,UNIX,Existing,2/2/2016,sokroye4@etsy.com,60,instapayment,Home maker,Satisfied,Morning,4
+510,Joellen Thackwray,2019,12:55,4970.895,127,4843.895,27,Family Plan subscription,5,Android,New Customer,2/15/2019,jthackwraye5@php.net,18,switch,Businessman,Dissatisfied,Afternoon,5
+511,Berry Jerromes,2010,14:17,1893.147,32,18899.47,42,1 year subscription,6,MAC,Existing,12/30/2016,bjerromese6@rediff.com,68,laser,Businessman,Satisfied,Morning,3
+512,Ainslie Jeannenet,2019,18:57,6994.641,127,6867.641,10,3 month subscription,4,Android,New Customer,5/13/2019,ajeannenete7@fda.gov,23,jcb,Other,Highly Satisfied,Evening,4
+513,Hyacinthia Tolumello,2016,18:22,4619.819,32,46166.19,27,1 year subscription,9,Windows,Existing,5/29/2018,htolumelloe8@msn.com,54,jcb,Businessman,Highly Dissatisfied,Morning,5
+514,Gayle Ferenczi,2009,6:44,7797.761,32,77945.61,5,6 month subscription,7,Android,Existing,5/23/2019,gferenczie9@printfriendly.com,70,visa,Home maker,Highly Dissatisfied,Night,4
+515,Aindrea Pedracci,2015,6:39,6419.547,32,64163.47,15,1 month subscription,7,Android,Existing,4/24/2019,apedracciea@altervista.org,44,bankcard,Student,Satisfied,Night,5
+516,Gillan Scarman,2014,8:03,9346.48,32,93432.8,11,3 month subscription,7,Android,Existing,11/28/2015,gscarmaneb@yahoo.co.jp,52,jcb,Home maker,Highly Satisfied,Evening,2
+517,Ker Kristufek,2010,14:22,5810.256,32,58070.56,15,Student Plan subscription,6,UNIX,Existing,7/2/2012,kkristufekec@google.ca,23,jcb,Other,Satisfied,Evening,2
+518,Gawain Fairbeard,2019,23:34,2029.538,127,1902.538,38,3 month subscription,9,UNIX,New Customer,5/9/2019,gfairbearded@un.org,34,jcb,Home maker,Neutral,Morning,5
+519,Donall Rouf,2018,2:04,1964.96,32,19617.6,10,1 year subscription,4,UNIX,Existing,3/5/2018,droufee@businessinsider.com,31,mastercard,Home maker,Neutral,Night,2
+520,Konstantin Pridgeon,2009,18:13,8007.958,32,80047.58,42,1 month subscription,6,UNIX,Existing,11/15/2015,kpridgeonef@rakuten.co.jp,19,visa,Working Professional,Highly Satisfied,Afternoon,5
+521,Tabbi Wellbelove,2018,16:02,9827.329,32,98241.29,42,6 month subscription,1,Android,Existing,1/4/2018,twellbeloveeg@sogou.com,41,instapayment,Home maker,Satisfied,Evening,5
+522,Erica Ornils,2018,0:27,3465.459,32,34622.59,23,1 month subscription,6,MAC,Existing,8/23/2018,eornilseh@aboutads.info,41,jcb,Businessman,Satisfied,Afternoon,4
+523,Alonzo Steel,2018,2:49,177.114,32,1739.14,42,Family Plan subscription,7,Android,Existing,12/27/2018,asteelei@4shared.com,45,bankcard,Working Professional,Highly Dissatisfied,Morning,5
+524,Shellie Pedel,2019,17:52,6724.139,127,6597.139,18,Family Plan subscription,1,UNIX,New Customer,4/25/2019,spedelej@google.ru,59,jcb,Home maker,Satisfied,Evening,4
+525,Marius McInteer,2009,9:44,9633.612,32,96304.12,38,Student Plan subscription,10,UNIX,Existing,7/27/2009,mmcinteerek@state.tx.us,53,jcb,Home maker,Dissatisfied,Morning,3
+526,Annamaria Core,2019,0:31,3172.647,127,3045.647,35,Family Plan subscription,5,Android,New Customer,3/15/2019,acoreel@economist.com,69,jcb,Student,Highly Satisfied,Morning,3
+527,Terry Tures,2015,11:09,3967.035,32,39638.35,42,1 month subscription,8,Windows,Existing,3/11/2019,tturesem@nba.com,31,jcb,Working Professional,Dissatisfied,Night,2
+528,Danya Waliszek,2016,4:58,9788.309,32,97851.09,42,1 month subscription,1,MAC,Existing,8/20/2017,dwaliszeken@indiatimes.com,19,jcb,Businessman,Satisfied,Night,4
+529,Mychal Floch,2019,20:25,9732.516,127,9605.516,12,Free users subscription,7,UNIX,New Customer,2/21/2019,mflocheo@etsy.com,19,jcb,Home maker,Dissatisfied,Night,3
+530,Truda Showt,2014,19:05,8565.472,32,85622.72,8,1 year subscription,10,MAC,Existing,8/5/2015,tshowtep@ustream.tv,69,instapayment,Student,Highly Satisfied,Morning,4
+531,Herb Wicken,2009,12:08,7215.013,32,72118.13,27,1 month subscription,9,Windows,Existing,3/27/2014,hwickeneq@free.fr,34,jcb,Unemployed,Dissatisfied,Night,4
+532,Colman Haitlie,2017,8:12,9735.789,32,97325.89,2,1 month subscription,1,MAC,Existing,3/1/2017,chaitlieer@unc.edu,52,maestro,Home maker,Highly Dissatisfied,Evening,3
+533,Shelby Catmull,2011,15:34,3956.383,32,39531.83,5,1 month subscription,5,MAC,Existing,11/2/2014,scatmulles@webs.com,18,china-unionpay,Other,Highly Satisfied,Evening,2
+534,Cyndie Eaglesham,2014,8:45,944.505,32,9413.05,17,6 month subscription,5,MAC,Existing,12/8/2017,ceagleshamet@paypal.com,60,diners-club-enroute,Working Professional,Neutral,Afternoon,4
+535,Karon Bellringer,2011,12:50,7349.208,32,73460.08,48,6 month subscription,3,MAC,Existing,3/27/2014,kbellringereu@toplist.cz,28,diners-club-carte-blanche,Working Professional,Dissatisfied,Evening,3
+536,Kennith Kubek,2010,20:55,4275.228,32,42720.28,5,1 month subscription,3,UNIX,Existing,5/20/2017,kkubekev@odnoklassniki.ru,17,jcb,Working Professional,Highly Satisfied,Night,4
+537,Micaela Swinfen,2019,5:18,3302.864,127,3175.864,2,Family Plan subscription,8,UNIX,New Customer,6/24/2019,mswinfenew@weibo.com,58,diners-club-enroute,Working Professional,Dissatisfied,Evening,2
+538,Way Boise,2018,13:47,4144.237,32,41410.37,42,1 month subscription,9,Windows,Existing,8/4/2018,wboiseex@sourceforge.net,40,laser,Home maker,Highly Satisfied,Morning,2
+539,Mair Pringuer,2019,3:44,1683.751,127,1556.751,22,Student Plan subscription,2,Windows,New Customer,7/15/2019,mpringuerey@geocities.jp,61,jcb,Home maker,Highly Satisfied,Morning,4
+540,Taddeo Hartley,2009,23:53,3361.587,32,33583.87,28,3 month subscription,10,Windows,Existing,9/17/2017,thartleyez@alexa.com,43,jcb,Unemployed,Satisfied,Evening,5
+541,Oberon Stollberger,2018,21:12,2813.057,32,28098.57,40,Family Plan subscription,5,UNIX,Existing,2/6/2018,ostollbergerf0@europa.eu,52,jcb,Student,Dissatisfied,Afternoon,3
+542,Stephana Conneely,2016,0:39,2291.253,32,22880.53,35,Free users subscription,1,Windows,Existing,8/1/2019,sconneelyf1@salon.com,59,mastercard,Home maker,Dissatisfied,Evening,5
+543,Maxie Penquet,2016,7:06,7655.036,32,76518.36,34,1 year subscription,4,UNIX,Existing,2/8/2018,mpenquetf2@dropbox.com,63,switch,Businessman,Dissatisfied,Night,4
+544,Dukie Bourchier,2019,20:48,7337.439,127,7210.439,40,1 year subscription,6,Windows,New Customer,5/5/2019,dbourchierf3@lycos.com,39,jcb,Home maker,Dissatisfied,Night,5
+545,Robby Harriott,2017,8:44,9958.321,32,99551.21,35,6 month subscription,2,Windows,Existing,3/17/2018,rharriottf4@vkontakte.ru,65,switch,Unemployed,Dissatisfied,Afternoon,2
+546,Benjamin Bettleson,2017,1:43,9855.93,32,98527.3,13,1 month subscription,4,Windows,Existing,3/25/2018,bbettlesonf5@addtoany.com,57,maestro,Other,Dissatisfied,Evening,3
+547,Rhiamon Lindenbluth,2012,3:10,6748.207,32,67450.07,42,Family Plan subscription,3,Windows,Existing,5/16/2016,rlindenbluthf6@archive.org,45,jcb,Businessman,Highly Dissatisfied,Morning,4
+548,Robbert Sorton,2014,17:09,6426.942,32,64237.42,35,3 month subscription,6,Android,Existing,10/17/2018,rsortonf7@go.com,39,switch,Student,Highly Satisfied,Morning,4
+549,Nelli Blackleech,2011,6:03,7414.648,32,74114.48,42,3 month subscription,6,MAC,Existing,4/29/2019,nblackleechf8@skyrock.com,25,jcb,Other,Highly Satisfied,Morning,5
+550,Brady Late,2008,1:21,7978.024,32,79748.24,10,Free users subscription,8,MAC,Existing,8/17/2015,blatef9@admin.ch,50,jcb,Unemployed,Satisfied,Night,3
+551,Elspeth Duncanson,2018,22:48,4935.885,32,49326.85,38,6 month subscription,2,Windows,Existing,2/7/2019,eduncansonfa@cbsnews.com,40,jcb,Other,Highly Dissatisfied,Night,4
+552,Salomon Thompson,2018,13:35,2282.415,32,22792.15,44,1 year subscription,4,MAC,Existing,5/19/2019,sthompsonfb@nationalgeographic.com,32,jcb,Unemployed,Neutral,Afternoon,4
+553,Luise Munns,2015,10:49,3294.454,32,32912.54,2,Family Plan subscription,3,Windows,Existing,10/5/2017,lmunnsfc@bloomberg.com,53,mastercard,Student,Neutral,Afternoon,4
+554,Germain Stanbrooke,2016,0:59,9824.294,32,98210.94,10,Student Plan subscription,2,Windows,Existing,11/11/2018,gstanbrookefd@marriott.com,29,jcb,Student,Dissatisfied,Night,3
+555,Celina Illston,2010,12:42,8823.979,32,88207.79,29,Family Plan subscription,7,MAC,Existing,8/18/2018,cillstonfe@ft.com,67,jcb,Other,Neutral,Night,3
+556,Albina Sweetsur,2014,3:06,9534.489,32,95312.89,24,Student Plan subscription,5,Android,Existing,3/29/2016,asweetsurff@un.org,15,switch,Other,Highly Dissatisfied,Night,4
+557,Francesca Lord,2016,14:16,6421.118,32,64179.18,10,1 year subscription,3,UNIX,Existing,11/17/2017,flordfg@fda.gov,58,switch,Student,Neutral,Afternoon,3
+558,Emmanuel Dowling,2009,14:13,1010.893,32,10076.93,11,Free users subscription,9,Android,Existing,7/20/2016,edowlingfh@merriam-webster.com,52,jcb,Home maker,Neutral,Afternoon,3
+559,Tabbatha Treherne,2018,17:23,2997.257,32,29940.57,10,3 month subscription,8,Windows,Existing,7/21/2018,ttrehernefi@reverbnation.com,53,mastercard,Student,Highly Satisfied,Morning,4
+560,Jess Fasse,2018,20:23,1717.81,32,17146.1,44,Free users subscription,7,Android,Existing,7/27/2018,jfassefj@usatoday.com,21,mastercard,Working Professional,Satisfied,Night,3
+561,Lonny Pillans,2012,8:52,1692.044,32,16888.44,31,1 year subscription,9,UNIX,Existing,11/6/2014,lpillansfk@is.gd,65,jcb,Working Professional,Highly Dissatisfied,Morning,4
+562,Dore Govern,2015,6:20,8614.098,32,86108.98,6,Family Plan subscription,6,Windows,Existing,2/1/2016,dgovernfl@yandex.ru,64,diners-club-enroute,Home maker,Highly Dissatisfied,Evening,3
+563,Ahmad Gyles,2019,6:56,4376.328,127,4249.328,22,6 month subscription,1,Android,New Customer,7/8/2019,agylesfm@eventbrite.com,64,diners-club-us-ca,Businessman,Neutral,Night,4
+564,Laure Rawlinson,2018,2:22,503.353,32,5001.53,5,1 year subscription,8,Windows,Existing,5/26/2019,lrawlinsonfn@guardian.co.uk,47,china-unionpay,Businessman,Neutral,Night,4
+565,Orsa Dunstone,2018,22:15,1609.118,32,16059.18,44,1 month subscription,9,Android,Existing,5/4/2019,odunstonefo@gmpg.org,64,visa,Home maker,Highly Dissatisfied,Morning,2
+566,Flin Pestor,2015,15:58,8872.236,32,88690.36,10,6 month subscription,10,UNIX,Existing,3/27/2019,fpestorfp@topsy.com,36,visa-electron,Working Professional,Highly Satisfied,Evening,4
+567,Shannan Nyssen,2010,7:37,1512.915,32,15097.15,4,3 month subscription,6,Android,Existing,10/18/2018,snyssenfq@mapquest.com,17,switch,Unemployed,Highly Satisfied,Afternoon,4
+568,Michaela Braemer,2017,23:25,406.384,32,4031.84,5,Student Plan subscription,5,Android,Existing,9/9/2017,mbraemerfr@europa.eu,57,switch,Home maker,Dissatisfied,Evening,5
+569,Sigismond Batrim,2015,20:06,6809.012,32,68058.12,5,6 month subscription,3,Android,Existing,4/21/2016,sbatrimfs@e-recht24.de,30,jcb,Other,Neutral,Evening,4
+570,Demeter Memmory,2008,6:29,2795.378,32,27921.78,21,6 month subscription,10,Windows,Existing,7/1/2012,dmemmoryft@sina.com.cn,59,diners-club-us-ca,Student,Highly Satisfied,Afternoon,5
+571,Shannah Eixenberger,2019,6:35,6410.526,127,6283.526,43,Family Plan subscription,4,Windows,New Customer,6/30/2019,seixenbergerfu@businessinsider.com,44,americanexpress,Businessman,Highly Dissatisfied,Night,3
+572,Kellby Esgate,2017,4:04,5345.284,32,53420.84,19,1 month subscription,9,MAC,Existing,3/10/2018,kesgatefv@seesaa.net,48,jcb,Businessman,Highly Dissatisfied,Afternoon,2
+573,Zena Finci,2009,13:44,1711.721,32,17085.21,18,1 month subscription,8,Windows,Existing,4/25/2019,zfincifw@telegraph.co.uk,60,jcb,Businessman,Satisfied,Afternoon,2
+574,Antony Cowin,2010,8:48,859.718,32,8565.18,42,Free users subscription,6,MAC,Existing,4/27/2013,acowinfx@delicious.com,62,jcb,Unemployed,Highly Dissatisfied,Evening,3
+575,Maddi Leborgne,2014,10:32,8333.118,32,83299.18,5,6 month subscription,7,Windows,Existing,2/6/2014,mleborgnefy@go.com,40,china-unionpay,Home maker,Dissatisfied,Evening,4
+576,Tabb Woofenden,2017,20:15,4063.515,32,40603.15,10,1 month subscription,3,Windows,Existing,4/15/2019,twoofendenfz@buzzfeed.com,38,visa-electron,Student,Satisfied,Afternoon,3
+577,Hayyim Lanchbery,2012,11:53,3679.998,32,36767.98,41,6 month subscription,7,UNIX,Existing,3/3/2017,hlanchberyg0@ifeng.com,60,americanexpress,Working Professional,Satisfied,Afternoon,2
+578,Auberon Wetton,2012,11:12,9136.517,32,91333.17,42,1 month subscription,2,UNIX,Existing,7/10/2015,awettong1@163.com,40,americanexpress,Home maker,Highly Satisfied,Evening,3
+579,Eustace Pedracci,2019,3:27,233.034,127,106.034,27,1 month subscription,2,Windows,New Customer,4/10/2019,epedraccig2@ezinearticles.com,43,maestro,Home maker,Satisfied,Night,5
+580,Sigismundo Laytham,2009,1:09,1149.99,32,11467.9,4,Free users subscription,1,MAC,Existing,11/29/2014,slaythamg3@sourceforge.net,43,jcb,Student,Dissatisfied,Afternoon,3
+581,Lock Bariball,2019,7:57,9212.342,127,9085.342,35,1 year subscription,6,Windows,New Customer,4/26/2019,lbariballg4@slideshare.net,28,americanexpress,Working Professional,Dissatisfied,Afternoon,4
+582,Hadleigh O'Nions,2014,23:55,3911.997,32,39087.97,8,1 month subscription,3,Android,Existing,10/2/2015,honionsg5@technorati.com,69,mastercard,Other,Dissatisfied,Night,3
+583,Arturo Pottell,2010,19:44,3898.976,32,38957.76,34,1 year subscription,6,MAC,Existing,8/21/2015,apottellg6@census.gov,63,jcb,Student,Satisfied,Evening,4
+584,Haley Greensted,2018,12:27,5686.458,32,56832.58,19,Free users subscription,2,MAC,Existing,6/22/2018,hgreenstedg7@skype.com,36,jcb,Home maker,Satisfied,Morning,5
+585,Cassey Rawll,2011,19:40,3955.399,32,39521.99,42,1 year subscription,2,Windows,Existing,5/22/2013,crawllg8@pbs.org,45,visa-electron,Working Professional,Highly Dissatisfied,Morning,3
+586,Winifield Simoneau,2018,8:27,1443.384,32,14401.84,5,3 month subscription,10,UNIX,Existing,12/29/2018,wsimoneaug9@1und1.de,63,mastercard,Unemployed,Satisfied,Morning,4
+587,Ephrem Derges,2014,19:08,615.64,32,6124.4,44,1 month subscription,6,Android,Existing,10/16/2015,edergesga@cyberchimps.com,48,diners-club-carte-blanche,Working Professional,Highly Satisfied,Morning,3
+588,Audie Swatten,2017,2:06,5558.621,32,55554.21,6,Free users subscription,2,UNIX,Existing,2/26/2018,aswattengb@geocities.com,44,diners-club-international,Student,Dissatisfied,Morning,3
+589,Matteo Kmietsch,2018,19:02,4384.596,32,43813.96,5,3 month subscription,6,UNIX,Existing,5/19/2019,mkmietschgc@comcast.net,49,jcb,Businessman,Satisfied,Afternoon,3
+590,Goraud Narey,2018,8:53,5890.138,32,58869.38,42,Student Plan subscription,1,Android,Existing,4/11/2018,gnareygd@cafepress.com,37,china-unionpay,Businessman,Highly Dissatisfied,Afternoon,4
+591,Roch O'Hara,2018,11:24,9656.943,32,96537.43,42,1 year subscription,3,Android,Existing,2/27/2018,roharage@nsw.gov.au,65,maestro,Working Professional,Satisfied,Morning,5
+592,Ardelis Prenty,2010,16:17,4335.295,32,43320.95,6,Family Plan subscription,7,Windows,Existing,7/24/2019,aprentygf@amazonaws.com,61,americanexpress,Student,Dissatisfied,Afternoon,3
+593,Ola Skaife,2019,18:29,7739.922,127,7612.922,22,Free users subscription,4,UNIX,New Customer,6/3/2019,oskaifegg@oakley.com,54,visa-electron,Home maker,Dissatisfied,Night,4
+594,Tedra O'Connel,2018,6:06,6947.892,32,69446.92,31,1 month subscription,7,Windows,Existing,5/3/2018,toconnelgh@howstuffworks.com,17,jcb,Home maker,Dissatisfied,Night,5
+595,Shandy Polland,2018,9:52,5385.312,32,53821.12,35,1 month subscription,1,UNIX,Existing,10/12/2018,spollandgi@intel.com,21,americanexpress,Home maker,Neutral,Afternoon,5
+596,Killie Ionesco,2019,13:44,4537.124,127,4410.124,6,Student Plan subscription,3,MAC,New Customer,6/19/2019,kionescogj@ning.com,51,china-unionpay,Student,Highly Dissatisfied,Night,3
+597,Reed Haffenden,2009,22:25,1656.375,32,16531.75,34,1 year subscription,9,Android,Existing,7/19/2011,rhaffendengk@surveymonkey.com,44,jcb,Student,Satisfied,Afternoon,5
+598,Theodor Grieg,2008,23:37,5158.823,32,51556.23,42,6 month subscription,2,UNIX,Existing,3/24/2019,tgrieggl@canalblog.com,54,jcb,Other,Highly Satisfied,Morning,2
+599,Jamesy Charteris,2010,3:12,3164.97,32,31617.7,17,Free users subscription,3,MAC,Existing,6/22/2011,jcharterisgm@wp.com,49,switch,Businessman,Highly Satisfied,Morning,3
+600,Chane Ninotti,2015,3:52,6238.417,32,62352.17,33,1 month subscription,1,Windows,Existing,1/27/2019,cninottign@mapquest.com,36,mastercard,Home maker,Highly Dissatisfied,Afternoon,5
+601,Wilona Scarffe,2017,6:43,5391.33,32,53881.3,38,1 year subscription,9,Windows,Existing,2/17/2017,wscarffego@microsoft.com,32,diners-club-carte-blanche,Student,Highly Dissatisfied,Afternoon,2
+602,Tomaso Roma,2017,11:56,3408.611,32,34054.11,46,Family Plan subscription,2,MAC,Existing,2/13/2018,tromagp@wikimedia.org,21,switch,Home maker,Highly Dissatisfied,Evening,2
+603,Jacobo Vero,2011,4:41,3116.079,32,31128.79,25,Free users subscription,1,Android,Existing,8/6/2013,jverogq@webnode.com,35,jcb,Unemployed,Highly Satisfied,Evening,3
+604,Gratia Maylin,2019,23:37,8065.809,127,7938.809,24,Free users subscription,5,Android,New Customer,4/22/2019,gmaylingr@godaddy.com,22,jcb,Student,Highly Dissatisfied,Afternoon,3
+605,Huberto Statter,2017,22:40,8730.504,32,87273.04,34,1 year subscription,6,MAC,Existing,1/27/2018,hstattergs@goo.gl,65,jcb,Working Professional,Satisfied,Morning,5
+606,Patton Kenwright,2018,14:55,7342.168,32,73389.68,42,Family Plan subscription,9,Windows,Existing,12/29/2018,pkenwrightgt@google.com.br,19,jcb,Businessman,Neutral,Afternoon,4
+607,Benton Berggren,2018,0:54,871.276,32,8680.76,4,3 month subscription,6,Windows,Existing,7/11/2018,bberggrengu@networksolutions.com,63,jcb,Unemployed,Satisfied,Evening,4
+608,Riane Tales,2019,10:04,7083.732,127,6956.732,10,6 month subscription,6,MAC,New Customer,2/22/2019,rtalesgv@yolasite.com,52,jcb,Unemployed,Highly Dissatisfied,Night,5
+609,Paquito Kennefick,2016,11:10,5175.492,32,51722.92,5,Family Plan subscription,7,UNIX,Existing,10/20/2016,pkennefickgw@google.co.jp,64,mastercard,Other,Satisfied,Night,2
+610,Linet Witherup,2018,3:39,909.365,32,9061.65,42,Student Plan subscription,8,Android,Existing,7/18/2018,lwitherupgx@baidu.com,70,jcb,Home maker,Satisfied,Afternoon,3
+611,Ferdinand Whitlaw,2014,8:12,1464.827,32,14616.27,41,1 year subscription,1,UNIX,Existing,6/19/2015,fwhitlawgy@dropbox.com,65,jcb,Student,Neutral,Afternoon,4
+612,Beltran Kermannes,2012,7:33,8724.964,32,87217.64,43,3 month subscription,2,Android,Existing,10/15/2018,bkermannesgz@hhs.gov,23,diners-club-carte-blanche,Unemployed,Dissatisfied,Afternoon,5
+613,Ravi Badsey,2018,20:55,8086.386,32,80831.86,44,6 month subscription,6,Windows,Existing,11/26/2018,rbadseyh0@wikia.com,30,solo,Working Professional,Neutral,Morning,2
+614,Clementine Buckam,2019,7:05,3569.518,127,3442.518,4,6 month subscription,3,Windows,New Customer,8/8/2019,cbuckamh1@topsy.com,68,jcb,Working Professional,Highly Satisfied,Afternoon,5
+615,Luigi Broggelli,2015,20:23,5227.215,32,52240.15,43,Free users subscription,1,MAC,Existing,6/23/2019,lbroggellih2@facebook.com,69,jcb,Businessman,Dissatisfied,Afternoon,3
+616,Nissa Horwell,2010,17:24,8510.438,32,85072.38,1,Free users subscription,5,Android,Existing,6/15/2011,nhorwellh3@redcross.org,48,switch,Home maker,Highly Dissatisfied,Afternoon,5
+617,Jackie Monson,2018,14:12,7496.988,32,74937.88,4,3 month subscription,10,UNIX,Existing,4/4/2018,jmonsonh4@trellian.com,32,jcb,Other,Highly Dissatisfied,Morning,4
+618,Carter Tregidga,2016,21:49,810.902,32,8077.02,5,Student Plan subscription,3,Windows,Existing,12/20/2017,ctregidgah5@cbslocal.com,23,maestro,Other,Highly Dissatisfied,Night,3
+619,Jimmy Sweetenham,2016,22:51,9480.785,32,94775.85,42,1 month subscription,1,MAC,Existing,4/27/2016,jsweetenhamh6@tumblr.com,16,laser,Working Professional,Dissatisfied,Night,4
+620,Otha Barents,2018,19:12,9873.709,32,98705.09,8,Free users subscription,6,Windows,Existing,12/8/2018,obarentsh7@geocities.jp,38,maestro,Home maker,Satisfied,Afternoon,3
+621,Elmer Melding,2014,11:31,46.581,32,433.81,2,6 month subscription,1,MAC,Existing,2/8/2019,emeldingh8@google.com.br,51,jcb,Businessman,Dissatisfied,Night,4
+622,El Mannock,2011,9:33,4376.107,32,43729.07,27,3 month subscription,1,Android,Existing,5/15/2012,emannockh9@dot.gov,34,diners-club-carte-blanche,Home maker,Highly Satisfied,Evening,4
+623,Robin Darley,2012,20:44,6382.912,32,63797.12,12,Family Plan subscription,1,MAC,Existing,2/15/2017,rdarleyha@imdb.com,64,jcb,Student,Dissatisfied,Morning,2
+624,Adan Milne,2018,11:19,8347.605,32,83444.05,5,Free users subscription,10,MAC,Existing,5/28/2018,amilnehb@omniture.com,57,jcb,Unemployed,Highly Dissatisfied,Morning,4
+625,Robinet Baroux,2016,2:14,4619.649,32,46164.49,24,3 month subscription,9,UNIX,Existing,6/25/2017,rbarouxhc@wikispaces.com,46,americanexpress,Other,Dissatisfied,Afternoon,3
+626,Morlee Eriksson,2016,22:44,3927.347,32,39241.47,42,1 year subscription,3,MAC,Existing,4/16/2017,merikssonhd@amazonaws.com,68,jcb,Unemployed,Highly Dissatisfied,Morning,3
+627,Arnaldo Iglesias,2019,5:53,3621.499,127,3494.499,46,Family Plan subscription,6,Windows,New Customer,4/7/2019,aiglesiashe@hp.com,34,americanexpress,Businessman,Satisfied,Night,2
+628,Sabina Guly,2011,5:57,7728.926,32,77257.26,34,Student Plan subscription,7,Android,Existing,10/19/2015,sgulyhf@qq.com,38,jcb,Home maker,Dissatisfied,Morning,4
+629,Glori Capenor,2016,17:25,685.678,32,6824.78,6,Free users subscription,6,UNIX,Existing,11/24/2017,gcapenorhg@wikipedia.org,27,mastercard,Student,Satisfied,Evening,2
+630,Minni Abernethy,2017,11:22,8651.462,32,86482.62,5,1 month subscription,6,UNIX,Existing,10/17/2017,mabernethyhh@wikipedia.org,25,americanexpress,Businessman,Highly Dissatisfied,Morning,3
+631,Joyan Hegerty,2017,2:13,1828.583,32,18253.83,35,Family Plan subscription,9,Android,Existing,1/5/2018,jhegertyhi@nsw.gov.au,47,visa-electron,Unemployed,Neutral,Morning,4
+632,Erina Hadwin,2010,15:48,3225.675,32,32224.75,33,6 month subscription,3,Windows,Existing,2/10/2010,ehadwinhj@51.la,55,americanexpress,Home maker,Neutral,Night,4
+633,Morris Stockton,2019,8:18,6257.112,127,6130.112,4,Family Plan subscription,9,Android,New Customer,4/29/2019,mstocktonhk@sbwire.com,70,jcb,Working Professional,Neutral,Evening,3
+634,Alix Babbe,2017,8:20,4006.889,32,40036.89,10,1 month subscription,4,Windows,Existing,1/20/2019,ababbehl@fotki.com,53,maestro,Working Professional,Neutral,Afternoon,5
+635,Johnathan Evangelinos,2014,4:03,3225.482,32,32222.82,42,1 year subscription,6,UNIX,Existing,7/12/2015,jevangelinoshm@independent.co.uk,64,visa,Working Professional,Dissatisfied,Afternoon,5
+636,Joela Minocchi,2011,13:23,1085.385,32,10821.85,4,3 month subscription,10,UNIX,Existing,8/16/2017,jminocchihn@nydailynews.com,66,bankcard,Working Professional,Satisfied,Night,5
+637,Leigh Scurman,2011,14:27,4100.661,32,40974.61,15,Student Plan subscription,5,MAC,Existing,11/3/2018,lscurmanho@usgs.gov,53,solo,Working Professional,Neutral,Afternoon,2
+638,Francis Demelt,2014,1:40,5916.992,32,59137.92,4,Student Plan subscription,4,MAC,Existing,4/25/2015,fdemelthp@accuweather.com,16,bankcard,Student,Neutral,Evening,3
+639,Adriane Hasted,2010,22:57,2490.568,32,24873.68,39,Student Plan subscription,8,MAC,Existing,2/15/2011,ahastedhq@cyberchimps.com,34,diners-club-carte-blanche,Other,Satisfied,Morning,4
+640,Alix Rowntree,2017,12:52,6124.59,32,61213.9,44,Free users subscription,5,Windows,Existing,12/10/2018,arowntreehr@joomla.org,40,diners-club-enroute,Student,Dissatisfied,Afternoon,2
+641,Christabella Loveland,2015,12:31,8563.955,32,85607.55,8,1 year subscription,2,UNIX,Existing,9/15/2017,clovelandhs@biglobe.ne.jp,39,jcb,Other,Neutral,Afternoon,4
+642,Hermy Newcomb,2014,2:25,44.475,32,412.75,16,1 year subscription,10,MAC,Existing,4/19/2019,hnewcombht@sohu.com,29,jcb,Unemployed,Neutral,Night,2
+643,Cissiee O' Dooley,2011,8:26,2851.821,32,28486.21,35,Free users subscription,9,UNIX,Existing,1/22/2019,cohu@netvibes.com,54,mastercard,Unemployed,Dissatisfied,Morning,2
+644,Nester Rispin,2018,3:54,2599.424,32,25962.24,5,3 month subscription,8,MAC,Existing,7/11/2019,nrispinhv@weather.com,55,mastercard,Businessman,Highly Satisfied,Morning,5
+645,Clare Pengilly,2014,16:44,873.313,32,8701.13,34,Family Plan subscription,10,UNIX,Existing,6/19/2019,cpengillyhw@friendfeed.com,23,jcb,Working Professional,Dissatisfied,Night,3
+646,Mirabelle Saul,2012,1:12,3439.707,32,34365.07,10,Student Plan subscription,6,UNIX,Existing,5/22/2013,msaulhx@nymag.com,56,diners-club-enroute,Student,Dissatisfied,Morning,3
+647,Theresita Longstreet,2015,13:11,2835.698,32,28324.98,10,1 month subscription,6,Android,Existing,6/9/2017,tlongstreethy@webs.com,19,jcb,Businessman,Satisfied,Morning,5
+648,Forrester Starsmeare,2009,6:11,7989.525,32,79863.25,38,6 month subscription,2,UNIX,Existing,12/28/2014,fstarsmearehz@discuz.net,39,jcb,Working Professional,Highly Dissatisfied,Evening,3
+649,Miof mela Brinicombe,2018,22:09,8967.618,32,89644.18,48,1 month subscription,9,Windows,Existing,8/14/2018,mmelai0@who.int,32,jcb,Other,Highly Satisfied,Evening,3
+650,Hilde Joseland,2018,22:38,5387.015,32,53838.15,27,Free users subscription,5,Windows,Existing,3/10/2019,hjoselandi1@icq.com,27,jcb,Home maker,Highly Satisfied,Morning,4
+651,Sheffield Backshill,2016,11:36,2933.266,32,29300.66,23,Free users subscription,8,Android,Existing,6/20/2017,sbackshilli2@instagram.com,68,china-unionpay,Working Professional,Highly Dissatisfied,Evening,2
+652,Curtis Byart,2018,3:11,8817.986,32,88147.86,42,1 year subscription,3,Windows,Existing,11/1/2018,cbyarti3@alibaba.com,47,laser,Home maker,Highly Satisfied,Night,3
+653,Aland Lattey,2016,21:40,5604.978,32,56017.78,11,1 month subscription,3,UNIX,Existing,12/8/2016,alatteyi4@wp.com,31,jcb,Other,Highly Dissatisfied,Morning,3
+654,Patsy Straine,2014,4:02,7254.791,32,72515.91,9,1 year subscription,9,Windows,Existing,4/28/2015,pstrainei5@dagondesign.com,34,diners-club-enroute,Student,Highly Dissatisfied,Morning,3
+655,Dev Rustedge,2011,11:59,5573.627,32,55704.27,3,1 year subscription,8,Android,Existing,9/14/2011,drustedgei6@360.cn,44,instapayment,Other,Satisfied,Evening,3
+656,Jerrie Ellams,2014,6:19,3291.229,32,32880.29,23,6 month subscription,10,MAC,Existing,5/7/2014,jellamsi7@devhub.com,42,china-unionpay,Home maker,Satisfied,Morning,5
+657,Lanni Woollacott,2016,20:34,6035.006,32,60318.06,48,3 month subscription,6,Windows,Existing,6/14/2018,lwoollacotti8@auda.org.au,31,instapayment,Unemployed,Satisfied,Afternoon,3
+658,Scarlett Wibrow,2016,14:22,4380.484,32,43772.84,20,3 month subscription,2,MAC,Existing,4/16/2017,swibrowi9@independent.co.uk,20,jcb,Other,Highly Dissatisfied,Morning,2
+659,Kienan Ditts,2018,8:23,4572.514,32,45693.14,44,6 month subscription,7,MAC,Existing,7/29/2019,kdittsia@addthis.com,62,mastercard,Home maker,Highly Satisfied,Night,5
+660,Chance Pullar,2009,15:10,7161.485,32,71582.85,42,1 year subscription,6,Android,Existing,5/10/2014,cpullarib@buzzfeed.com,43,visa-electron,Unemployed,Highly Dissatisfied,Evening,3
+661,Rik Moulson,2009,3:57,7832.28,32,78290.8,35,3 month subscription,9,UNIX,Existing,2/13/2017,rmoulsonic@sun.com,61,switch,Unemployed,Highly Satisfied,Night,4
+662,Daryl Sabati,2011,17:46,4303.072,32,42998.72,39,6 month subscription,4,Android,Existing,10/23/2011,dsabatiid@eepurl.com,32,switch,Businessman,Satisfied,Night,4
+663,Gale Snary,2016,18:56,2993.319,32,29901.19,10,Free users subscription,4,Windows,Existing,5/16/2017,gsnaryie@webmd.com,49,jcb,Businessman,Dissatisfied,Evening,3
+664,Carry Bardsley,2017,9:30,9085.463,32,90822.63,8,Free users subscription,9,Windows,Existing,7/3/2018,cbardsleyif@domainmarket.com,29,jcb,Unemployed,Highly Satisfied,Evening,4
+665,Calv Coast,2017,7:36,9096.448,32,90932.48,42,1 year subscription,3,UNIX,Existing,8/7/2019,ccoastig@naver.com,16,maestro,Other,Dissatisfied,Night,5
+666,Margy Frigout,2019,21:55,7290.521,127,7163.521,5,Free users subscription,9,Android,New Customer,3/23/2019,mfrigoutih@diigo.com,38,maestro,Businessman,Neutral,Evening,2
+667,Hilly Habbon,2016,21:47,2494.459,32,24912.59,34,Free users subscription,7,MAC,Existing,6/11/2019,hhabbonii@slashdot.org,55,jcb,Working Professional,Highly Dissatisfied,Night,4
+668,Delcine Meo,2009,21:25,3783.982,32,37807.82,11,6 month subscription,7,UNIX,Existing,6/21/2012,dmeoij@shop-pro.jp,42,jcb,Other,Highly Dissatisfied,Evening,2
+669,Lana Crabbe,2014,20:56,7907.539,32,79043.39,37,Student Plan subscription,2,Android,Existing,3/6/2015,lcrabbeik@sourceforge.net,70,jcb,Unemployed,Highly Dissatisfied,Morning,3
+670,Sigfrid Danilchev,2015,12:26,8233.266,32,82300.66,5,1 year subscription,9,MAC,Existing,8/23/2015,sdanilchevil@freewebs.com,21,jcb,Home maker,Satisfied,Night,4
+671,Lissy Blazi,2019,4:06,2500.183,127,2373.183,18,1 month subscription,7,MAC,New Customer,2/18/2019,lblaziim@ask.com,70,china-unionpay,Working Professional,Satisfied,Afternoon,4
+672,Idette Sleath,2018,6:55,8171.102,32,81679.02,5,3 month subscription,4,MAC,Existing,2/17/2018,isleathin@theguardian.com,64,jcb,Working Professional,Satisfied,Evening,3
+673,Ediva Wakeling,2008,17:07,5589.192,32,55859.92,5,6 month subscription,9,MAC,Existing,2/27/2008,ewakelingio@dropbox.com,57,switch,Businessman,Neutral,Night,4
+674,Elisa Harrower,2018,22:34,4923.561,32,49203.61,24,Family Plan subscription,1,Android,Existing,8/7/2019,eharrowerip@arstechnica.com,53,jcb,Home maker,Highly Dissatisfied,Evening,3
+675,Gaultiero Huie,2010,2:53,7524.241,32,75210.41,44,6 month subscription,5,MAC,Existing,3/11/2014,ghuieiq@t-online.de,22,jcb,Home maker,Highly Satisfied,Evening,3
+676,Boniface Erskin,2012,18:23,542.071,32,5388.71,48,6 month subscription,3,Android,Existing,5/15/2013,berskinir@ftc.gov,27,switch,Home maker,Satisfied,Afternoon,5
+677,Seamus Fisbey,2010,8:53,9536.697,32,95334.97,24,1 year subscription,6,Android,Existing,5/8/2016,sfisbeyis@google.nl,55,jcb,Working Professional,Highly Satisfied,Afternoon,4
+678,Dewitt Hunnable,2015,16:51,9684.097,32,96808.97,8,Student Plan subscription,7,Windows,Existing,1/19/2019,dhunnableit@webmd.com,16,maestro,Student,Highly Dissatisfied,Night,3
+679,Angelina Gloster,2019,19:43,8597.929,127,8470.929,5,Free users subscription,10,Android,New Customer,3/30/2019,aglosteriu@pbs.org,44,mastercard,Other,Neutral,Morning,4
+680,Janina Sorrie,2011,5:59,6084.835,32,60816.35,11,1 year subscription,2,UNIX,Existing,6/6/2016,jsorrieiv@bigcartel.com,61,switch,Home maker,Satisfied,Evening,5
+681,Pepillo Scholler,2018,21:46,4464.404,32,44612.04,10,Free users subscription,9,Android,Existing,2/26/2019,pscholleriw@addtoany.com,46,jcb,Student,Neutral,Evening,2
+682,Skipton Wilcot,2018,15:25,3913.653,32,39104.53,17,1 year subscription,1,UNIX,Existing,2/23/2018,swilcotix@miitbeian.gov.cn,52,laser,Unemployed,Neutral,Morning,3
+683,Earle Swynfen,2008,15:21,5107.873,32,51046.73,46,Free users subscription,9,UNIX,Existing,4/26/2016,eswynfeniy@msu.edu,66,jcb,Other,Dissatisfied,Night,3
+684,Arly Bum,2018,18:12,721.427,32,7182.27,10,Family Plan subscription,1,Windows,Existing,7/20/2018,abumiz@state.gov,15,china-unionpay,Working Professional,Satisfied,Afternoon,3
+685,Doralynne Gori,2018,0:34,1453.638,32,14504.38,8,3 month subscription,2,Android,Existing,7/17/2018,dgorij0@fc2.com,37,jcb,Unemployed,Dissatisfied,Evening,5
+686,Rhiamon Presdee,2010,2:03,4522.553,32,45193.53,17,Student Plan subscription,2,Windows,Existing,9/28/2013,rpresdeej1@csmonitor.com,23,diners-club-enroute,Other,Neutral,Night,3
+687,Missie Shieldon,2012,14:51,1605.681,32,16024.81,8,1 month subscription,6,Android,Existing,10/9/2013,mshieldonj2@hatena.ne.jp,33,maestro,Other,Satisfied,Night,2
+688,Kelsi Patria,2018,5:02,3017.412,32,30142.12,42,Family Plan subscription,3,UNIX,Existing,7/23/2019,kpatriaj3@google.it,24,switch,Businessman,Satisfied,Night,3
+689,Mirilla Claasen,2018,2:39,6955.184,32,69519.84,27,Student Plan subscription,3,MAC,Existing,8/5/2018,mclaasenj4@illinois.edu,56,mastercard,Student,Highly Satisfied,Night,4
+690,Marietta Loxly,2014,11:18,8281.937,32,82787.37,5,1 month subscription,1,UNIX,Existing,7/16/2017,mloxlyj5@gov.uk,23,diners-club-enroute,Unemployed,Highly Dissatisfied,Night,2
+691,Dael Jarrard,2011,8:36,9710.378,32,97071.78,5,Student Plan subscription,8,Windows,Existing,4/16/2016,djarrardj6@wufoo.com,47,diners-club-enroute,Unemployed,Neutral,Morning,4
+692,Lilllie Conahy,2012,14:58,8815.591,32,88123.91,34,Family Plan subscription,4,UNIX,Existing,5/1/2016,lconahyj7@google.es,28,jcb,Student,Highly Satisfied,Afternoon,4
+693,Raina Dilger,2012,14:08,4777.246,32,47740.46,6,6 month subscription,3,Android,Existing,8/20/2018,rdilgerj8@t.co,70,jcb,Other,Neutral,Morning,3
+694,Cort Markussen,2019,16:08,3177.959,127,3050.959,37,1 year subscription,2,Windows,New Customer,6/2/2019,cmarkussenj9@stanford.edu,32,diners-club-enroute,Other,Highly Dissatisfied,Afternoon,4
+695,Wilbur Barbe,2016,1:06,3448.639,32,34454.39,8,Free users subscription,4,MAC,Existing,4/14/2019,wbarbeja@whitehouse.gov,60,diners-club-enroute,Working Professional,Highly Satisfied,Night,4
+696,Riccardo McElvine,2019,12:32,7085.624,127,6958.624,10,Free users subscription,8,Android,New Customer,2/2/2019,rmcelvinejb@ovh.net,19,china-unionpay,Home maker,Satisfied,Night,2
+697,Leoline Bullivant,2015,17:34,7846.149,32,78429.49,47,6 month subscription,7,Windows,Existing,7/10/2019,lbullivantjc@biglobe.ne.jp,58,mastercard,Other,Highly Satisfied,Evening,3
+698,Ricky Tolumello,2015,6:08,4982.194,32,49789.94,41,1 month subscription,1,UNIX,Existing,9/3/2016,rtolumellojd@amazonaws.com,54,jcb,Unemployed,Neutral,Evening,4
+699,Kincaid Benstead,2011,0:15,2667.816,32,26646.16,36,1 year subscription,3,MAC,Existing,7/23/2011,kbensteadje@sitemeter.com,46,mastercard,Businessman,Neutral,Evening,2
+700,Brody Verring,2018,11:06,2075.858,32,20726.58,42,Family Plan subscription,7,MAC,Existing,6/17/2018,bverringjf@washington.edu,52,mastercard,Businessman,Highly Satisfied,Evening,3
+701,Arlie Pischoff,2008,0:13,9638.788,32,96355.88,42,Family Plan subscription,9,UNIX,Existing,3/22/2008,apischoffjg@msu.edu,29,visa-electron,Home maker,Satisfied,Morning,5
+702,Enrichetta Bothbie,2010,21:52,3998.694,32,39954.94,5,Family Plan subscription,4,Android,Existing,12/11/2017,ebothbiejh@ebay.com,20,mastercard,Unemployed,Neutral,Evening,3
+703,Owen Otton,2018,15:36,5887.104,32,58839.04,13,3 month subscription,10,Windows,Existing,1/4/2018,oottonji@nymag.com,52,jcb,Working Professional,Neutral,Afternoon,2
+704,Brnaba Madgwich,2012,13:10,5079.233,32,50760.33,24,3 month subscription,9,MAC,Existing,6/11/2015,bmadgwichjj@statcounter.com,69,jcb,Businessman,Dissatisfied,Morning,4
+705,Ugo Cleynaert,2016,20:04,8930.075,32,89268.75,5,1 month subscription,7,Windows,Existing,5/25/2016,ucleynaertjk@amazon.co.jp,47,jcb,Other,Highly Satisfied,Night,2
+706,Friedrich Threadgould,2012,6:37,7893.455,32,78902.55,42,Family Plan subscription,6,UNIX,Existing,1/27/2013,fthreadgouldjl@w3.org,65,jcb,Working Professional,Satisfied,Afternoon,5
+707,Denys Enden,2018,1:43,5124.223,32,51210.23,3,1 year subscription,6,UNIX,Existing,8/28/2018,dendenjm@discovery.com,37,jcb,Unemployed,Neutral,Afternoon,3
+708,Janine Huet,2015,1:33,6442.505,32,64393.05,38,6 month subscription,8,Windows,Existing,11/28/2016,jhuetjn@mapy.cz,38,mastercard,Other,Dissatisfied,Night,3
+709,Tally Malia,2018,20:06,7426.797,32,74235.97,7,3 month subscription,3,MAC,Existing,7/3/2018,tmaliajo@mysql.com,65,mastercard,Working Professional,Highly Satisfied,Afternoon,5
+710,Inger Desaur,2018,17:00,7226.586,32,72233.86,34,3 month subscription,4,MAC,Existing,7/25/2019,idesaurjp@creativecommons.org,42,jcb,Other,Highly Dissatisfied,Morning,3
+711,Allyson Ethridge,2018,3:50,4822.254,32,48190.54,38,Family Plan subscription,7,Android,Existing,5/9/2019,aethridgejq@chronoengine.com,26,visa-electron,Home maker,Dissatisfied,Evening,3
+712,Kally Coxhead,2019,19:34,9614.646,127,9487.646,35,3 month subscription,6,Android,New Customer,2/2/2019,kcoxheadjr@biglobe.ne.jp,50,laser,Businessman,Highly Satisfied,Morning,2
+713,Lilia Yannoni,2015,11:53,6022.825,32,60196.25,10,Free users subscription,3,Android,Existing,6/1/2019,lyannonijs@vistaprint.com,24,mastercard,Other,Highly Dissatisfied,Morning,3
+714,Akim Godmar,2019,13:16,5819.65,127,5692.65,19,6 month subscription,9,Windows,New Customer,2/10/2019,agodmarjt@youtube.com,15,instapayment,Unemployed,Highly Satisfied,Morning,4
+715,Anatole Rosie,2011,5:43,4823.99,32,48207.9,19,Family Plan subscription,8,UNIX,Existing,5/30/2017,arosieju@ft.com,47,jcb,Working Professional,Highly Satisfied,Morning,2
+716,De Anselm,2018,14:12,3141.251,32,31380.51,34,1 month subscription,7,Android,Existing,12/22/2018,danselmjv@rambler.ru,23,jcb,Working Professional,Neutral,Evening,3
+717,Julio Denver,2012,1:42,2389.986,32,23867.86,30,Family Plan subscription,2,MAC,Existing,4/30/2015,jdenverjw@latimes.com,52,jcb,Unemployed,Highly Dissatisfied,Morning,5
+718,Caterina Hannen,2015,4:56,5173.313,32,51701.13,6,Family Plan subscription,9,Windows,Existing,5/15/2016,channenjx@bloomberg.com,60,china-unionpay,Unemployed,Neutral,Night,3
+719,Andonis Brownscombe,2016,16:47,9447.011,32,94438.11,34,1 month subscription,9,Android,Existing,6/25/2016,abrownscombejy@sogou.com,31,mastercard,Unemployed,Neutral,Evening,4
+720,Paige Rubinfajn,2018,11:13,8642.351,32,86391.51,22,1 year subscription,1,UNIX,Existing,2/12/2018,prubinfajnjz@marketwatch.com,15,jcb,Home maker,Dissatisfied,Afternoon,3
+721,Othella Ecob,2011,11:46,8766.84,32,87636.4,21,Family Plan subscription,7,Windows,Existing,7/22/2016,oecobk0@discovery.com,36,mastercard,Businessman,Satisfied,Afternoon,4
+722,Aime Crossby,2018,7:05,5687.614,32,56844.14,10,Free users subscription,5,MAC,Existing,10/23/2018,acrossbyk1@cdbaby.com,34,visa,Student,Neutral,Morning,3
+723,Burty McLanachan,2015,13:16,4512.616,32,45094.16,27,3 month subscription,4,Android,Existing,2/16/2018,bmclanachank2@tinypic.com,24,jcb,Unemployed,Highly Dissatisfied,Morning,4
+724,Nollie Banke,2012,11:33,9492.836,32,94896.36,20,Family Plan subscription,6,Android,Existing,7/15/2013,nbankek3@go.com,35,china-unionpay,Home maker,Neutral,Afternoon,4
+725,Gussi Blakes,2018,22:24,5361.344,32,53581.44,10,1 year subscription,6,MAC,Existing,1/4/2019,gblakesk4@ow.ly,35,solo,Working Professional,Neutral,Evening,4
+726,Leola Reedshaw,2016,12:55,8798.524,32,87953.24,21,6 month subscription,10,MAC,Existing,4/10/2016,lreedshawk5@vinaora.com,70,jcb,Home maker,Dissatisfied,Afternoon,3
+727,Lars Gowanson,2018,13:57,46.121,32,429.21,35,1 year subscription,2,Windows,Existing,12/29/2018,lgowansonk6@abc.net.au,63,jcb,Unemployed,Neutral,Morning,4
+728,Polly Shellibeer,2015,7:04,3856.11,32,38529.1,37,6 month subscription,1,MAC,Existing,6/11/2015,pshellibeerk7@pbs.org,68,instapayment,Businessman,Satisfied,Morning,5
+729,Jeannine Wintringham,2019,21:50,1036.032,127,909.032,27,Family Plan subscription,1,Windows,New Customer,1/20/2019,jwintringhamk8@disqus.com,65,mastercard,Other,Satisfied,Afternoon,4
+730,Hermione Annes,2012,8:55,4490.233,32,44870.33,28,Family Plan subscription,5,Android,Existing,12/30/2017,hannesk9@bigcartel.com,22,jcb,Home maker,Satisfied,Morning,5
+731,Mar Cuthbertson,2011,14:21,7044.687,32,70414.87,34,Free users subscription,6,Windows,Existing,11/20/2016,mcuthbertsonka@hc360.com,69,maestro,Businessman,Dissatisfied,Morning,4
+732,Stevena Renfrew,2008,17:58,9208.907,32,92057.07,25,Free users subscription,9,MAC,Existing,1/28/2012,srenfrewkb@homestead.com,34,visa-electron,Working Professional,Dissatisfied,Morning,5
+733,Marybelle Semon,2009,0:48,8757.897,32,87546.97,15,3 month subscription,1,Android,Existing,12/2/2015,msemonkc@lycos.com,24,mastercard,Home maker,Neutral,Morning,2
+734,Andi Zoellner,2011,10:53,4092.413,32,40892.13,10,Free users subscription,9,Windows,Existing,7/7/2018,azoellnerkd@mayoclinic.com,40,jcb,Student,Highly Dissatisfied,Night,4
+735,Geralda Baldazzi,2011,5:41,1390.345,32,13871.45,35,Free users subscription,4,Android,Existing,2/6/2016,gbaldazzike@constantcontact.com,53,diners-club-enroute,Unemployed,Neutral,Evening,4
+736,Artie Eagan,2018,12:41,9756.901,32,97537.01,42,1 month subscription,2,UNIX,Existing,12/24/2018,aeagankf@princeton.edu,60,visa-electron,Working Professional,Dissatisfied,Evening,3
+737,Melicent Rops,2012,16:20,2668.245,32,26650.45,16,3 month subscription,6,Android,Existing,3/28/2015,mropskg@smh.com.au,27,diners-club-carte-blanche,Unemployed,Dissatisfied,Afternoon,3
+738,Rodrique Swabey,2016,19:48,4185.44,32,41822.4,10,Free users subscription,10,UNIX,Existing,8/25/2016,rswabeykh@csmonitor.com,26,jcb,Working Professional,Highly Satisfied,Afternoon,4
+739,Jeane Russe,2010,13:45,4185.752,32,41825.52,38,Family Plan subscription,2,UNIX,Existing,6/29/2011,jrusseki@github.io,42,bankcard,Working Professional,Neutral,Morning,3
+740,Godfree Phipp,2018,12:04,3165.451,32,31622.51,38,Free users subscription,9,UNIX,Existing,5/2/2018,gphippkj@patch.com,70,diners-club-carte-blanche,Home maker,Highly Satisfied,Morning,2
+741,Alaine Tarborn,2014,10:25,7082.852,32,70796.52,5,Student Plan subscription,7,Windows,Existing,2/22/2016,atarbornkk@nsw.gov.au,29,jcb,Other,Satisfied,Morning,4
+742,Selestina Rowston,2018,11:33,4836.662,32,48334.62,24,Free users subscription,8,Windows,Existing,6/29/2018,srowstonkl@wp.com,43,jcb,Student,Highly Dissatisfied,Night,4
+743,Shaw Leverich,2016,20:54,6085.453,32,60822.53,35,Student Plan subscription,3,UNIX,Existing,11/13/2017,sleverichkm@nasa.gov,57,china-unionpay,Working Professional,Highly Satisfied,Night,3
+744,Edythe Runham,2018,12:36,9429.603,32,94264.03,41,3 month subscription,4,UNIX,Existing,10/19/2018,erunhamkn@histats.com,40,jcb,Student,Highly Dissatisfied,Afternoon,4
+745,Edan Lodemann,2018,7:45,6428.721,32,64255.21,34,Student Plan subscription,5,MAC,Existing,5/23/2019,elodemannko@multiply.com,26,visa-electron,Unemployed,Satisfied,Morning,4
+746,Lari Klimowicz,2008,14:39,4613.371,32,46101.71,35,Free users subscription,2,Android,Existing,10/7/2010,lklimowiczkp@hatena.ne.jp,42,jcb,Businessman,Dissatisfied,Morning,5
+747,Daisi Dirr,2012,17:39,7597.29,32,75940.9,26,1 year subscription,7,Windows,Existing,12/21/2017,ddirrkq@alexa.com,35,switch,Unemployed,Highly Satisfied,Night,4
+748,Parnell Raye,2010,2:17,5517.576,32,55143.76,8,3 month subscription,3,MAC,Existing,5/18/2019,prayekr@europa.eu,15,jcb,Businessman,Dissatisfied,Night,4
+749,Tresa Huband,2009,0:49,4127.528,32,41243.28,42,Family Plan subscription,3,Windows,Existing,2/24/2018,thubandks@archive.org,35,mastercard,Other,Highly Satisfied,Evening,2
+750,Lalo Cicccitti,2012,20:10,9423.503,32,94203.03,15,Family Plan subscription,7,MAC,Existing,9/24/2017,lcicccittikt@twitter.com,22,diners-club-enroute,Student,Highly Dissatisfied,Evening,4
+751,Adriena Faithfull,2016,6:56,3509.75,32,35065.5,5,1 month subscription,8,Windows,Existing,10/12/2018,afaithfullku@geocities.jp,40,mastercard,Student,Dissatisfied,Night,2
+752,Ardene Downham,2009,7:29,5140.578,32,51373.78,42,Student Plan subscription,10,MAC,Existing,3/26/2010,adownhamkv@msu.edu,68,china-unionpay,Student,Dissatisfied,Evening,4
+753,Felecia Jaskiewicz,2011,14:26,9439.084,32,94358.84,44,1 month subscription,10,Android,Existing,11/15/2015,fjaskiewiczkw@dropbox.com,51,diners-club-carte-blanche,Student,Highly Dissatisfied,Morning,4
+754,Carlin Croy,2015,4:47,5146.961,32,51437.61,36,3 month subscription,10,Windows,Existing,1/11/2015,ccroykx@bbc.co.uk,48,jcb,Home maker,Dissatisfied,Morning,5
+755,Nathanil Loveredge,2008,20:50,4888.03,32,48848.3,44,Family Plan subscription,10,Windows,Existing,1/7/2008,nloveredgeky@rediff.com,26,maestro,Working Professional,Neutral,Morning,4
+756,Jaquelyn Buckland,2018,10:58,6509.955,32,65067.55,5,Student Plan subscription,9,MAC,Existing,5/23/2019,jbucklandkz@apache.org,56,laser,Businessman,Neutral,Morning,3
+757,Nona Patching,2014,6:03,60.254,32,570.54,15,3 month subscription,6,Android,Existing,8/5/2018,npatchingl0@redcross.org,43,visa,Working Professional,Highly Dissatisfied,Evening,5
+758,Vilma Ungerechts,2018,0:12,104.422,32,1012.22,42,Family Plan subscription,7,Android,Existing,6/1/2018,vungerechtsl1@google.pl,28,americanexpress,Businessman,Dissatisfied,Afternoon,5
+759,Stephine Fantini,2018,4:33,8551.695,32,85484.95,36,Family Plan subscription,4,Android,Existing,10/14/2018,sfantinil2@nps.gov,35,diners-club-enroute,Student,Highly Satisfied,Morning,4
+760,Georgiana Slimmon,2018,19:04,5895.39,32,58921.9,27,Family Plan subscription,3,Windows,Existing,5/1/2018,gslimmonl3@dailymail.co.uk,22,jcb,Student,Dissatisfied,Morning,5
+761,Arvie Eefting,2019,7:32,2390.522,127,2263.522,39,Family Plan subscription,2,Windows,New Customer,1/20/2019,aeeftingl4@mapquest.com,60,diners-club-enroute,Businessman,Satisfied,Night,5
+762,Zsazsa Rillatt,2017,9:20,8543.238,32,85400.38,5,6 month subscription,10,MAC,Existing,12/15/2018,zrillattl5@chron.com,47,jcb,Working Professional,Neutral,Evening,3
+763,Roseline Murcott,2017,8:44,3324.148,32,33209.48,22,Student Plan subscription,2,UNIX,Existing,6/21/2018,rmurcottl6@woothemes.com,36,visa,Unemployed,Satisfied,Morning,3
+764,Katinka Grise,2008,11:30,2001.824,32,19986.24,20,Family Plan subscription,5,UNIX,Existing,2/2/2009,kgrisel7@sitemeter.com,48,jcb,Unemployed,Satisfied,Night,4
+765,Wilbur Kira,2019,15:41,7110.488,127,6983.488,27,6 month subscription,10,Windows,New Customer,2/10/2019,wkiral8@bbb.org,37,mastercard,Home maker,Highly Dissatisfied,Evening,2
+766,Lois Trenbey,2018,15:07,6228.768,32,62255.68,6,3 month subscription,1,Android,Existing,1/26/2019,ltrenbeyl9@mozilla.com,49,jcb,Student,Highly Dissatisfied,Night,4
+767,Mandie McDowell,2016,10:41,7109.726,32,71065.26,18,3 month subscription,10,Android,Existing,7/17/2018,mmcdowellla@indiegogo.com,43,jcb,Unemployed,Dissatisfied,Morning,5
+768,Evelin Kiddie,2018,6:23,8730.963,32,87277.63,42,Student Plan subscription,2,UNIX,Existing,2/21/2018,ekiddielb@histats.com,40,jcb,Businessman,Highly Satisfied,Night,5
+769,Dede Payfoot,2009,8:56,5891.377,32,58881.77,33,1 year subscription,9,Android,Existing,12/15/2014,dpayfootlc@icio.us,44,jcb,Working Professional,Highly Satisfied,Afternoon,4
+770,Gertrud Abbotson,2008,15:22,287.901,32,2847.01,27,1 year subscription,5,Windows,Existing,3/6/2017,gabbotsonld@fotki.com,57,americanexpress,Student,Highly Dissatisfied,Afternoon,3
+771,Egon Robke,2019,22:50,5591.492,127,5464.492,42,Family Plan subscription,5,MAC,New Customer,6/5/2019,erobkele@statcounter.com,56,jcb,Businessman,Dissatisfied,Morning,5
+772,Charleen Imlacke,2014,13:30,1051.886,32,10486.86,4,3 month subscription,9,Android,Existing,7/22/2015,cimlackelf@dmoz.org,44,jcb,Working Professional,Neutral,Evening,4
+773,Madella Kuhne,2009,16:31,1863.319,32,18601.19,34,Family Plan subscription,1,Android,Existing,4/11/2016,mkuhnelg@nsw.gov.au,29,maestro,Unemployed,Highly Satisfied,Evening,4
+774,Andeee Evequot,2019,6:14,4471.789,127,4344.789,5,1 year subscription,10,Android,New Customer,5/28/2019,aevequotlh@yandex.ru,22,switch,Home maker,Satisfied,Evening,5
+775,Natal Doyley,2009,18:40,4804.85,32,48016.5,16,Family Plan subscription,4,MAC,Existing,8/14/2012,ndoyleyli@merriam-webster.com,70,china-unionpay,Businessman,Highly Dissatisfied,Evening,5
+776,Alonso Rainbow,2018,21:20,4666.861,32,46636.61,12,3 month subscription,4,Android,Existing,5/19/2019,arainbowlj@ustream.tv,65,diners-club-international,Businessman,Dissatisfied,Evening,3
+777,Reyna Yuille,2016,1:07,4016.748,32,40135.48,44,Student Plan subscription,10,MAC,Existing,1/7/2016,ryuillelk@diigo.com,55,laser,Other,Highly Satisfied,Morning,3
+778,Mercedes Mably,2018,6:10,6309.24,32,63060.4,23,1 year subscription,10,MAC,Existing,11/5/2018,mmablyll@cnbc.com,33,jcb,Home maker,Satisfied,Night,3
+779,Vikky Glowacz,2018,0:09,1485.49,32,14822.9,10,1 month subscription,8,UNIX,Existing,1/6/2018,vglowaczlm@dailymail.co.uk,49,diners-club-us-ca,Other,Satisfied,Afternoon,4
+780,Timothea Fortin,2008,2:34,5840.036,32,58368.36,42,Free users subscription,7,UNIX,Existing,8/2/2009,tfortinln@cornell.edu,62,jcb,Student,Dissatisfied,Morning,5
+781,Martguerita Janko,2018,0:16,8068.808,32,80656.08,21,1 year subscription,9,MAC,Existing,3/8/2018,mjankolo@bbb.org,16,visa,Unemployed,Highly Dissatisfied,Evening,4
+782,Annemarie Samper,2008,6:59,1277.775,32,12745.75,5,1 month subscription,4,MAC,Existing,6/22/2019,asamperlp@biglobe.ne.jp,28,maestro,Home maker,Dissatisfied,Morning,3
+783,Eulalie Jersch,2011,6:35,5703.11,32,56999.1,5,Family Plan subscription,3,UNIX,Existing,8/19/2011,ejerschlq@wix.com,69,maestro,Working Professional,Neutral,Morning,3
+784,Wynne Cast,2018,14:31,4761.269,32,47580.69,10,Free users subscription,6,Windows,Existing,10/9/2018,wcastlr@nymag.com,42,china-unionpay,Businessman,Neutral,Morning,2
+785,Berkly Akast,2019,16:15,8653.637,127,8526.637,34,6 month subscription,10,MAC,New Customer,7/18/2019,bakastls@scientificamerican.com,20,jcb,Other,Dissatisfied,Morning,5
+786,Maxie Borgars,2018,22:13,8344.722,32,83415.22,31,1 year subscription,9,Windows,Existing,7/17/2019,mborgarslt@delicious.com,17,jcb,Working Professional,Satisfied,Morning,4
+787,Bernhard Tallon,2018,19:19,215.568,32,2123.68,44,Family Plan subscription,9,Android,Existing,12/28/2018,btallonlu@miibeian.gov.cn,31,instapayment,Businessman,Highly Dissatisfied,Night,5
+788,Bernie Kassidy,2011,18:18,3456.727,32,34535.27,15,3 month subscription,4,Android,Existing,3/1/2013,bkassidylv@usa.gov,65,jcb,Home maker,Highly Satisfied,Morning,5
+789,Stefano Derrett,2014,6:17,1593.495,32,15902.95,42,6 month subscription,6,Windows,Existing,5/6/2017,sderrettlw@yolasite.com,25,laser,Unemployed,Highly Satisfied,Morning,2
+790,Constantin Cordall,2008,9:57,2892.586,32,28893.86,5,1 month subscription,2,Windows,Existing,6/14/2010,ccordalllx@thetimes.co.uk,50,mastercard,Student,Dissatisfied,Evening,4
+791,Keary Krzyzaniak,2014,4:12,3142.378,32,31391.78,35,6 month subscription,6,Android,Existing,9/21/2017,kkrzyzaniakly@auda.org.au,32,jcb,Student,Neutral,Morning,5
+792,Ezri Plaister,2008,17:29,7095.316,32,70921.16,38,3 month subscription,4,Windows,Existing,5/6/2013,eplaisterlz@adobe.com,40,diners-club-enroute,Student,Neutral,Evening,2
+793,Windham Wermerling,2011,3:20,2035.695,32,20324.95,17,Free users subscription,1,MAC,Existing,8/3/2015,wwermerlingm0@wikia.com,65,visa,Working Professional,Neutral,Night,2
+794,Karel Morcom,2017,8:37,4385.866,32,43826.66,34,Free users subscription,3,Android,Existing,1/24/2017,kmorcomm1@unesco.org,45,diners-club-carte-blanche,Unemployed,Neutral,Evening,4
+795,Rudd Stigell,2016,12:23,3073.193,32,30699.93,5,1 year subscription,3,UNIX,Existing,2/28/2019,rstigellm2@ezinearticles.com,25,jcb,Student,Highly Dissatisfied,Afternoon,3
+796,Zia Mastrantone,2010,9:56,1096.742,32,10935.42,2,3 month subscription,10,MAC,Existing,6/5/2017,zmastrantonem3@xrea.com,51,visa-electron,Businessman,Highly Dissatisfied,Night,4
+797,Ryann Gabbatt,2010,4:03,4540.722,32,45375.22,10,Family Plan subscription,6,Android,Existing,8/2/2013,rgabbattm4@sun.com,68,laser,Home maker,Highly Dissatisfied,Night,4
+798,Artemas Le Provest,2018,9:59,8512.015,32,85088.15,22,Free users subscription,4,Windows,Existing,11/19/2018,alem5@wikipedia.org,29,jcb,Home maker,Neutral,Night,5
+799,Wylie McLleese,2012,18:24,8179.926,32,81767.26,5,1 month subscription,9,UNIX,Existing,2/22/2014,wmclleesem6@mit.edu,31,jcb,Student,Neutral,Evening,4
+800,Stafani Catto,2011,20:43,8289.635,32,82864.35,2,1 month subscription,2,Android,Existing,9/23/2017,scattom7@disqus.com,45,laser,Home maker,Dissatisfied,Afternoon,3
+801,Verile Tenby,2008,5:09,9831.929,32,98287.29,5,3 month subscription,8,Windows,Existing,1/16/2009,vtenbym8@tumblr.com,15,laser,Student,Highly Dissatisfied,Evening,4
+802,Delila O' Dornan,2016,22:04,9165.123,32,91619.23,29,Free users subscription,2,UNIX,Existing,2/14/2018,dom9@1und1.de,17,solo,Businessman,Neutral,Afternoon,3
+803,Zacherie Limb,2016,11:34,6417.309,32,64141.09,36,Student Plan subscription,4,UNIX,Existing,12/22/2016,zlimbma@abc.net.au,51,switch,Student,Dissatisfied,Morning,3
+804,Kory Hedges,2012,0:07,5070.344,32,50671.44,5,Family Plan subscription,8,Windows,Existing,12/25/2017,khedgesmb@newsvine.com,38,instapayment,Student,Highly Dissatisfied,Morning,3
+805,Josh Arndtsen,2018,21:36,1775.148,32,17719.48,42,1 month subscription,6,MAC,Existing,9/1/2018,jarndtsenmc@cocolog-nifty.com,17,instapayment,Student,Satisfied,Evening,2
+806,Donnajean McElrath,2018,9:49,4270.698,32,42674.98,43,Free users subscription,4,Android,Existing,1/13/2018,dmcelrathmd@rediff.com,65,jcb,Home maker,Highly Dissatisfied,Morning,4
+807,Steward Curnokk,2019,22:21,7528.135,127,7401.135,5,Family Plan subscription,7,Windows,New Customer,6/7/2019,scurnokkme@sbwire.com,61,bankcard,Student,Dissatisfied,Night,2
+808,Niels Ovise,2018,23:24,4005.963,32,40027.63,6,Student Plan subscription,1,UNIX,Existing,6/11/2019,novisemf@forbes.com,24,jcb,Student,Highly Dissatisfied,Night,2
+809,Jackelyn Everleigh,2018,11:48,7599.506,32,75963.06,27,3 month subscription,1,Windows,Existing,3/2/2018,jeverleighmg@usa.gov,57,diners-club-enroute,Unemployed,Neutral,Afternoon,5
+810,Gigi Garthshore,2018,13:22,4988.006,32,49848.06,13,1 month subscription,4,MAC,Existing,5/28/2019,ggarthshoremh@skype.com,16,solo,Student,Neutral,Night,3
+811,Pablo Stapele,2012,20:25,322.731,32,3195.31,4,1 year subscription,5,MAC,Existing,9/19/2013,pstapelemi@upenn.edu,69,maestro,Unemployed,Satisfied,Afternoon,5
+812,Basilio Cestard,2011,23:11,9400.07,32,93968.7,25,1 year subscription,10,UNIX,Existing,3/6/2014,bcestardmj@angelfire.com,20,maestro,Other,Neutral,Evening,3
+813,Gill Hubbart,2018,14:35,3464.706,32,34615.06,42,1 year subscription,5,Windows,Existing,1/20/2018,ghubbartmk@businesswire.com,25,jcb,Home maker,Neutral,Afternoon,2
+814,Dunn MacLice,2018,6:57,4251.129,32,42479.29,43,Family Plan subscription,4,MAC,Existing,1/7/2019,dmacliceml@ox.ac.uk,32,jcb,Other,Highly Satisfied,Evening,3
+815,Kally Feighney,2011,1:21,3219.207,32,32160.07,11,3 month subscription,5,UNIX,Existing,9/28/2015,kfeighneymm@state.tx.us,49,diners-club-carte-blanche,Unemployed,Neutral,Night,4
+816,Kaela Oultram,2018,17:08,1644.446,32,16412.46,5,3 month subscription,6,UNIX,Existing,6/10/2018,koultrammn@deviantart.com,56,instapayment,Home maker,Highly Dissatisfied,Afternoon,3
+817,Jeane Van Dalen,2017,0:48,5768.585,32,57653.85,41,Student Plan subscription,3,MAC,Existing,12/1/2017,jvanmo@discuz.net,18,mastercard,Student,Satisfied,Afternoon,3
+818,Mick Asser,2012,10:59,6853.079,32,68498.79,41,Family Plan subscription,1,UNIX,Existing,5/7/2014,massermp@bigcartel.com,46,diners-club-carte-blanche,Businessman,Satisfied,Evening,4
+819,Launce Vigneron,2018,21:59,6473.874,32,64706.74,31,1 month subscription,5,UNIX,Existing,5/16/2019,lvigneronmq@bloomberg.com,61,jcb,Home maker,Dissatisfied,Evening,4
+820,Andrey McFater,2014,10:10,4937.573,32,49343.73,41,Free users subscription,10,MAC,Existing,6/4/2019,amcfatermr@google.es,40,jcb,Home maker,Dissatisfied,Morning,4
+821,Cassy Ramirez,2017,17:32,3772.112,32,37689.12,46,Family Plan subscription,10,MAC,Existing,12/12/2017,cramirezms@netscape.com,15,bankcard,Student,Satisfied,Afternoon,4
+822,Alvin Biles,2008,14:57,7909.275,32,79060.75,16,1 year subscription,6,Android,Existing,5/27/2009,abilesmt@fotki.com,56,visa-electron,Unemployed,Highly Dissatisfied,Morning,5
+823,Judy Melliard,2018,10:37,8205.48,32,82022.8,11,3 month subscription,4,Windows,Existing,7/14/2018,jmelliardmu@oracle.com,17,maestro,Unemployed,Dissatisfied,Night,4
+824,Gayla Truggian,2012,15:19,9111.041,32,91078.41,15,Free users subscription,3,Android,Existing,1/11/2013,gtruggianmv@ehow.com,66,jcb,Home maker,Dissatisfied,Morning,3
+825,Asa Windle,2019,11:17,1907.903,127,1780.903,34,Student Plan subscription,6,Android,New Customer,3/30/2019,awindlemw@reddit.com,23,jcb,Other,Neutral,Afternoon,5
+826,Farris Leaton,2016,22:48,9254.02,32,92508.2,20,Family Plan subscription,1,MAC,Existing,11/16/2016,fleatonmx@tmall.com,37,jcb,Working Professional,Highly Dissatisfied,Afternoon,3
+827,Andrei Quoit,2016,4:52,8578.938,32,85757.38,32,1 month subscription,4,Android,Existing,8/8/2019,aquoitmy@jimdo.com,31,jcb,Student,Dissatisfied,Evening,2
+828,Manny Lidden,2019,19:01,8362.593,127,8235.593,46,Family Plan subscription,2,Android,New Customer,1/16/2019,mliddenmz@yellowbook.com,35,jcb,Businessman,Highly Dissatisfied,Evening,3
+829,Erwin Goodfellow,2010,12:10,5144.307,32,51411.07,44,1 year subscription,9,Android,Existing,4/4/2012,egoodfellown0@blogspot.com,61,mastercard,Other,Highly Dissatisfied,Afternoon,4
+830,Flint Currer,2012,4:19,3648.018,32,36448.18,17,Student Plan subscription,8,Windows,Existing,2/7/2012,fcurrern1@t.co,31,jcb,Student,Satisfied,Afternoon,3
+831,Desmund Forsythe,2017,8:05,5072.66,32,50694.6,20,Free users subscription,9,UNIX,Existing,1/12/2019,dforsythen2@hibu.com,69,china-unionpay,Businessman,Neutral,Evening,3
+832,Timothee Lezemore,2011,11:50,9834.286,32,98310.86,39,6 month subscription,9,Android,Existing,5/18/2018,tlezemoren3@goodreads.com,38,jcb,Working Professional,Satisfied,Evening,5
+833,Merrily Skerritt,2018,1:28,1043.257,32,10400.57,8,1 year subscription,7,MAC,Existing,1/12/2018,mskerrittn4@reverbnation.com,51,switch,Other,Satisfied,Morning,2
+834,Chelsey Caesmans,2010,23:23,2674.358,32,26711.58,24,1 month subscription,4,Android,Existing,10/11/2014,ccaesmansn5@google.nl,18,diners-club-enroute,Home maker,Satisfied,Night,4
+835,Con Pittway,2018,13:48,2024.508,32,20213.08,35,6 month subscription,9,UNIX,Existing,10/12/2018,cpittwayn6@paypal.com,43,jcb,Other,Dissatisfied,Morning,4
+836,Kylie Sercombe,2019,2:33,9202.718,127,9075.718,5,Free users subscription,1,UNIX,New Customer,2/12/2019,ksercomben7@twitpic.com,27,visa-electron,Other,Highly Satisfied,Evening,3
+837,Aveline Dee,2018,16:54,8696.066,32,86928.66,19,3 month subscription,10,Android,Existing,8/4/2019,adeen8@go.com,32,jcb,Working Professional,Neutral,Morning,4
+838,Livia Iacomettii,2009,2:41,8838.398,32,88351.98,14,1 year subscription,5,UNIX,Existing,12/20/2014,liacomettiin9@icio.us,44,instapayment,Unemployed,Satisfied,Night,4
+839,Riki Touson,2016,0:02,9788.651,32,97854.51,42,3 month subscription,3,MAC,Existing,9/21/2018,rtousonna@cisco.com,58,jcb,Businessman,Highly Satisfied,Morning,3
+840,Milton Eveque,2015,10:31,2703.687,32,27004.87,5,3 month subscription,1,Windows,Existing,10/13/2015,mevequenb@illinois.edu,35,jcb,Working Professional,Highly Dissatisfied,Night,4
+841,Devan Gainsburgh,2018,5:52,2391.591,32,23883.91,5,3 month subscription,3,UNIX,Existing,4/8/2018,dgainsburghnc@intel.com,65,jcb,Home maker,Satisfied,Night,3
+842,Kippy Lathwell,2009,19:34,169.741,32,1665.41,2,Free users subscription,7,MAC,Existing,6/17/2017,klathwellnd@reuters.com,39,solo,Home maker,Dissatisfied,Night,3
+843,Ring Bingell,2019,2:32,603.459,127,476.459,30,6 month subscription,7,MAC,New Customer,4/5/2019,rbingellne@behance.net,24,jcb,Unemployed,Highly Dissatisfied,Afternoon,4
+844,Fanya Kither,2010,13:27,3159.957,32,31567.57,38,1 year subscription,4,MAC,Existing,8/6/2014,fkithernf@cbslocal.com,35,jcb,Student,Satisfied,Morning,4
+845,Thalia Buffy,2016,10:25,4328.842,32,43256.42,34,Student Plan subscription,8,Android,Existing,5/20/2019,tbuffyng@geocities.jp,46,visa,Unemployed,Highly Dissatisfied,Morning,3
+846,Northrup Poxson,2019,6:20,6875.308,127,6748.308,16,Student Plan subscription,7,Android,New Customer,4/7/2019,npoxsonnh@delicious.com,28,jcb,Other,Neutral,Afternoon,4
+847,Miner Manners,2019,9:41,5903.579,127,5776.579,16,1 year subscription,7,Android,New Customer,2/7/2019,mmannersni@china.com.cn,68,instapayment,Student,Highly Satisfied,Night,2
+848,Demetris Morsey,2011,11:48,8201.356,32,81981.56,43,Free users subscription,2,Android,Existing,9/16/2013,dmorseynj@woothemes.com,34,jcb,Other,Dissatisfied,Night,4
+849,Georgiana Bainbrigge,2019,13:20,4689.964,127,4562.964,38,1 year subscription,2,Android,New Customer,1/9/2019,gbainbriggenk@deviantart.com,35,jcb,Home maker,Satisfied,Evening,4
+850,Danila Citrine,2010,4:14,5088.505,32,50853.05,8,Free users subscription,4,Windows,Existing,1/13/2013,dcitrinenl@nps.gov,65,jcb,Student,Neutral,Morning,3
+851,Clerc Rubbens,2016,17:25,5303.118,32,52999.18,15,3 month subscription,7,Windows,Existing,4/8/2018,crubbensnm@soundcloud.com,49,jcb,Unemployed,Neutral,Morning,2
+852,Cahra Phizaclea,2011,23:34,774.593,32,7713.93,42,Family Plan subscription,2,UNIX,Existing,3/23/2017,cphizacleann@disqus.com,30,jcb,Student,Highly Dissatisfied,Morning,4
+853,Tobey Playdon,2015,9:20,8804.405,32,88012.05,42,6 month subscription,9,Windows,Existing,7/19/2019,tplaydonno@slate.com,67,jcb,Home maker,Highly Dissatisfied,Evening,3
+854,Bev Aysh,2016,19:03,962.646,32,9594.46,4,Free users subscription,3,UNIX,Existing,6/28/2018,bayshnp@pinterest.com,68,diners-club-enroute,Working Professional,Highly Dissatisfied,Afternoon,4
+855,Candace Cobbing,2008,11:27,6165.465,32,61622.65,8,Free users subscription,4,UNIX,Existing,4/14/2014,ccobbingnq@issuu.com,70,jcb,Working Professional,Neutral,Morning,3
+856,Chaddie Blaes,2018,14:16,3020.301,32,30171.01,5,Free users subscription,1,Android,Existing,4/17/2019,cblaesnr@columbia.edu,17,diners-club-international,Home maker,Highly Dissatisfied,Afternoon,2
+857,Anna-diana Iliffe,2018,2:15,6219.934,32,62167.34,24,Family Plan subscription,3,Android,Existing,9/16/2018,ailiffens@altervista.org,64,visa-electron,Unemployed,Highly Satisfied,Afternoon,3
+858,Andree Torvey,2015,2:23,1879.376,32,18761.76,24,Student Plan subscription,6,UNIX,Existing,5/20/2017,atorveynt@liveinternet.ru,20,bankcard,Unemployed,Neutral,Night,3
+859,Daile Rossbrooke,2012,20:12,5589.378,32,55861.78,23,Family Plan subscription,8,Windows,Existing,7/26/2016,drossbrookenu@nationalgeographic.com,30,diners-club-enroute,Businessman,Highly Satisfied,Morning,2
+860,Daisie Esposi,2019,4:27,6423.589,127,6296.589,34,Family Plan subscription,3,Windows,New Customer,6/26/2019,desposinv@home.pl,39,jcb,Unemployed,Dissatisfied,Morning,3
+861,Lief Bovis,2014,2:14,8536.55,32,85333.5,5,Family Plan subscription,1,MAC,Existing,7/6/2016,lbovisnw@networksolutions.com,21,diners-club-international,Businessman,Highly Dissatisfied,Night,3
+862,Orville Kordova,2012,6:21,3323.107,32,33199.07,20,1 year subscription,6,Windows,Existing,2/6/2012,okordovanx@weebly.com,41,mastercard,Unemployed,Neutral,Night,4
+863,Cordula Glencorse,2015,12:38,5776.192,32,57729.92,47,6 month subscription,3,Windows,Existing,4/6/2018,cglencorseny@addtoany.com,40,jcb,Home maker,Highly Dissatisfied,Morning,2
+864,Egor Domenge,2014,19:27,9945.495,32,99422.95,23,3 month subscription,2,MAC,Existing,11/2/2016,edomengenz@dedecms.com,66,jcb,Businessman,Satisfied,Morning,3
+865,Elston Januszkiewicz,2018,3:59,56.585,32,533.85,42,3 month subscription,2,MAC,Existing,2/11/2019,ejanuszkiewiczo0@usgs.gov,67,laser,Unemployed,Dissatisfied,Afternoon,2
+866,Win Bengefield,2018,12:22,5419.346,32,54161.46,31,1 year subscription,1,Android,Existing,6/11/2018,wbengefieldo1@gizmodo.com,61,instapayment,Student,Satisfied,Night,3
+867,Mort Wilson,2019,16:24,1495.805,127,1368.805,38,1 month subscription,5,Windows,New Customer,5/26/2019,mwilsono2@cocolog-nifty.com,21,jcb,Home maker,Neutral,Afternoon,4
+868,Leela Varren,2010,3:28,61.886,32,586.86,37,6 month subscription,10,Windows,Existing,9/5/2015,lvarreno3@redcross.org,24,laser,Working Professional,Highly Dissatisfied,Afternoon,4
+869,Melissa Fargher,2019,5:28,9907.354,127,9780.354,12,Student Plan subscription,4,UNIX,New Customer,6/19/2019,mfarghero4@businessweek.com,16,jcb,Other,Highly Satisfied,Morning,5
+870,Madge Ogelbe,2018,7:54,4593.879,32,45906.79,48,6 month subscription,7,MAC,Existing,4/12/2019,mogelbeo5@github.io,45,jcb,Other,Satisfied,Evening,4
+871,Brianna Klasing,2008,7:31,9456.983,32,94537.83,5,3 month subscription,1,Android,Existing,10/24/2017,bklasingo6@pagesperso-orange.fr,37,jcb,Other,Dissatisfied,Afternoon,3
+872,Ellie Lantuffe,2012,0:50,5075.78,32,50725.8,5,1 year subscription,1,MAC,Existing,4/6/2015,elantuffeo7@alexa.com,17,jcb,Unemployed,Dissatisfied,Night,2
+873,Caryl Duke,2015,6:11,3563.964,32,35607.64,10,1 year subscription,1,MAC,Existing,6/24/2018,cdukeo8@latimes.com,62,maestro,Unemployed,Satisfied,Afternoon,4
+874,Yanaton Stringman,2008,19:16,1969.053,32,19658.53,42,1 month subscription,8,UNIX,Existing,6/29/2017,ystringmano9@posterous.com,19,jcb,Home maker,Highly Satisfied,Evening,4
+875,Annora Salla,2018,2:48,1813.377,32,18101.77,35,Student Plan subscription,8,MAC,Existing,9/26/2018,asallaoa@imgur.com,57,bankcard,Unemployed,Dissatisfied,Morning,3
+876,Rock Jeffrey,2018,8:15,5203.878,32,52006.78,33,1 month subscription,3,UNIX,Existing,3/28/2019,rjeffreyob@ftc.gov,44,jcb,Unemployed,Dissatisfied,Evening,5
+877,Bill Simenot,2012,6:13,2889.283,32,28860.83,10,Student Plan subscription,9,UNIX,Existing,1/26/2012,bsimenotoc@psu.edu,54,visa-electron,Home maker,Highly Dissatisfied,Morning,3
+878,Lurette Capper,2009,6:59,3899.653,32,38964.53,35,1 month subscription,1,UNIX,Existing,10/12/2010,lcapperod@shutterfly.com,55,visa-electron,Home maker,Highly Dissatisfied,Afternoon,2
+879,Caresa Shortt,2014,5:59,4287.824,32,42846.24,15,1 month subscription,7,Android,Existing,11/29/2018,cshorttoe@amazon.de,30,mastercard,Businessman,Satisfied,Morning,3
+880,Tally Tyrer,2010,9:22,7171.045,32,71678.45,34,Free users subscription,2,Android,Existing,10/27/2013,ttyrerof@printfriendly.com,20,visa-electron,Working Professional,Neutral,Morning,2
+881,Dougy Gehrtz,2009,0:25,3075.495,32,30722.95,15,1 year subscription,7,Android,Existing,9/10/2013,dgehrtzog@blogtalkradio.com,21,mastercard,Home maker,Highly Dissatisfied,Evening,4
+882,Dru Bodleigh,2011,7:51,600.954,32,5977.54,8,Free users subscription,2,UNIX,Existing,2/29/2012,dbodleighoh@fotki.com,58,visa-electron,Other,Highly Satisfied,Night,5
+883,Veda Binnall,2017,21:58,2635.329,32,26321.29,10,Student Plan subscription,4,Windows,Existing,12/20/2017,vbinnalloi@tinypic.com,34,jcb,Student,Highly Dissatisfied,Evening,4
+884,Worden Gladwell,2019,3:45,4244.08,127,4117.08,4,6 month subscription,8,Windows,New Customer,1/20/2019,wgladwelloj@imageshack.us,67,visa,Student,Highly Satisfied,Evening,5
+885,Alano Kirkman,2015,15:22,9206.931,32,92037.31,4,Family Plan subscription,6,Windows,Existing,9/8/2016,akirkmanok@hexun.com,55,jcb,Home maker,Neutral,Afternoon,3
+886,Currie Poile,2008,20:48,9200.595,32,91973.95,42,Student Plan subscription,9,Windows,Existing,6/10/2019,cpoileol@tumblr.com,47,diners-club-carte-blanche,Home maker,Highly Satisfied,Afternoon,4
+887,Giffer Baccas,2015,20:45,2873.869,32,28706.69,34,1 month subscription,1,Android,Existing,11/11/2018,gbaccasom@paginegialle.it,43,switch,Unemployed,Satisfied,Morning,5
+888,Davida Cosson,2008,6:29,722.139,32,7189.39,34,1 month subscription,7,MAC,Existing,8/14/2014,dcossonon@omniture.com,36,jcb,Student,Neutral,Afternoon,4
+889,Ilyse Datte,2018,3:05,7681.627,32,76784.27,44,1 year subscription,2,UNIX,Existing,6/29/2018,idatteoo@indiatimes.com,33,china-unionpay,Unemployed,Highly Dissatisfied,Morning,5
+890,Urson Virgo,2018,19:28,9889.618,32,98864.18,10,Free users subscription,6,MAC,Existing,12/4/2018,uvirgoop@tinyurl.com,38,jcb,Unemployed,Highly Satisfied,Night,2
+891,Roman Abram,2009,1:58,2682.331,32,26791.31,47,1 month subscription,4,Android,Existing,5/22/2011,rabramoq@jalbum.net,20,jcb,Unemployed,Dissatisfied,Evening,2
+892,Betsy Battie,2017,18:36,6208.864,32,62056.64,16,Family Plan subscription,6,MAC,Existing,10/9/2018,bbattieor@last.fm,27,jcb,Working Professional,Neutral,Afternoon,5
+893,Skell MacDowall,2018,16:31,6285.79,32,62825.9,42,1 month subscription,2,Windows,Existing,2/11/2019,smacdowallos@naver.com,33,diners-club-enroute,Student,Highly Satisfied,Night,2
+894,Jake Slowly,2019,18:18,5798.411,127,5671.411,34,1 month subscription,7,Android,New Customer,2/17/2019,jslowlyot@samsung.com,38,jcb,Unemployed,Highly Dissatisfied,Morning,5
+895,Peggy Fenners,2016,21:59,4662.847,32,46596.47,17,Free users subscription,8,UNIX,Existing,6/22/2016,pfennersou@last.fm,27,visa-electron,Working Professional,Highly Dissatisfied,Night,5
+896,Francklin Spir,2019,7:45,2403.041,127,2276.041,6,3 month subscription,5,Windows,New Customer,6/27/2019,fspirov@bloglovin.com,46,instapayment,Businessman,Dissatisfied,Evening,4
+897,Mariya Blaske,2008,9:49,756.184,32,7529.84,10,1 month subscription,6,UNIX,Existing,10/23/2012,mblaskeow@nytimes.com,64,jcb,Businessman,Highly Dissatisfied,Evening,5
+898,Effie Beardwood,2009,19:19,1065.923,32,10627.23,16,6 month subscription,1,UNIX,Existing,11/2/2010,ebeardwoodox@eventbrite.com,15,diners-club-carte-blanche,Unemployed,Highly Dissatisfied,Afternoon,4
+899,Thibaut Gallegos,2014,19:25,9462.309,32,94591.09,36,Free users subscription,8,UNIX,Existing,6/5/2019,tgallegosoy@earthlink.net,52,switch,Businessman,Highly Dissatisfied,Night,3
+900,Jackqueline Dennis,2019,12:09,9402.144,127,9275.144,24,Family Plan subscription,10,MAC,New Customer,4/26/2019,jdennisoz@smugmug.com,66,jcb,Student,Highly Dissatisfied,Night,3
+901,Wally Meynell,2011,8:24,9820.613,32,98174.13,5,1 month subscription,8,Windows,Existing,11/23/2012,wmeynellp0@goodreads.com,40,jcb,Unemployed,Highly Satisfied,Evening,2
+902,Vasily Siege,2018,12:28,6051.391,32,60481.91,5,Student Plan subscription,9,Windows,Existing,5/31/2018,vsiegep1@reverbnation.com,27,jcb,Unemployed,Dissatisfied,Afternoon,4
+903,Angelico Carnachen,2009,7:31,5509.669,32,55064.69,11,3 month subscription,8,Windows,Existing,3/25/2018,acarnachenp2@noaa.gov,69,maestro,Student,Neutral,Evening,3
+904,Rosamund Waycott,2018,6:53,4230.397,32,42271.97,22,1 year subscription,5,Android,Existing,3/3/2018,rwaycottp3@goo.gl,29,jcb,Home maker,Dissatisfied,Night,4
+905,Alano Withringten,2008,19:03,5817.647,32,58144.47,35,3 month subscription,8,MAC,Existing,12/8/2015,awithringtenp4@example.com,34,jcb,Unemployed,Highly Dissatisfied,Morning,4
+906,Leo Jodlkowski,2008,0:57,7160.935,32,71577.35,17,Family Plan subscription,6,Android,Existing,6/19/2016,ljodlkowskip5@digg.com,24,jcb,Student,Satisfied,Evening,3
+907,Kimble Lissandre,2009,4:10,4302.256,32,42990.56,15,1 year subscription,9,Android,Existing,3/20/2009,klissandrep6@dell.com,48,switch,Businessman,Satisfied,Evening,2
+908,Gianni Pitkeathley,2014,10:15,8650.74,32,86475.4,20,1 month subscription,9,Android,Existing,11/15/2018,gpitkeathleyp7@zdnet.com,40,jcb,Working Professional,Highly Satisfied,Afternoon,4
+909,Ramsey Pendreigh,2018,19:51,2876.709,32,28735.09,5,6 month subscription,9,Android,Existing,9/21/2018,rpendreighp8@abc.net.au,23,maestro,Unemployed,Neutral,Evening,3
+910,Ashbey Hamshar,2015,10:53,344.64,32,3414.4,42,Free users subscription,6,Windows,Existing,2/26/2018,ahamsharp9@quantcast.com,54,americanexpress,Student,Highly Satisfied,Afternoon,4
+911,Leighton Glading,2018,8:19,2535.88,32,25326.8,42,3 month subscription,6,MAC,Existing,7/27/2018,lgladingpa@intel.com,58,jcb,Unemployed,Highly Satisfied,Evening,2
+912,Kimball Grieger,2018,1:20,3076.767,32,30735.67,2,1 month subscription,5,Windows,Existing,7/31/2019,kgriegerpb@pen.io,18,jcb,Working Professional,Dissatisfied,Morning,2
+913,Fara Tetlow,2015,19:27,9689.945,32,96867.45,19,Free users subscription,2,MAC,Existing,3/13/2019,ftetlowpc@nyu.edu,49,diners-club-us-ca,Student,Highly Satisfied,Evening,4
+914,Hasty Malletratt,2018,12:29,2495.781,32,24925.81,16,6 month subscription,3,Windows,Existing,1/17/2018,hmalletrattpd@posterous.com,28,switch,Other,Satisfied,Evening,5
+915,Matthew Sieur,2010,4:47,9505.805,32,95026.05,42,Free users subscription,6,Android,Existing,2/7/2015,msieurpe@desdev.cn,18,visa-electron,Student,Satisfied,Afternoon,3
+916,Wright Fosbraey,2010,21:08,492.547,32,4893.47,48,Student Plan subscription,2,UNIX,Existing,11/5/2011,wfosbraeypf@jigsy.com,52,jcb,Working Professional,Highly Satisfied,Night,5
+917,Flo Stewartson,2014,15:25,340.622,32,3374.22,2,6 month subscription,10,Windows,Existing,7/9/2016,fstewartsonpg@ftc.gov,15,diners-club-enroute,Unemployed,Highly Dissatisfied,Night,4
+918,Whit Murty,2015,9:28,3403.528,32,34003.28,11,1 month subscription,10,Windows,Existing,2/3/2019,wmurtyph@ezinearticles.com,70,maestro,Working Professional,Dissatisfied,Night,5
+919,Chery Regan,2011,18:26,47.269,32,440.69,10,Family Plan subscription,10,UNIX,Existing,9/3/2017,creganpi@scribd.com,24,jcb,Student,Highly Satisfied,Evening,2
+920,Dacie Rebert,2018,5:07,3480.37,32,34771.7,34,3 month subscription,7,Android,Existing,6/20/2018,drebertpj@tumblr.com,57,china-unionpay,Home maker,Highly Satisfied,Evening,3
+921,Erwin Millthorpe,2019,4:41,1481.065,127,1354.065,2,Student Plan subscription,3,MAC,New Customer,7/5/2019,emillthorpepk@list-manage.com,56,switch,Working Professional,Neutral,Afternoon,4
+922,Aloysius Semrad,2009,7:58,9974.718,32,99715.18,4,1 year subscription,1,MAC,Existing,8/27/2017,asemradpl@pcworld.com,18,visa,Other,Highly Dissatisfied,Morning,4
+923,Rosabelle Eakins,2009,15:29,2676.22,32,26730.2,5,6 month subscription,4,UNIX,Existing,2/12/2009,reakinspm@hexun.com,20,jcb,Working Professional,Neutral,Morning,5
+924,Berke Sarll,2016,12:57,225.753,32,2225.53,24,1 year subscription,1,Android,Existing,11/19/2017,bsarllpn@blog.com,70,china-unionpay,Other,Highly Dissatisfied,Evening,3
+925,Bondy Mosedill,2019,15:22,5108.261,127,4981.261,22,1 year subscription,8,MAC,New Customer,7/13/2019,bmosedillpo@utexas.edu,15,jcb,Student,Highly Satisfied,Evening,4
+926,Felicity Kuna,2011,20:15,2217.423,32,22142.23,33,1 year subscription,8,MAC,Existing,3/11/2016,fkunapp@cyberchimps.com,49,jcb,Home maker,Dissatisfied,Evening,4
+927,Lucho Huckster,2011,18:17,1417.507,32,14143.07,21,1 year subscription,9,Android,Existing,5/16/2014,lhucksterpq@discovery.com,61,jcb,Student,Dissatisfied,Afternoon,4
+928,Woodrow Salliere,2019,8:40,393.793,127,266.793,6,Family Plan subscription,9,UNIX,New Customer,2/5/2019,wsallierepr@hatena.ne.jp,31,jcb,Working Professional,Dissatisfied,Evening,3
+929,Faye McNeillie,2011,19:06,3862.089,32,38588.89,5,Student Plan subscription,3,Windows,Existing,8/10/2012,fmcneillieps@theglobeandmail.com,69,mastercard,Working Professional,Neutral,Morning,3
+930,Wyatan Paddeley,2012,14:35,8633.502,32,86303.02,24,Family Plan subscription,1,Android,Existing,2/1/2012,wpaddeleypt@google.nl,30,jcb,Businessman,Neutral,Evening,4
+931,Cristi Venton,2016,10:58,8818.589,32,88153.89,41,Free users subscription,1,Windows,Existing,2/7/2017,cventonpu@umich.edu,29,jcb,Businessman,Dissatisfied,Evening,3
+932,Esme Rodgman,2009,21:23,761.649,32,7584.49,42,3 month subscription,1,Android,Existing,2/3/2014,erodgmanpv@slate.com,15,switch,Student,Dissatisfied,Night,3
+933,Fairfax Loughran,2014,3:53,2068.992,32,20657.92,24,1 month subscription,4,Windows,Existing,11/6/2018,floughranpw@hexun.com,31,maestro,Unemployed,Highly Dissatisfied,Morning,4
+934,Manny Semmens,2009,9:58,1748.021,32,17448.21,46,Student Plan subscription,7,Android,Existing,6/15/2012,msemmenspx@wix.com,31,americanexpress,Working Professional,Dissatisfied,Morning,3
+935,Garrik Bulloch,2014,10:10,9383.39,32,93801.9,6,6 month subscription,1,Android,Existing,3/4/2015,gbullochpy@pagesperso-orange.fr,33,jcb,Home maker,Dissatisfied,Afternoon,4
+936,Cort Phippin,2011,20:23,1588.176,32,15849.76,17,Free users subscription,6,Android,Existing,1/11/2019,cphippinpz@smh.com.au,57,maestro,Other,Satisfied,Morning,3
+937,Davon Kingscott,2014,12:20,6147.247,32,61440.47,42,Family Plan subscription,5,MAC,Existing,12/29/2018,dkingscottq0@state.gov,37,diners-club-carte-blanche,Home maker,Highly Satisfied,Afternoon,4
+938,Eugenie Trevallion,2015,1:33,416.933,32,4137.33,19,Student Plan subscription,9,Android,Existing,1/2/2019,etrevallionq1@omniture.com,66,visa-electron,Home maker,Dissatisfied,Afternoon,4
+939,Joscelin Twining,2011,8:05,2070.786,32,20675.86,23,6 month subscription,4,UNIX,Existing,1/1/2016,jtwiningq2@de.vu,48,diners-club-us-ca,Unemployed,Satisfied,Afternoon,2
+940,Daryl Caudwell,2018,20:17,4573.548,32,45703.48,2,Family Plan subscription,9,MAC,Existing,8/5/2018,dcaudwellq3@opensource.org,38,visa,Home maker,Dissatisfied,Morning,4
+941,Clarinda Carss,2018,10:10,8860.968,32,88577.68,42,3 month subscription,5,UNIX,Existing,4/2/2018,ccarssq4@chron.com,49,jcb,Student,Dissatisfied,Night,4
+942,Jacki Rowlin,2019,11:25,1520.779,127,1393.779,6,Family Plan subscription,9,Android,New Customer,6/19/2019,jrowlinq5@deliciousdays.com,61,americanexpress,Home maker,Highly Dissatisfied,Morning,5
+943,Nickie Bradnock,2011,15:57,6122.544,32,61193.44,27,Family Plan subscription,4,Android,Existing,12/28/2011,nbradnockq6@fotki.com,28,americanexpress,Unemployed,Dissatisfied,Evening,4
+944,Andrew Morteo,2014,9:04,3583.673,32,35804.73,42,3 month subscription,2,Windows,Existing,9/21/2014,amorteoq7@dot.gov,35,jcb,Unemployed,Highly Dissatisfied,Morning,5
+945,Cate Gaudin,2012,15:46,8555.296,32,85520.96,5,1 month subscription,10,MAC,Existing,7/23/2015,cgaudinq8@scientificamerican.com,39,jcb,Working Professional,Highly Dissatisfied,Morning,3
+946,Matt Price,2019,20:56,7469.272,127,7342.272,17,Free users subscription,4,Windows,New Customer,5/7/2019,mpriceq9@wired.com,53,jcb,Other,Highly Satisfied,Morning,2
+947,Wilfred Lutman,2018,13:29,9739.079,32,97358.79,23,6 month subscription,7,UNIX,Existing,6/5/2019,wlutmanqa@xinhuanet.com,30,diners-club-enroute,Working Professional,Highly Dissatisfied,Afternoon,2
+948,Sholom Lovegrove,2008,23:38,8846.782,32,88435.82,5,Free users subscription,8,Android,Existing,6/11/2013,slovegroveqb@blinklist.com,28,diners-club-enroute,Home maker,Neutral,Morning,3
+949,Herta Tootin,2014,0:18,8112.33,32,81091.3,34,1 year subscription,4,MAC,Existing,2/26/2019,htootinqc@delicious.com,58,diners-club-enroute,Other,Neutral,Morning,4
+950,Arni Gritskov,2011,18:39,1056.44,32,10532.4,44,1 year subscription,8,MAC,Existing,11/23/2017,agritskovqd@wikimedia.org,39,visa-electron,Working Professional,Satisfied,Morning,3
+951,Christen Battershall,2008,7:51,3290.575,32,32873.75,34,3 month subscription,5,Windows,Existing,6/24/2009,cbattershallqe@wisc.edu,68,jcb,Other,Neutral,Night,2
+952,Alastair Jozefczak,2018,11:58,5708.406,32,57052.06,15,Student Plan subscription,9,UNIX,Existing,11/25/2018,ajozefczakqf@t.co,37,maestro,Other,Neutral,Evening,3
+953,Ambrosi Hanks,2008,6:24,9414.082,32,94108.82,39,3 month subscription,4,MAC,Existing,5/26/2018,ahanksqg@163.com,42,jcb,Home maker,Satisfied,Night,5
+954,Annnora Pietron,2018,22:09,5886.423,32,58832.23,10,Free users subscription,7,UNIX,Existing,10/9/2018,apietronqh@census.gov,33,jcb,Working Professional,Satisfied,Morning,3
+955,Carey Ladlow,2017,8:28,9871.589,32,98683.89,31,6 month subscription,4,Windows,Existing,5/11/2019,cladlowqi@ucoz.ru,64,maestro,Home maker,Highly Dissatisfied,Afternoon,4
+956,Vinson Primmer,2016,8:06,4420.381,32,44171.81,18,6 month subscription,6,Windows,Existing,2/10/2019,vprimmerqj@domainmarket.com,55,jcb,Businessman,Highly Satisfied,Morning,3
+957,Nadine Rodder,2017,6:46,8287.254,32,82840.54,10,Student Plan subscription,8,UNIX,Existing,5/14/2018,nrodderqk@berkeley.edu,17,jcb,Working Professional,Highly Satisfied,Evening,4
+958,Cristiano Clewlowe,2018,0:01,6236.901,32,62337.01,34,1 year subscription,4,MAC,Existing,9/18/2018,cclewloweql@guardian.co.uk,52,mastercard,Student,Highly Dissatisfied,Morning,5
+959,Kennett Adelsberg,2012,8:55,8817.273,32,88140.73,23,1 month subscription,9,MAC,Existing,4/29/2012,kadelsbergqm@yale.edu,58,mastercard,Student,Highly Dissatisfied,Evening,3
+960,Wolfie Ruilton,2018,11:14,7437.325,32,74341.25,10,1 year subscription,7,Android,Existing,6/29/2018,wruiltonqn@adobe.com,24,diners-club-us-ca,Unemployed,Highly Dissatisfied,Evening,4
+961,Bartlett Nockells,2017,15:36,4952.701,32,49495.01,5,Free users subscription,5,UNIX,Existing,3/23/2019,bnockellsqo@hugedomains.com,26,maestro,Businessman,Neutral,Morning,3
+962,Helenelizabeth Dymoke,2018,4:09,9655.393,32,96521.93,10,1 month subscription,6,UNIX,Existing,7/27/2019,hdymokeqp@latimes.com,24,maestro,Home maker,Dissatisfied,Night,3
+963,Abby Goning,2016,17:38,2166.15,32,21629.5,35,Student Plan subscription,6,UNIX,Existing,6/18/2019,agoningqq@google.pl,29,jcb,Businessman,Highly Satisfied,Evening,3
+964,Rickie Wallach,2010,6:34,8529.938,32,85267.38,33,1 year subscription,8,UNIX,Existing,1/25/2010,rwallachqr@1688.com,27,americanexpress,Other,Highly Dissatisfied,Evening,4
+965,Humfrid Donat,2018,6:58,3806.357,32,38031.57,10,Family Plan subscription,1,UNIX,Existing,9/16/2018,hdonatqs@unblog.fr,26,diners-club-enroute,Businessman,Neutral,Night,5
+966,Alain Charlo,2017,2:21,7540.077,32,75368.77,35,6 month subscription,3,Android,Existing,4/15/2018,acharloqt@cbc.ca,16,diners-club-us-ca,Student,Neutral,Afternoon,3
+967,Reidar Kippins,2016,0:36,3634.162,32,36309.62,43,1 month subscription,7,MAC,Existing,5/12/2017,rkippinsqu@nifty.com,36,maestro,Other,Neutral,Afternoon,4
+968,Jeth Jannaway,2018,0:17,4355.892,32,43526.92,34,Student Plan subscription,10,UNIX,Existing,5/6/2018,jjannawayqv@qq.com,57,jcb,Unemployed,Dissatisfied,Evening,5
+969,Lesley Jeune,2008,1:32,8100.2,32,80970,8,6 month subscription,3,Windows,Existing,10/4/2018,ljeuneqw@yellowpages.com,32,jcb,Working Professional,Neutral,Night,5
+970,Shaine O' Scallan,2008,15:25,8005.271,32,80020.71,44,Family Plan subscription,3,Windows,Existing,10/15/2010,soqx@discovery.com,57,diners-club-enroute,Home maker,Neutral,Night,3
+971,Salaidh Seeborne,2019,2:14,702.432,127,575.432,3,Student Plan subscription,10,Windows,New Customer,3/15/2019,sseeborneqy@amazon.com,69,diners-club-carte-blanche,Other,Satisfied,Evening,5
+972,Kris Foister,2019,15:55,8586.664,127,8459.664,42,1 month subscription,3,MAC,New Customer,6/21/2019,kfoisterqz@yale.edu,30,mastercard,Student,Satisfied,Night,2
+973,Georgina Melburg,2019,4:22,5333.278,127,5206.278,42,1 year subscription,1,Windows,New Customer,5/5/2019,gmelburgr0@usatoday.com,63,jcb,Home maker,Highly Dissatisfied,Evening,3
+974,Pru Fieldhouse,2019,8:04,445.232,127,318.232,11,6 month subscription,4,MAC,New Customer,7/3/2019,pfieldhouser1@hhs.gov,15,jcb,Student,Satisfied,Morning,5
+975,Rhianna Jekel,2019,5:11,1847.121,127,1720.121,8,6 month subscription,7,UNIX,New Customer,4/19/2019,rjekelr2@sitemeter.com,62,diners-club-carte-blanche,Working Professional,Highly Dissatisfied,Evening,2
+976,Cate Novelli,2019,0:37,2134.113,127,2007.113,19,1 month subscription,1,UNIX,New Customer,5/8/2019,cnovellir3@ucla.edu,47,mastercard,Home maker,Satisfied,Night,2
+977,Hildegarde Allbut,2019,23:56,3655.362,127,3528.362,41,3 month subscription,3,UNIX,New Customer,2/26/2019,hallbutr4@com.com,55,solo,Unemployed,Highly Dissatisfied,Evening,3
+978,Ferdinande Rose,2019,22:43,3212.085,127,3085.085,10,3 month subscription,3,Android,New Customer,3/5/2019,froser5@geocities.jp,55,jcb,Unemployed,Neutral,Evening,3
+979,Yul Bosquet,2019,0:55,6930.184,127,6803.184,42,6 month subscription,6,Windows,New Customer,4/14/2019,ybosquetr6@admin.ch,47,americanexpress,Student,Satisfied,Night,5
+980,Carrie Ioannidis,2019,14:30,4095.59,127,3968.59,4,1 year subscription,1,MAC,New Customer,5/17/2019,cioannidisr7@github.io,26,mastercard,Student,Highly Dissatisfied,Afternoon,4
+981,Dugald Piwall,2019,15:55,9449.649,127,9322.649,10,Student Plan subscription,8,Android,New Customer,4/28/2019,dpiwallr8@qq.com,25,visa,Home maker,Satisfied,Afternoon,4
+982,Julianna Haistwell,2019,4:24,6522.705,127,6395.705,42,3 month subscription,3,MAC,New Customer,3/12/2019,jhaistwellr9@earthlink.net,32,jcb,Businessman,Highly Satisfied,Morning,5
+983,Shayna Giovannacc@i,2019,5:27,9973.92,127,9846.92,34,Student Plan subscription,1,UNIX,New Customer,2/20/2019,sgiovannaccira@twitter.com,22,jcb,Student,Dissatisfied,Afternoon,2
+984,Ferd Bowdon,2019,9:52,3668.342,127,3541.342,10,1 year subscription,5,MAC,New Customer,6/18/2019,fbowdonrb@usatoday.com,64,jcb,Unemployed,Satisfied,Night,3
+985,Micky Louedey,2019,10:44,5458.651,127,5331.651,35,6 month subscription,9,Windows,New Customer,7/3/2019,mlouedeyrc@google.pl,24,switch,Other,Neutral,Morning,4
+986,Fernande Dean,2019,15:21,522.879,127,395.879,33,Free users subscription,1,UNIX,New Customer,4/13/2019,fdeanrd@tamu.edu,42,maestro,Working Professional,Highly Satisfied,Night,5
+987,Bud McMullen,2019,11:50,6900.742,127,6773.742,22,Free users subscription,10,Windows,New Customer,3/25/2019,bmcmullenre@bbc.co.uk,39,jcb,Other,Highly Satisfied,Morning,2
+988,Jonah Yude,2019,18:25,5676.5,127,5549.5,42,6 month subscription,2,UNIX,New Customer,1/18/2019,jyuderf@fda.gov,34,visa-electron,Unemployed,Dissatisfied,Evening,5
+989,Terrill Eyres,2019,3:48,6573.638,127,6446.638,11,6 month subscription,4,MAC,New Customer,1/4/2019,teyresrg@google.co.jp,49,jcb,Student,Highly Satisfied,Evening,3
+990,Coleman Loughran,2019,13:54,5999.221,127,5872.221,22,Student Plan subscription,3,UNIX,New Customer,2/5/2019,cloughranrh@walmart.com,60,maestro,Home maker,Highly Dissatisfied,Afternoon,5
+991,Sky Rolfe,2019,23:45,876.369,127,749.369,24,1 month subscription,8,MAC,New Customer,4/23/2019,srolferi@1688.com,42,americanexpress,Home maker,Highly Satisfied,Evening,4
+992,Ninette Barkley,2019,10:25,9353.214,127,9226.214,7,Student Plan subscription,6,Android,New Customer,4/14/2019,nbarkleyrj@ustream.tv,16,jcb,Home maker,Highly Satisfied,Morning,3
+993,Dede Crockford,2019,15:23,466.059,127,339.059,42,6 month subscription,3,Windows,New Customer,4/10/2019,dcrockfordrk@wikimedia.org,39,americanexpress,Unemployed,Highly Dissatisfied,Evening,4
+994,Othello Burkitt,2019,17:08,4357.723,127,4230.723,42,Family Plan subscription,3,MAC,New Customer,5/6/2019,oburkittrl@irs.gov,30,americanexpress,Home maker,Neutral,Morning,3
+995,Casie Shewery,2019,12:58,3702.232,127,3575.232,8,Free users subscription,9,MAC,New Customer,6/29/2019,csheweryrm@last.fm,35,jcb,Unemployed,Dissatisfied,Afternoon,4
+996,Randa Erdes,2019,15:19,2470.814,127,2343.814,34,1 month subscription,1,Windows,New Customer,6/18/2019,rerdesrn@issuu.com,27,jcb,Other,Highly Dissatisfied,Afternoon,4
+997,Hillery Coling,2019,19:08,2589.858,127,2462.858,42,3 month subscription,2,Windows,New Customer,1/3/2019,hcolingro@jigsy.com,48,jcb,Working Professional,Neutral,Evening,2
+998,Federico Bangs,2019,9:49,4684.398,127,4557.398,23,1 month subscription,9,UNIX,New Customer,7/26/2019,fbangsrp@intel.com,60,diners-club-carte-blanche,Student,Neutral,Afternoon,4
+999,Davin Lauderdale,2019,17:29,6518.382,127,6391.382,39,Student Plan subscription,4,UNIX,New Customer,7/13/2019,dlauderdalerq@forbes.com,30,maestro,Unemployed,Highly Satisfied,Afternoon,3
+1000,Darin Olner,2019,6:57,5093.509,127,4966.509,2,1 month subscription,7,MAC,New Customer,3/17/2019,dolnerrr@opensource.org,52,switch,Student,Dissatisfied,Morning,3
